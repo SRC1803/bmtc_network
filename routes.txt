@@ -1,0 +1,2954 @@
+route_long_name,route_short_name,agency_id,route_type,route_id
+5th Phase Yelahanka New Town ⇔ Central Silk Board,500-DY,1,3,ai
+5th Phase Yelahanka New Town ⇔ Depot-10 Gate,500-Y YSTF-D10G,1,3,11c
+5th Phase Yelahanka New Town ⇔ Electronic City,356-J,1,3,to
+5th Phase Yelahanka New Town ⇔ Hosakote Bus Stand (Old),280-F YSTF-HSK,1,3,n3
+5th Phase Yelahanka New Town ⇔ Hosakote Bus Stand (Old),289-LA YSTF-HSK,1,3,12l
+5th Phase Yelahanka New Town ⇔ KR Pura Govt Hospital,507-D,1,3,cj
+5th Phase Yelahanka New Town ⇔ Kadugodi Bus Station,500-Y,1,3,16s
+5th Phase Yelahanka New Town ⇔ Shivajinagara Bus Station,402-B YSTF-VSD-SBS,1,3,ct
+8th Mile Dasarahalli ⇔ 8th Mile Dasarahalli,BC-7C,1,3,hs
+8th Mile Dasarahalli ⇔ 8th Mile Dasarahalli,BC-7CA,1,3,ia
+8th Mile Dasarahalli ⇔ Byadarahalli,BC-7B,1,3,17j
+8th Mile Dasarahalli ⇔ Gangondanahalli,BC-7E,1,3,gf
+8th Mile Dasarahalli ⇔ Herohalli Cross,BC-7H,1,3,1ja
+8th Mile Dasarahalli ⇔ Kachohalli Gate,BC-7K,1,3,ad
+8th Mile Dasarahalli ⇔ Suvarna Nagara,MF-25A,1,3,1rn
+8th Mile Dasarahalli ⇔ Thippennahalli,MF-25,1,3,1k
+9th Block Jayanagara (40th Cross) ⇔ 9th Block Jayanagara (22nd Main),MF-19,1,3,220
+9th Block Jayanagara (40th Cross) ⇔ Panchasheela Nagara,237-J,1,3,2q
+AECS Layout Singasandra ⇔ KR Market (Kalasipalya),347-K,1,3,i6
+AECS Layout Singasandra ⇔ Kempegowda Bus Station,347-N,1,3,1ty
+Abbigere ⇔ Peenya 2nd stage,401-AK ABG-PSS,1,3,20o
+Adarshanagara Water Tank ⇔ Kempegowda Bus Station,258-N ASDW-VSD-KBS,1,3,1si
+Agara Junction ⇔ Agara Junction,HSR FDR-1,1,3,4u
+Agara Junction ⇔ Agara Junction,HSR FDR-1A,1,3,26t
+Agrahara Layout ⇔ KR Market,291-JA,1,3,1hf
+Agrahara Layout ⇔ Kempegowda Bus Station,280-A AGLO-KBS,1,3,1jd
+Aluru BDA 2nd Stage ⇔ Kempegowda Bus Station,255-AE ALRB2-VSD-KBS,1,3,7u
+Ambedkar Institute of Technology ⇔ Deepanjalinagara,NBVB-DPJN,1,3,3g
+Anekal ⇔ Attibele Bus Stand,399-F ANK-ATB,1,3,7c
+Anekal ⇔ Bannerughatta Circle,365-Z,1,3,lk
+Anekal ⇔ Chikka Thirupathi,399-C,1,3,t7
+Anekal ⇔ Chinnaiahnapalya,366-Z ANK-CNP,1,3,1cj
+Anekal ⇔ Depot-38 Gate,356 ANK-D38G,1,3,ut
+Anekal ⇔ Dodda Nagamangala Tirumala Bekary,356-Z ANK-DNMTB,1,3,27d
+Anekal ⇔ Jigani APC Circle,356-M ANK-JGNAPC,1,3,dw
+Anekal ⇔ Menashiganahalli,356-Z ANK-MSH,1,3,1lv
+Anekal ⇔ Sarjapura,3F-1,1,3,4w
+Anekal ⇔ Sarjapura,3F-5,1,3,n8
+Anjanapura 10 Block ⇔ Electronic City,378-E D44G-ELC,1,3,1uc
+Anjanapura 10th Block ⇔ Gottigehalli,214-G D44-SMH-GTH,1,3,23m
+Anjanapura 10th Block ⇔ Jayanagara Metro Station Arrival,215-CA D44-JNMS,1,3,ok
+Anjanapura 10th Block ⇔ Shanthinagara Bus Station,CALLBUS-02 ANP-SNBS,1,3,1l8
+Annapoorneshwarinagara ⇔ GKVK,502-E ANPN-GKVK,1,3,1g5
+Annapoorneshwarinagara ⇔ Kempegowda Bus Station,MBS-12 ANP-VSD-KBS,1,3,q
+Annapoorneshwarinagara ⇔ Marathahalli Bridge,MBS-12,1,3,cy
+Anugraha Badavane (Bilekahalli) ⇔ Kempegowda Bus Station,25-B,1,3,1cg
+Arishinakunte ⇔ Thippennahalli,263-A ASK-TPH,1,3,b5
+Army Public School Kamaraja Road ⇔ KR Market,315 ARMY-KMT,1,3,fe
+Army Public School Kamaraja Road ⇔ Kannuru,296-Q ARMY-KNR,1,3,1xk
+Ashoka Pillar ⇔ Pramod Layout,43-H ASP-PLO,1,3,1uy
+Attibele Bus Stand ⇔ Depot-27 Gate,399-F ATB-D27G,1,3,m9
+Attibele Bus Stand ⇔ Depot-41 Gate,328-H ATB-D41G,1,3,27v
+Attibele Bus Stand ⇔ Devanagondi,606,1,3,19w
+Attibele Bus Stand ⇔ Kadugodi Bus Station,328-HK,1,3,dx
+Attibele Bus Stand ⇔ Kaggalipura,398-B ATB-KGP,1,3,21x
+Attibele Bus Stand ⇔ Kengeri,378 ATB-KGR,1,3,a6
+Attibele Bus Stand ⇔ Sapthagiri Vidya Mandir Opp Carmelaram Station,328-H ATB-SVMS,1,3,1fx
+Atturu ⇔ Puttenahalli,ATR-ANTPR-PTH,1,3,1rg
+BCC Layout ⇔ Kaval Byrasandra,176-E,1,3,1nk
+BCC Layout ⇔ Shivajinagara Bus Station,63,1,3,21p
+BDA Complex HSR Layout ⇔ Attibele Bus Stand,KBS-3A HSRBDA-ATB,1,3,zu
+BDA Complex HSR Layout ⇔ Electronic City Wipro Main Gate,356-CW,1,3,1xc
+BDA Complex HSR Layout ⇔ Electronic City Wipro Main Gate,356-CW UFLY,1,3,lt
+BDA Complex HSR Layout ⇔ Kempegowda International Airport,KIA-7A,1,3,z6
+BDA Complex HSR Layout ⇔ Wonderla Amusement Park,V-226HSR,1,3,kc
+BEL Circle ⇔ BEML Layout 5th stage,401-RC,1,3,1wa
+BEL Circle ⇔ Central Silk Board,V-500BC,1,3,1v2
+BEL Circle ⇔ KR Pura Railway Station,500-QB,1,3,l0
+BEL Circle ⇔ Kadugodi Bus Station,V-500QK,1,3,1om
+BEL Factory ⇔ Central Silk Board,500-D BELF-CSB,1,3,24k
+BEL Factory ⇔ Doddaballapura Bus Stand,285 BELF-HBLB-DBP,1,3,1ek
+BEML Gate ⇔ Banasawadi,303 BEMLG-BSW,1,3,8u
+BEML Gate ⇔ Beguru,BEML-BGR,1,3,262
+BEML Gate ⇔ Central Silk Board,500 BEML-MRTB-CSB,1,3,1h4
+BEML Gate ⇔ Electronic City,201-G BEMLG-ELC,1,3,1do
+BEML Gate ⇔ Summanahalli,314-H MLP-SMH,1,3,ib
+BEML Layout 5th stage ⇔ Attibele Bus Stand,600-F BEML5-ATB,1,3,wq
+BEML Layout 5th stage ⇔ Avarehalli,227-W BEML5-AVH,1,3,1ah
+BEML Layout 5th stage ⇔ BEML Gate,BEML5-BEMLG,1,3,1gw
+BEML Layout 5th stage ⇔ CK Thandya,227-T BEML5-CKT,1,3,z9
+BEML Layout 5th stage ⇔ Chikka Banavara,248 BEML5-CKB,1,3,1sc
+BEML Layout 5th stage ⇔ Darshan Farm,225-CC BEML5-DRF,1,3,1p8
+BEML Layout 5th stage ⇔ Electronic City,378 BEML5-ELC,1,3,xl
+BEML Layout 5th stage ⇔ HAL Main Gate,335 BEML5-HAL,1,3,95
+BEML Layout 5th stage ⇔ Hebbala Bridge,501-NH BEML5-HBLB,1,3,2d
+BEML Layout 5th stage ⇔ Jnanakshi Layout,225-C BEML5-JNKLO,1,3,vi
+BEML Layout 5th stage ⇔ Jnanakshi Vidyaniketan School,225-C BEML5-JNSVS,1,3,jt
+BEML Layout 5th stage ⇔ Kadugodi Bus Station,500-CA BEML5-KDG,1,3,w5
+BEML Layout 5th stage ⇔ Kempegowda Bus Station,210-N BEML5TS-KBS,1,3,1ij
+BEML Layout 5th stage ⇔ Kempegowda Bus Station,225-C FLY,1,3,51
+BEML Layout 5th stage ⇔ Kempegowda International Airport,KIA-17,1,3,23y
+BEML Layout 5th stage ⇔ Kumaraswamy Layout West,BEML5-KSLOW,1,3,2n
+BEML Layout 5th stage ⇔ Manganahalli,234 BEML5-MGH,1,3,1uh
+BEML Layout 5th stage ⇔ Mayasandra,227-A BEML5-MYS,1,3,1fq
+BEML Layout 5th stage ⇔ Shanthinagara Bus Station,G-6 BEML5-SNBS,1,3,l5
+BEML Layout 5th stage ⇔ Yelahanka Old Town,401-R,1,3,gt
+BMSIT College Campous Yelahanka ⇔ Shivajinagara Bus Station,285 BMSITY-MKC-SBS,1,3,21y
+BMSIT College Campous Yelahanka ⇔ Yelahanka Old Town,285 BMSITY-YHKOT,1,3,1ae
+Bagalur ⇔ Jalahalli Cross,401-BJ,1,3,sb
+Bagalur ⇔ KR Pura Govt Hospital,507-G,1,3,za
+Bagalur ⇔ Pottery Town,G-11 BGL-PTW,1,3,1zs
+Bagmane Tech Park (Graphite India) ⇔ Chowdeshwarinagara JP Park,500-Q BTPG-CJP,1,3,42
+Bagmane Tech Park (Graphite India) ⇔ Kempegowda Bus Station,305 BTPG-KBS,1,3,gh
+Bagmane Tech Park ⇔ Swamy Vivekananda Metro Station,BTP-SVM,1,3,jf
+Banasawadi ⇔ Hosakote Bus Stand (Old),301-D BSWD-HSK,1,3,185
+Banashankari Bus Station ⇔ Anekal,600-CA,1,3,26m
+Banashankari Bus Station ⇔ Anjanapura,MF-215BB,1,3,1o4
+Banashankari Bus Station ⇔ Attibele Bus Stand,600-F,1,3,1pz
+Banashankari Bus Station ⇔ Attibele Bus Stand,600-F FLYOVER,1,3,ec
+Banashankari Bus Station ⇔ BEL Circle,500-BC,1,3,gr
+Banashankari Bus Station ⇔ BEL Factory,500-A BSK-BELF,1,3,1bg
+Banashankari Bus Station ⇔ Banashankari Bus Station,MF-510,1,3,e0
+Banashankari Bus Station ⇔ Banashankari Bus Station,MF-510A,1,3,14s
+Banashankari Bus Station ⇔ Bhuvaneshwari Nagara,45-B BSK-BVN,1,3,1ar
+Banashankari Bus Station ⇔ Bidadi,211-NA,1,3,124
+Banashankari Bus Station ⇔ Bidadi,375-G,1,3,10h
+Banashankari Bus Station ⇔ Binnamangala,201-G BSK-BNM,1,3,9e
+Banashankari Bus Station ⇔ Bommasandra Canara Bank,600-F BSK-BOMC,1,3,11k
+Banashankari Bus Station ⇔ Bristol Quarters,201-RB BSKTTMC-BTLQT,1,3,zw
+Banashankari Bus Station ⇔ Chandapura,378-P,1,3,236
+Banashankari Bus Station ⇔ Chandapura,600-C,1,3,wn
+Banashankari Bus Station ⇔ Channammanakere Achukattu,45-F BSK-CKA,1,3,268
+Banashankari Bus Station ⇔ Chikka Thirupathi,500-CF,1,3,17u
+Banashankari Bus Station ⇔ Concorde Napa Valley,MF-211AC BSK-CNV,1,3,1wf
+Banashankari Bus Station ⇔ Depot-10 Gate,500-A BSK-D10G,1,3,n6
+Banashankari Bus Station ⇔ Depot-32 Suryacity,600-F BSK-D32,1,3,1p9
+Banashankari Bus Station ⇔ Devanagondi,506,1,3,1c5
+Banashankari Bus Station ⇔ Dodda Maralawadi,213-WA,1,3,16v
+Banashankari Bus Station ⇔ Dr BR Ambedkar Bus Terminal (Domlur),201 BSK-DML,1,3,hk
+Banashankari Bus Station ⇔ Electronic City,378-E,1,3,11h
+Banashankari Bus Station ⇔ Electronic City East Phase-II,600-QA,1,3,162
+Banashankari Bus Station ⇔ Electronic City Wipro Main Gate,600-CF,1,3,1so
+Banashankari Bus Station ⇔ Electronic City Wipro Main Gate,600-CF UFLY,1,3,tz
+Banashankari Bus Station ⇔ Electronic City Wipro Main Gate,600-CK,1,3,1e9
+Banashankari Bus Station ⇔ Girinagara Extension,36-B BSK-GNE,1,3,yt
+Banashankari Bus Station ⇔ Gundanjaneya Swamy Temple Ravagodlu,213-B,1,3,bx
+Banashankari Bus Station ⇔ Guttepalya,214-DA,1,3,1ul
+Banashankari Bus Station ⇔ HAL ARDC,411-A BSK-HAL ARDC,1,3,ou
+Banashankari Bus Station ⇔ HAL Main Gate,201 BSK-HAL,1,3,247
+Banashankari Bus Station ⇔ HAL Main Gate,411-A BSK-HAL,1,3,248
+Banashankari Bus Station ⇔ Harohalli,213-V,1,3,49
+Banashankari Bus Station ⇔ Hebbala Bridge,500-A,1,3,1u7
+Banashankari Bus Station ⇔ Hebbala Bridge,501-A,1,3,ft
+Banashankari Bus Station ⇔ Hebbala Bridge,501-BH,1,3,t8
+Banashankari Bus Station ⇔ Hebbala Bridge,V-500A,1,3,1co
+Banashankari Bus Station ⇔ Hoskerehalli Kerekodi,43-C BSK-MNKK,1,3,ae
+Banashankari Bus Station ⇔ Huskur,600-CH,1,3,1yf
+Banashankari Bus Station ⇔ ITPL,500-CA,1,3,1yj
+Banashankari Bus Station ⇔ ITPL,V-500CA,1,3,qr
+Banashankari Bus Station ⇔ Jalahalli Cross,MF-410K,1,3,1te
+Banashankari Bus Station ⇔ Jambu Savari Dinne,215-H BSK-JSD,1,3,1xb
+Banashankari Bus Station ⇔ Jeevanbheema Nagara,201-G,1,3,202
+Banashankari Bus Station ⇔ Jigani APC Circle,600-FC,1,3,26o
+Banashankari Bus Station ⇔ Jnanakshi Layout,375-D BSK-JVS,1,3,h
+Banashankari Bus Station ⇔ KR Pura Govt Hospital,500-L BSK-TNF-KRPGH,1,3,py
+Banashankari Bus Station ⇔ KR Pura Govt Hospital,MF-500L BSK-KRPGH,1,3,292
+Banashankari Bus Station ⇔ KR Pura Metro Station,V-MF1C BSK-KRPMS,1,3,1y
+Banashankari Bus Station ⇔ Kadugodi Bus Station,500-CK,1,3,21h
+Banashankari Bus Station ⇔ Kadugodi Bus Station,V-500CK,1,3,2m
+Banashankari Bus Station ⇔ Kaggalipura,MF-211AC,1,3,1en
+Banashankari Bus Station ⇔ Kalyananagara 302,MBS-8,1,3,1m2
+Banashankari Bus Station ⇔ Kempegowda International Airport,KIA-5,1,3,2z
+Banashankari Bus Station ⇔ Kempegowda Swimming Pool,201 BSK-KSP,1,3,29r
+Banashankari Bus Station ⇔ Kendriya Vidyalaya ASC Center,201 BSK-KVASC,1,3,wk
+Banashankari Bus Station ⇔ Kengeri Bus Station,212-M,1,3,7e
+Banashankari Bus Station ⇔ Kuvempunagara ( BTM Layout),MF-21,1,3,of
+Banashankari Bus Station ⇔ Mallasandra Poorvankara Apartment,MF-211AA,1,3,1mf
+Banashankari Bus Station ⇔ NR Colony,BSK-NRC,1,3,1xn
+Banashankari Bus Station ⇔ Oxford Medical College Yadavanahalli,600-F BSK-OMC,1,3,8e
+Banashankari Bus Station ⇔ Ramasandra,367 BSK-RSD,1,3,3x
+Banashankari Bus Station ⇔ Somanahalli,211-BA,1,3,ah
+Banashankari Bus Station ⇔ Sri Sai Packaging Company,410-F BSK-SSPC,1,3,l8
+Banashankari Bus Station ⇔ Thalagattapura,MF-211AD,1,3,14l
+Banashankari Bus Station ⇔ Tin Factory,MF-500L,1,3,293
+Banashankari Bus Station ⇔ Yeshawanthapura Bus Station,401-MN,1,3,1mj
+Banashankari Bus Station ⇔ Yeshawanthapura Bus Station,MF-410FA,1,3,6q
+Banashankari ⇔ JP Nagara 7th Phase (Brigade Gardenia),BSK-JPN6-JPN7TH,1,3,t2
+Bandi Reddy Circle ⇔ Peenya 2nd Stage,252-L,1,3,mh
+Bangarappa Nagara ⇔ BEML Layout 5th stage,225-G BGPN-BEML5,1,3,1wk
+Bangarappa Nagara ⇔ Kempegowda Bus Station,225-G KMT FLY,1,3,1uj
+Bannerughatta Circle ⇔ M Medahalli,365-Z BGT-MMDH,1,3,1r
+Bannikuppe ⇔ KR Market (Kalasipalya),226-C BNKP-KMT,1,3,1io
+Bannikuppe ⇔ Kempegowda Bus Station,231-B BNKP-KBS,1,3,1bt
+Bannimangala ⇔ Kempegowda Bus Station,285-MG KBS-BMG,1,3,1ni
+Basapura Electronic City ⇔ Kempegowda Bus Station,347-H,1,3,fj
+Basavanagara Kengeri ⇔ Dodda Basti,235-K BSN-DBT,1,3,1sk
+Basaveshwaranagara New Bus Stand ⇔ CPWD Quarters HSR Layout,K-3,1,3,rj
+Basaveshwaranagara New Bus Stand ⇔ Kempegowda Bus Station,88-B BSN-VSD-KBS,1,3,1w0
+Basaveshwaranagara New Bus Stand ⇔ Yeshawanthapura Bus Station,401-BC BSN-YTTMC,1,3,266
+Bayyappanahalli Metro Station  Back Gate ⇔ Hoysala Nagara,MF-7 HYN-BMS,1,3,1od
+Bayyappanahalli Metro Station ⇔ Banashankari Bus Station,201-BB,1,3,1vf
+Bayyappanahalli Metro Station ⇔ Electronic City,MF-500EB BYPMS-ELC,1,3,73
+Bayyappanahalli Metro Station ⇔ Electronic City Wipro Main Gate,MF-500EB,1,3,qv
+Beguru ⇔ Electronic City,362-C BGR-ELC,1,3,1vo
+Bengaluru Central Jail ⇔ Shivajinagara Bus Station,347-G,1,3,22k
+Bengaluru University Gate ⇔ Ramasandra,MF-39,1,3,8y
+Bengaluru University Gate ⇔ Udaya Badavane,MF-39 BUCG-UDB,1,3,198
+Bengaluru University Gate ⇔ Ullala Satelite Town,MF-40,1,3,1vd
+Bettahalli ⇔ Depot-35 Gate,245-D D35G-BTH,1,3,in
+Bharath Nagara 2nd Stage ⇔ Cauvery Bhavana,241-D BRTN2-MRTG-CVB,1,3,28t
+Bharath Nagara 2nd Stage ⇔ Vidhana Soudha Karnataka High Court,241-D BRTN-VSD,1,3,p1
+Bhattarahalli Bank Of India ⇔ Central Silk Board,500-D BSBI-CSB,1,3,20l
+Bhoopasandra ⇔ Yelahanka Old Town,278-A,1,3,23e
+Bidadi ⇔ Guddadahalli Dinne,BDD-GDHD,1,3,1p1
+Bidadi ⇔ Shanthinagara Bus Station,226-M BDD-SNBS,1,3,j9
+Bidadi ⇔ Vidhana Soudha,226-N VSD,1,3,pg
+Bilavaradahalli ⇔ Depot-34 Gate,365-D BVH-D34,1,3,f0
+Bishop Coton Girls High School ⇔ 5th Phase Yelahanka New Town,290-EA BCGHS-YSTF,1,3,1ls
+Bishop Coton Girls High School ⇔ Kempegowda Bus Station,KBS-BCGHS,1,3,1a4
+Bommanahalli ⇔ Kadugodi Bus Station,V-500FA,1,3,kq
+Brigade Meadows Kanakapura Road ⇔ Kempegowda International Airport,KIA-5D,1,3,1ib
+Brigade Road ⇔ Bannerughatta National Park,G-4,1,3,2l
+Brigade Road ⇔ Electronic City Wipro Main Gate,G-3,1,3,xz
+Brigade Road ⇔ Electronic City Wipro Main Gate,V-G-3,1,3,1y7
+Brigade Road ⇔ Jigani APC Circle,G-4 BGR-APC,1,3,1ua
+Brigade Road ⇔ Kendriya Vidyalaya ASC Center,BRGD-KVASC,1,3,1qc
+Brundavana Nagara ⇔ Kempegowda Bus Station,49 BDVN-KBS,1,3,aj
+Brundavana Nagara ⇔ Shivajinagara Bus Station,50 BNR-SBS Flyover,1,3,106
+Budigere Cross ⇔ Varthur Kodi,328-HF,1,3,ed
+Byadarahalli ⇔ Peenya 2nd stage,BC-7B BDH-JHC-PSS,1,3,1xs
+Byadarahalli ⇔ Peenya Satellite Bus Station (Basaveshwara),BC-7B BDH-PSBS,1,3,1r6
+Byatarayanapura ⇔ Depot-10 Gate,290G BTP-D10,1,3,19x
+Byranayakanahalli ⇔ Mantanakurchi,258-SB BNH-MNTK,1,3,ao
+Byrathi Bande ⇔ Anagalipura,295-B BYB-D48G-AGP,1,3,xd
+Byrathi Bande ⇔ Kadugodi Bus Station,500-QK BBD-KDG,1,3,wx
+CBI ⇔ Kempegowda Bus Station,114-C CBI-RTNPS-KBS,1,3,1dx
+Carmelaram Railway Station ⇔ St Johns Hospital,342-H CMRS-STJN,1,3,1o9
+Cauvery Bhavana ⇔ 5th Phase Yelahanka New Town,402-D CVB-YSTF,1,3,w
+Cauvery Bhavana ⇔ Bhavani Nagara 2nd Stage,243-J CVB-BVN,1,3,1g0
+Cauvery Bhavana ⇔ Depot-24 Gate,CVB-RMC-BMS-RMN-D24G,1,3,1u4
+Cauvery Bhavana ⇔ Depot-35 Gate,242-B D35G-CVB,1,3,xx
+Cauvery Bhavana ⇔ Dodda Dunnasandra Cross,304-T CVB-DDC,1,3,1mq
+Cauvery Bhavana ⇔ Doddaballapura Bus Stand,285-MA,1,3,15y
+Cauvery Bhavana ⇔ Judicial Layout YHK,284-C CVB-JDLO,1,3,1kt
+Cauvery Nagara ⇔ Jeevanahalli,169,1,3,1ii
+Cauvery Nagara ⇔ Summanahalli,89-C SMH-CVN,1,3,205
+Central Silk Board ⇔ BMSIT College Campous Yelahanka,500-D CSB-BMSIT,1,3,1vj
+Central Silk Board ⇔ Beguru,293-BC,1,3,1ft
+Central Silk Board ⇔ Chowdeshwarinagara JP Park,500-QD,1,3,1id
+Central Silk Board ⇔ Gollahalli Electronic City,346-M CSB-GLH,1,3,f5
+Central Silk Board ⇔ HAL New Public School,411-A CSB-MVW-HALNPS,1,3,r1
+Central Silk Board ⇔ Hebbala Bridge,V-500D,1,3,1pf
+Central Silk Board ⇔ Jeevanbheema Nagara,201-Q,1,3,22h
+Central Silk Board ⇔ KR Pura Govt Hospital,500-C,1,3,1sv
+Central Silk Board ⇔ KR Pura Metro Station,V-MF1C,1,3,1iw
+Central Silk Board ⇔ Kadugodi Bus Station,500-F,1,3,1jq
+Central Silk Board ⇔ Kadugodi Bus Station,500-FB,1,3,6b
+Central Silk Board ⇔ Kadugodi Bus Station,V-500F,1,3,1am
+Central Silk Board ⇔ Sir M Vishweshwaraiah Railway Station,MF-5,1,3,td
+Central Silk Board ⇔ Swamy Vivekananda Metro Station/Isolation Hospital,MF-6,1,3,234
+Central Silk Board ⇔ Swamy Vivekananda Metro Station/Isolation Hospital,V-MF6,1,3,19b
+Central Silk Board ⇔ Tin Factory,500-CT,1,3,121
+Central Silk Board ⇔ Yeshawanthapura Bus Station,500-B,1,3,26a
+Centre For Nano And Soft Matter Sciences ⇔ Vidyaranyapura,256 CNS SVN-VRP,1,3,ro
+Chandapura ⇔ Anekal,356-Z,1,3,6v
+Chandapura ⇔ Kadugodi Bus Station,399-A CPR-KDG,1,3,1tm
+Chandapura ⇔ Kaggalipura,398-B,1,3,mv
+Chandapura ⇔ Kempegowda International Airport,KIA-8C,1,3,qd
+Chandapura ⇔ Koramangala Bus Station,360 CPR-KRM,1,3,fh
+Chandapura ⇔ Marathahalli Bridge,411-D,1,3,sv
+Chandapura ⇔ Rachammanahalli,356-M CPR-ANK-RMH,1,3,32
+Chandapura ⇔ Sarjapura,CPR-1,1,3,203
+Chandra Layout Circle ⇔ Basaveshwaranagara New Bus Stand,CLO-BSN,1,3,tq
+Chandra Layout Circle ⇔ Ramasandra,MF-39 CLO-RMS,1,3,hp
+Chandra Layout ⇔ Ambedkar Institute of Technology,CLO-AIT,1,3,10b
+Chandra Layout ⇔ Bande Maramma Bus Station,CLO-BMBS,1,3,hg
+Chandra Layout ⇔ Dodda Basti,223-A CLO-DBT,1,3,1us
+Chandra Layout ⇔ GKW Layout,CLO-GKWLO,1,3,19n
+Chandra Layout ⇔ Gangondanahalli Masjid,CLO-GDHL,1,3,1ud
+Chandra Layout ⇔ KR Market (Kalasipalya),234-A CLO-KMT,1,3,pm
+Chandra Layout ⇔ Kaval Byrasandra,176 CLO-KVB,1,3,1n3
+Chandra Layout ⇔ Kengeri Bus Station,401-K CLO-KGR,1,3,28i
+Chandra Layout ⇔ Kottigepalya,CLO-NBC-KTP,1,3,1nc
+Chandra Layout ⇔ Kuvempunagara Bus station (BTM Layout),60-E CLO-BTM,1,3,1qv
+Chandra Layout ⇔ Malleshwara Bus Stand,75-B CLO-MBS,1,3,1kw
+Chandra Layout ⇔ Manorayanapalya,176-CA,1,3,1ip
+Chandra Layout ⇔ Marenahalli (Marenahalli Metro Station),60-A CLO-MRNH,1,3,t1
+Chandra Layout ⇔ Muddinapalya Junction,238-U CLO-MDPC,1,3,1gf
+Chandra Layout ⇔ Muddinapalya Junction,238-V CLO-MDPC,1,3,151
+Chandra Layout ⇔ RK Hegde Nagara,TR-4A CLO-RKHN,1,3,133
+Chandra Layout ⇔ Ramasandra,235-K CLO-RMS,1,3,1el
+Chandra Layout ⇔ Shakthi Garden,CLO-SKTG,1,3,1jz
+Chandra Layout ⇔ Shankarnagh Bus Stand,CLO-SNB,1,3,1ww
+Chandra Layout ⇔ Srigandhada Kaval,238-SA CLO-SGK,1,3,bt
+Chandra Layout ⇔ Yelahanka Old Town,401-E,1,3,22l
+Chandra Layout ⇔ Yelahanka Old Town,401-K CLO-YHKOT,1,3,1ep
+Chandrappa Circle ⇔ Kempegowda Bus Station,227-RC CDPC-KBS-KMT,1,3,qc
+Chikka Banavara ⇔ Bagalur,401-AK,1,3,tn
+Chikka Banavara ⇔ Electronic City Wipro Main Gate,NICE-7A,1,3,1iu
+Chikka Banavara ⇔ KR Pura Railway Station,507-A,1,3,os
+Chikka Banavara ⇔ Summanahalli,BC-8,1,3,2a1
+Chikka Beguru ⇔ KR Market (Kalasipalya),347-C KMT-CKBR,1,3,1px
+Chikka Beguru ⇔ Kempegowda Bus Station,347-C,1,3,5
+Chikkallasandra ⇔ Hebbala Bridge,500-AD,1,3,mu
+Chikkallasandra ⇔ Shanthinagara Bus Station,Callbus-3,1,3,24j
+Chikkegowdanapalya ⇔ Kempegowda Bus Station,225-AB KBS-KMT-CGP,1,3,11j
+Choodasandra ⇔ KR Market (Kalasipalya),341-B,1,3,1y5
+Choodasandra ⇔ Kempegowda Bus Station,341-B KBS-CSR,1,3,gj
+Christal House Learning School ⇔ Kaval Byrasandra,290 CHLS-HBL-KVB,1,3,191
+Cubbon Park Metro Station ⇔ Cubbon Park Metro Station,MF-8,1,3,fm
+Cubbon Park Metro Station ⇔ Kaval Byrasandra,111 CMS-KBR,1,3,20f
+Cubbon Park Metro Station ⇔ Kaval Byrasandra,112 CMS-KBR,1,3,1jg
+DEPOT-19 Gate ⇔ Neeladri Nagar Circle,D19G-NLNC,1,3,1yz
+Dasanapura ⇔ Alurupalya,257-E DSP-ALR,1,3,s
+Dasanapura ⇔ HAL Main Gate,258 DSP-KBS-HAL,1,3,l4
+Dasanapura ⇔ Kadabagere Cross,BC-7A DSP-KDC,1,3,4p
+Dasanapura ⇔ Kasaghattapura,254-A DSP-KGT,1,3,d7
+Dasanapura ⇔ Kempapura,254-D DSP-KMBRH-KMP,1,3,25c
+Dasanapura ⇔ Mattahalli,255 MTH-DSP,1,3,z
+Dasanapura ⇔ Pillahalli,255-C DSP-PLH,1,3,30
+Deepanjalinagara ⇔ 1st Stage 3rd Block Nagarabhavi,238-D DPJN-NBV1S,1,3,77
+Deepanjalinagara ⇔ BDA Complex Nagarabhavi,235-A DJPN-NBDA,1,3,1tw
+Deepanjalinagara ⇔ Bande Maramma Bus Station,237-C DPJN-BMBS,1,3,oc
+Deepanjalinagara ⇔ Girinagara Extension,DPJN-GNE,1,3,11s
+Deepanjalinagara ⇔ Hampinagara RPC Layout,DPJN-RPCLO,1,3,11i
+Deepanjalinagara ⇔ Hebbala Bridge,501-NH DPJN-HBLB,1,3,27b
+Deepanjalinagara ⇔ Jagajeevanram Nagara,DPJN-JJN,1,3,1i4
+Deepanjalinagara ⇔ Kempegowda Bus Station,10-J DPJN-NDH-KBS,1,3,23s
+Deepanjalinagara ⇔ Malleshwara Bus Stand,75 DPJN-MBS,1,3,17v
+Deepanjalinagara ⇔ Nagavara,TR-4 DPJN-NGV,1,3,kl
+Deepanjalinagara ⇔ Nrupathunganagara Chandana Hospital,DPJN-NTN,1,3,1ix
+Deepanjalinagara ⇔ Shivajinagara Bus Station,63-C DPJN-SBS,1,3,289
+Deepanjalinagara ⇔ Yeshawanthapura Bus Station,410-FA DPJN-YBS,1,3,7i
+Depot-04 Jayanagara ⇔ 4th T Block Jayanagara,D4-JBS4T,1,3,21s
+Depot-04 Jayanagara ⇔ Sanjay Gandhi Hospital,D4-SGH,1,3,aw
+Depot-06 Gate ⇔ Abbaiah Layout,314-X D06G-ABYL,1,3,bb
+Depot-06 Gate ⇔ Army Public School Kamaraja Road,D06G-ARPS,1,3,93
+Depot-06 Gate ⇔ B Nagasandra,334-B D6G-BNGS,1,3,ju
+Depot-06 Gate ⇔ Banashankari Bus Station,201-G D6G-BSK,1,3,1dn
+Depot-06 Gate ⇔ Basavanagara,330 D6G-BSN,1,3,1w2
+Depot-06 Gate ⇔ Central Silk Board,201-Q D6G-CSB,1,3,1wt
+Depot-06 Gate ⇔ Central Silk Board,MF-6 D06G-CSB,1,3,4l
+Depot-06 Gate ⇔ Dr BR Ambedkar Bus Terminal (Domlur),201 D06G-DMR,1,3,174
+Depot-06 Gate ⇔ Electronic City Wipro Main Gate,MF-500EB D6G-ELCW,1,3,si
+Depot-06 Gate ⇔ GBJ Colony Gate Doddanekkundi,D6G-GBJCG,1,3,1e5
+Depot-06 Gate ⇔ Jeevanbheema Nagara,138 D6G-JBN,1,3,q1
+Depot-06 Gate ⇔ Kadugodi Bus Station,KBS-1I D6G-KDG,1,3,sp
+Depot-06 Gate ⇔ Malleshpalya New Bus Station(Vignananagar),314-FA D06G-MLP,1,3,q6
+Depot-06 Gate ⇔ Munnekolalu,D06G-MNK,1,3,1a8
+Depot-06 Gate ⇔ Neelasandra Rose Garden,144-E D6G-KFC-NRG,1,3,1th
+Depot-06 Gate ⇔ Neelasandra Rose Garden,D6G-NRG,1,3,16h
+Depot-06 Gate ⇔ Poorva Fountain Apartment,D6-PRAMRH,1,3,164
+Depot-06 Gate ⇔ Rameshnagara,MF-1F D06G-RMN,1,3,vl
+Depot-06 Gate ⇔ Sarjapura,500-CH D06G-SJP,1,3,1pa
+Depot-06 Gate ⇔ Sir M Vishweshwaraiah Railway Station,D6G-SMVR,1,3,e5
+Depot-06 Gate ⇔ Vibhuthipura Samudaya Bhavan,314-T D06G-VBP,1,3,251
+Depot-06 Indiranagara ⇔ Depot-06 Gate,D6-D6G,1,3,132
+Depot-07 Subhashnagara ⇔ Kempegowda Bus Station,D7-KBS,1,3,2v
+Depot-08 Yashawanthapura ⇔ Yeshawanthapura Bus Station,D8-YBS,1,3,ey
+Depot-09 Peenya ⇔ Peenya 2nd stage,D9-PSS,1,3,1of
+Depot-10 Gate ⇔ Babusabpalya,D10G-BBSP,1,3,1po
+Depot-10 Gate ⇔ Banashankari Bus Station,MBS-8 D10G-BSK,1,3,fd
+Depot-10 Gate ⇔ Beguru,293-BS D10G-BGLR,1,3,3y
+Depot-10 Gate ⇔ Central Silk Board,500-D D10G-CSB,1,3,18l
+Depot-10 Gate ⇔ Goraguntepalya,500-DP D10G-GGP,1,3,1bw
+Depot-10 Gate ⇔ Govindapura,D10G-GNP,1,3,pn
+Depot-10 Gate ⇔ HBR 1st Stage BSNL Office,D10G-HBR1 BSNL,1,3,13r
+Depot-10 Gate ⇔ Hebbala Bridge,500-D D10G-HBLB,1,3,1e6
+Depot-10 Gate ⇔ Jalahalli Cross,500-QG D10G-JHC,1,3,1ns
+Depot-10 Gate ⇔ KR Market,303-C D10G-KMT,1,3,1k0
+Depot-10 Gate ⇔ KR Pura Govt Hospital,500-Q D10G-TNF-KRPGH,1,3,1xa
+Depot-10 Gate ⇔ KR Pura Govt Hospital,507-DY D10G-KRPGH,1,3,ot
+Depot-10 Gate ⇔ Kadugodi Bus Station,500-QK D10G-KDG,1,3,57
+Depot-10 Gate ⇔ Kempegowda Bus Station,290-EY D10G-KBS,1,3,68
+Depot-10 Gate ⇔ N R I  Layout,301 D10G-NRIL,1,3,6h
+Depot-10 Gate ⇔ RK Hegde Nagara,291-H D10G-RKHN,1,3,19d
+Depot-10 Gate ⇔ Rachenahalli,291-A D10G-RCH,1,3,lw
+Depot-10 Gate ⇔ Ramaswamypalya,302 D10G-RMSP,1,3,1jl
+Depot-10 Gate ⇔ Shivajinagara Bus Station,293 D10G-SBS,1,3,h1
+Depot-10 Gate ⇔ Sir M Vishweshwaraiah Railway Station,MF-7B D10G-SMVR,1,3,1ga
+Depot-10 Gate ⇔ TC Palya,D10G-TCP,1,3,64
+Depot-10 Gate ⇔ Yelahanka Old Town,290-E D10G-YHK,1,3,210
+Depot-10 Hennuru ⇔ Depot-10 Gate,D10-D10G,1,3,nt
+Depot-10 Hennuru ⇔ Hennur Junction,D10G-HNRJN,1,3,vp
+Depot-11 Puttenahalli ⇔ Puttenahalli,D11-PTH,1,3,1lw
+Depot-11 Puttenahalli ⇔ Yalahanka 4th Phase Vivekananda Park,D11-YSTVP,1,3,o5
+Depot-12 Gate ⇔ Depot-12 Kengeri,D12G-D12,1,3,277
+Depot-12 Gate ⇔ Electronic City,378 D12G-ELC,1,3,1rr
+Depot-12 Gate ⇔ Karubele,224 D12-KRBL,1,3,1qo
+Depot-12 Gate ⇔ Shanthinagara Bus Station,G-6 D12G-SBT,1,3,h2
+Depot-12 Kengeri ⇔ Basavanagara Kengeri,D12-BSN,1,3,168
+Depot-12 Kengeri ⇔ RR Medical College,D12-RRMC,1,3,2h
+Depot-13 Kathriguppe ⇔ Kamakya Talkies,D13-KMK,1,3,1k3
+Depot-14 Gate ⇔ Central Silk Board,500-D D14G-HBL-CSB,1,3,4e
+Depot-14 Gate ⇔ Kengeri Bus Station,501-C D14G-HBLB-KGR,1,3,13m
+Depot-14 RT Nagara ⇔ Hebbala Bridge,D14-HBLB,1,3,vu
+Depot-14 RT Nagara ⇔ R T Nagara Police Station,D14-RTN,1,3,7m
+Depot-15 Koramangala ⇔ Koramangala Bus Station,D15-KRM,1,3,mz
+Depot-16 Deepanajalinagara ⇔ Deepanjalinagara,D16-DPJN,1,3,yq
+Depot-17 Chandra Layout ⇔ Chandra Layout,D17-CLO,1,3,23v
+Depot-18 White Field ⇔ White Field Bus Station (Vydehi Hospital),D18-WFTTMC,1,3,17r
+Depot-19 Electronic City ⇔ DEPOT-19 Gate,D19-D19G,1,3,142
+Depot-19 Electronic City ⇔ Electronic City,D19-ELC,1,3,rn
+Depot-19 Electronic City ⇔ Electronic City,D19-ELCT,1,3,1fe
+Depot-20 Banashankari ⇔ Banashankari Bus Station,D20-BSK,1,3,78
+Depot-20 Banashankari ⇔ Chikkallasandra,D20-CSBS,1,3,1ps
+Depot-21 BEML Layout ⇔ BEML Layout 5th stage,D21-BEML5,1,3,ko
+Depot-22 Peenya ⇔ ISRO Quarters Jalahalli,D22-ISROQJ,1,3,1j3
+Depot-22 Peenya ⇔ Peenya 2nd stage,D22-PSS,1,3,tu
+Depot-23 Kalyana Nagara ⇔ Kalyananagara,D23-KLN,1,3,9c
+Depot-24 Gate ⇔ B Channasandra Bridge(Ramamurthy Nagara Ring Road),301-T D24G-TCP-BCRB,1,3,241
+Depot-24 Gate ⇔ BN Bachegowda Badavane,304-R D24G-BGB,1,3,1fg
+Depot-24 Gate ⇔ Bagmane Tech Park (Graphite India),D24G-BTPG,1,3,1g3
+Depot-24 Gate ⇔ Chikka Thirupathi,304-VB D24G-CKT,1,3,11f
+Depot-24 Gate ⇔ Dandupalya,380-G D24G-DNP,1,3,l9
+Depot-24 Gate ⇔ Dodda Nekkundi,D24G-DNK,1,3,1pj
+Depot-24 Gate ⇔ E Muthsandra,381-D D24G-EMTS,1,3,xc
+Depot-24 Gate ⇔ Ganagaluru,304-Q D24G-GNLU,1,3,16r
+Depot-24 Gate ⇔ Jayamangala,306-MA D24G-JYM,1,3,1kl
+Depot-24 Gate ⇔ KR Market,317 D24G-ITIG-KMT,1,3,1og
+Depot-24 Gate ⇔ KR Pura Govt Hospital,D24G-KRPGH,1,3,1db
+Depot-24 Gate ⇔ KR Pura Govt Hospital,D24G-KRPGH1,1,3,1tq
+Depot-24 Gate ⇔ KR Pura Metro Station,MF-2 D24G-KRPMS,1,3,20c
+Depot-24 Gate ⇔ Kadugodi Bus Station,319 D24G-KDG,1,3,27f
+Depot-24 Gate ⇔ Kempegowda Bus Station,317-A D24G-KBS,1,3,1yc
+Depot-24 Gate ⇔ Khaji Sonnenahalli,319 24G-KSH,1,3,cp
+Depot-24 Gate ⇔ Kittaganuru,310-E D24G-KNG,1,3,1sn
+Depot-24 Gate ⇔ Lingadeera Mallsandra,306-A D24G-LDMS,1,3,29l
+Depot-24 Gate ⇔ Muthkur,321-G D24G-MTK,1,3,va
+Depot-24 Gate ⇔ Naduvatti Colony,305-F D24G-NDVC,1,3,uo
+Depot-24 Gate ⇔ Sadaramangala,311-K D24G-SMG,1,3,1bm
+Depot-24 Gate ⇔ Sarjapura,500-CH D24G-SJP,1,3,we
+Depot-24 Gate ⇔ Seetharampalya Metro Station,D24G-SRPMS,1,3,19s
+Depot-24 Gate ⇔ Shivajinagara Bus Station,300-E D24G-SBS,1,3,26c
+Depot-24 Gate ⇔ Shivajinagara Bus Station,311 D24G-SBS,1,3,s1
+Depot-24 Gate ⇔ Tharabanahalli,317-TA D24G-TBH,1,3,y9
+Depot-24 ITI Layout ⇔ Depot-24 Gate,D24-D24G,1,3,7x
+Depot-24 ITI Layout ⇔ KR Pura Govt Hospital,D24-KRPGH,1,3,1bz
+Depot-24 ITI Layout ⇔ KR Pura Market,D24-KRPM,1,3,97
+Depot-24 ITI Layout ⇔ Tin Factory,D24-TNF,1,3,1to
+Depot-24 ITI Layout ⇔ Tin Factory,D24G-TNF,1,3,20m
+Depot-25 Gate ⇔ BDA Complex HSR Layout,D25G-HSRBDA,1,3,25q
+Depot-25 Gate ⇔ Kempegowda Bus Station,V-342F D25G-KBS,1,3,1oo
+Depot-25 Gate ⇔ Sarjapura,V-342F D25G-SJP,1,3,om
+Depot-25 HSR Layout ⇔ Depot-25 Gate (Central Silk Board),D25-D25G,1,3,vc
+Depot-26 Yeshawanthapura ⇔ Yeshawanthapura Bus Station,D26-YBS,1,3,18n
+Depot-27 Gate ⇔ Anekal,365-P D27-ANK,1,3,23j
+Depot-27 Gate ⇔ Banashankari Bus Station,600-FC D27-JAPC,1,3,ui
+Depot-27 Gate ⇔ Brigade Road,G-4 D27G-BGR,1,3,1vs
+Depot-27 Gate ⇔ Byatarayana Doddy,366-M D27G-BTRD,1,3,gp
+Depot-27 Gate ⇔ Hosakote Bus Stand (Old),398-H D27G-HSK,1,3,9i
+Depot-27 Gate ⇔ Hosakote Bus Stand (Old),399-F D27G-ANK-HSK,1,3,1qp
+Depot-27 Gate ⇔ Kengeri Bus Station,378-A D27-KGR,1,3,v6
+Depot-27 Gate ⇔ Mutturayanaswamy Doddy,D27G-MTRD,1,3,19k
+Depot-27 Gate ⇔ RamanayakanaDoddy,370-E D27G-RMND,1,3,1y2
+Depot-27 Jigani ⇔ Depot-27 Gate,D27-D27G,1,3,wh
+Depot-27 Jigani ⇔ Jigani APC Circle,D27-JAPC,1,3,ci
+Depot-28 Hebbala ⇔ Hebbala Bridge,D28-HBLB,1,3,x2
+Depot-29 KR Puram ⇔ KR Pura Govt Hospital,D29-KRPGH,1,3,1pb
+Depot-30 Puttenahalli ⇔ Puttenahalli,D30-PTN,1,3,12m
+Depot-31 Gate ⇔ 2nd Stage 11th Block Nagarabhavi,D31G-NBV11,1,3,25o
+Depot-31 Gate ⇔ 8th Mile Dasarahalli,BC-7H D31G-8MYL,1,3,1q5
+Depot-31 Gate ⇔ GKVK,401-K D31G-GKVK,1,3,17b
+Depot-31 Gate ⇔ Jai Maruthi Nagara,D31G-JMN,1,3,1yr
+Depot-31 Gate ⇔ Jalahalli Cross,248 D31G-JHC,1,3,14i
+Depot-31 Gate ⇔ KR Market (Kalasipalya),242 D31G-KMT,1,3,jr
+Depot-31 Gate ⇔ Kamalanagara BEML Layout,D31G-KML,1,3,lo
+Depot-31 Gate ⇔ Kempegowda Bus Station,238-U D31G-KBS,1,3,u4
+Depot-31 Gate ⇔ Kempegowda Bus Station,242-B D31G-KBS,1,3,fu
+Depot-31 Gate ⇔ Kempegowda Bus Station,80-A D31G-KBS,1,3,ha
+Depot-31 Gate ⇔ Kengeri Bus Station,401-K D31G-KGR,1,3,1xl
+Depot-31 Gate ⇔ Lingadeeranahalli,243-L D31-LDH,1,3,1ts
+Depot-31 Gate ⇔ Manganahalli,D31G-MGH,1,3,1z8
+Depot-31 Gate ⇔ Mount Carmel College,D31G-MCCVN,1,3,uj
+Depot-31 Gate ⇔ Narasapura,238-W D31G-NRP,1,3,6k
+Depot-31 Gate ⇔ Railway Gollahalli,MF-502H D31G-RGLH,1,3,16l
+Depot-31 Gate ⇔ Shankarnagh Bus Stand,96-G D31G-SNB,1,3,29i
+Depot-31 Gate ⇔ Sir M Vishweshwaraiah Layout 9th Blk Mallathahalli,238-UC D31G-VSL,1,3,iw
+Depot-31 Gate ⇔ Tavarekere,242-B D31G-TVK,1,3,27u
+Depot-31 Gate ⇔ Ullala Satelite Town,515-A D31G-HST,1,3,do
+Depot-31 Gate ⇔ Vidhana Soudha Layout,D31G-VSDLO,1,3,19l
+Depot-31 Summanahalli ⇔ Depot-31 Gate,D31-D31G,1,3,1ff
+Depot-32 Suryacity ⇔ Surya Nagara,D32-SRN,1,3,26h
+Depot-33 Poornapragna layout ⇔ Poornaprajna Layout,D33-PPLO,1,3,9o
+Depot-34 Gate ⇔ Anekal,365-P D34-ANK,1,3,10d
+Depot-34 Gate ⇔ Anjanapura,D34G-ANP,1,3,11q
+Depot-34 Gate ⇔ Banashankari Bus Station,378-E D34-BSK,1,3,1y0
+Depot-34 Gate ⇔ Bannerughatta National Park,365 D34G-BNP,1,3,1q9
+Depot-34 Gate ⇔ Beguru,D34G-BGR,1,3,250
+Depot-34 Gate ⇔ Bishop Coton Girls High School,215-S D34G-JBS-BCGS,1,3,18x
+Depot-34 Gate ⇔ Brigade Road,G-4 D34G-BGR,1,3,13z
+Depot-34 Gate ⇔ Chikka Kammanahalli,D34-CKH,1,3,1ml
+Depot-34 Gate ⇔ Chikkallasandra,378 D34G-CKLS,1,3,1wx
+Depot-34 Gate ⇔ Devarachikkanahalli,D34G-DCH,1,3,w1
+Depot-34 Gate ⇔ Electronic City,378 D34G-ELC,1,3,138
+Depot-34 Gate ⇔ Gundanjaneya Swamy Temple Ravagodlu,213-K D34G-GAT,1,3,bd
+Depot-34 Gate ⇔ Hulimavu,D34G-HLMV,1,3,244
+Depot-34 Gate ⇔ JP Nagara 6th Phase,215-H D-34-JPN6,1,3,165
+Depot-34 Gate ⇔ Jayanagara Metro Station Arrival,215-C D34G-JNMS,1,3,1n9
+Depot-34 Gate ⇔ KR Market (Kalasipalya),215 D34G-KKC-KMT,1,3,1sp
+Depot-34 Gate ⇔ KR Market (Kalasipalya),215-C D34G-KMT,1,3,27j
+Depot-34 Gate ⇔ Kengeri Bus Station,378 D34-KGR,1,3,nu
+Depot-34 Gate ⇔ Kodichikkanahalli,D34G-KCH,1,3,16u
+Depot-34 Gate ⇔ Nisarga Badavane,372-C D34G-NSB,1,3,fz
+Depot-34 Gate ⇔ Shanthiniketan Layout,D34G-SKL,1,3,179
+Depot-34 Gate ⇔ Thalaghattapura Metro Station,D34-TGPM,1,3,4o
+Depot-34 Gate ⇔ Yelenahalli,D34G-YLH,1,3,190
+Depot-34 Kottanur ⇔ Depot-34 Gate,D34-D34G,1,3,1hb
+Depot-35 Gate ⇔ Brahma Devara Gudda,241-N D35G-BDG,1,3,1cq
+Depot-35 Gate ⇔ Byadarahalli,D35G-BDH,1,3,1by
+Depot-35 Gate ⇔ Bylakonenahalli,240-E D35G-BKH,1,3,bj
+Depot-35 Gate ⇔ Channa Marayyanapalya,242-RA D35G-CMP,1,3,ng
+Depot-35 Gate ⇔ Ganakal,242-JA D35G-GNKL,1,3,1x1
+Depot-35 Gate ⇔ HAL ARDC,242-B  D35G-KBS-HAL,1,3,1c1
+Depot-35 Gate ⇔ Janapriya Township,D35G-JPT,1,3,1dh
+Depot-35 Gate ⇔ Jogerahalli,242-R D35G-JGH,1,3,1w8
+Depot-35 Gate ⇔ KR Market (Kalasipalya),242 D35G-KMT,1,3,g9
+Depot-35 Gate ⇔ Kachohalli,240-C D35G-KCH,1,3,5t
+Depot-35 Gate ⇔ Kadugodi Bus Station,242-B D35G-KDG,1,3,1rj
+Depot-35 Gate ⇔ Kanuvanahalli,242-TB D35G-KVH,1,3,19f
+Depot-35 Gate ⇔ Karekalpalya,242-JK D35G-KKP,1,3,br
+Depot-35 Gate ⇔ Kenchanapura,241-B D35G-KCP,1,3,1d7
+Depot-35 Gate ⇔ Lakshmaiah Badavane,241-E D35G-LKMB,1,3,zx
+Depot-35 Gate ⇔ Machohalli,240-A D35G-MCH,1,3,ar
+Depot-35 Gate ⇔ Mantanakurchi,242-TA D35G-MTK,1,3,1lm
+Depot-35 Gate ⇔ Nelamangala Bus Station,374-N D35G-TVK-NML,1,3,31
+Depot-35 Gate ⇔ Shanthinagara Bus Station,242-B D35G-SNBS,1,3,1s7
+Depot-35 Gate ⇔ Shettyhalli,248-V D35G-STH,1,3,22w
+Depot-35 Gate ⇔ Shivajinagara Bus Station,G-7 D35G-KBS-SBS,1,3,1k5
+Depot-35 Gate ⇔ Tavarekere,242 D35G-TVK,1,3,20y
+Depot-35 Gate ⇔ Thigalarapalya,242-CB D35G-TGP,1,3,1p7
+Depot-35 Gate ⇔ Yale Kodigehalli,D35G-YKH,1,3,b9
+Depot-35 Kannalli ⇔ Averahalli,245-K D35G-AVH,1,3,sc
+Depot-35 Kannalli ⇔ Depot-35 Gate,D35-D35G,1,3,1w
+Depot-36 Bidadi ⇔ Depot-36 Gate,D36-D36G,1,3,1fu
+Depot-36 Gate ⇔ Guddadahalli Dinne,231-J D36G-GDH,1,3,14c
+Depot-36 Gate ⇔ Parasanapalya,D36G-PRSP,1,3,1qw
+Depot-37 Kengeri ⇔ Kengeri Bus Station,D37-KGR,1,3,ka
+Depot-38 Chikkanagamangala ⇔ Depot-38 Gate,D38-D38G,1,3,1gd
+Depot-38 Gate ⇔ Anekal,356-Z D38-ANK,1,3,129
+Depot-38 Gate ⇔ Anekal,356-Z D38G-ANKL,1,3,pq
+Depot-38 Gate ⇔ Anekal,D38G-HLG-ANK,1,3,1ym
+Depot-38 Gate ⇔ Attibele Bus Stand,360 D38G-ATB,1,3,ck
+Depot-38 Gate ⇔ Attibele Bus Stand,D38G-HLG-ATB,1,3,233
+Depot-38 Gate ⇔ BDA Complex HSR Layout,356-CW D38G-HSRBDA,1,3,1ye
+Depot-38 Gate ⇔ BEL Factory,500-DC D38G-BELF,1,3,ke
+Depot-38 Gate ⇔ Banashankari Bus Station,600-F D38G-BSK,1,3,1t9
+Depot-38 Gate ⇔ Chikka Hagade,361-B D38G-CHD,1,3,1hv
+Depot-38 Gate ⇔ Hadosiddapura,D38G-HDS,1,3,1zg
+Depot-38 Gate ⇔ Handenahalli Attibele,349-A D38G-HND,1,3,14k
+Depot-38 Gate ⇔ Haraluru,D38G-HRL,1,3,36
+Depot-38 Gate ⇔ Kempu Dommasandra,356-ZA D38G-KDMS,1,3,1b0
+Depot-38 Gate ⇔ Madavara,NICE-8C D38G-MDV,1,3,st
+Depot-38 Gate ⇔ PES College Hostel Kasavanahalli,D38-PESCE,1,3,28b
+Depot-38 Gate ⇔ Rachammanahalli,360-S D38G-ANK-RMH,1,3,1jx
+Depot-38 Gate ⇔ Samanduru,360-S D38G-SMDR,1,3,195
+Depot-38 Gate ⇔ Sarjapura,328-H D38G-CPR-ATB-SJP,1,3,ux
+Depot-39 Hoskote ⇔ Hosakote Bus Stand (Old),D39-HSK,1,3,298
+Depot-39 Hoskote ⇔ Hosakote Bus Stand (Old),D39G-HSK,1,3,5k
+Depot-39 Hoskote ⇔ Hosakote Bus Station (TTMC),D39-HSKTTMC,1,3,1d
+Depot-40 Dasanapura ⇔ Dasanapura,D40-DSP,1,3,u3
+Depot-40 Dasanapura ⇔ Depot-40 Gate,D40-D40G,1,3,8t
+Depot-41 Gate ⇔ Arehalli,304-X D41G-ARH,1,3,1bu
+Depot-41 Gate ⇔ Attibele Bus Stand,328-H D41G-ATB,1,3,19e
+Depot-41 Gate ⇔ Balagere,332 D41G-BLG,1,3,1vw
+Depot-41 Gate ⇔ Banarahalli,306-F D41G-BRH,1,3,14t
+Depot-41 Gate ⇔ Bellikere,329-E D41G-BLK,1,3,cv
+Depot-41 Gate ⇔ Bhoganahalli,327-E D41G-BGH,1,3,1qt
+Depot-41 Gate ⇔ Devarabisanahalli,D41G-DBH,1,3,nv
+Depot-41 Gate ⇔ Dr Ambedkar Nagara,333-K D41G-AKN,1,3,17w
+Depot-41 Gate ⇔ Hagaduru,D41G-HGR,1,3,14p
+Depot-41 Gate ⇔ Halasuru,328-HB D41G-HLS,1,3,mr
+Depot-41 Gate ⇔ Harohalli,325 D41G-HRHL,1,3,75
+Depot-41 Gate ⇔ Hosakote Bus Stand (Old),328-H D41G-HSK,1,3,26
+Depot-41 Gate ⇔ KR Market,323 D41G-HAL-KMT,1,3,tm
+Depot-41 Gate ⇔ Kada Agrahara,327-K D41G-KAH,1,3,23t
+Depot-41 Gate ⇔ Kadugodi Bus Station,328-H D41G-KDG,1,3,lq
+Depot-41 Gate ⇔ Kotur,329-C D41G-KTR,1,3,1um
+Depot-41 Gate ⇔ Kuguru,323-B D41G-KGR,1,3,v9
+Depot-41 Gate ⇔ Madappanahalli,329 D41G-MPH,1,3,1cb
+Depot-41 Gate ⇔ Marasandra,306-L D41G-MSD,1,3,229
+Depot-41 Gate ⇔ Munnekolalu,333-H D41G-MKO,1,3,1v0
+Depot-41 Gate ⇔ Muthsandra,329 D41G-MTS,1,3,j4
+Depot-41 Gate ⇔ Nagondanahalli,324 NGH-D41G,1,3,f3
+Depot-41 Gate ⇔ Seetharampalya,333-N D41G-SRP,1,3,1vq
+Depot-41 Gunjuru ⇔ Depot-41 Gate,D41-D41G,1,3,170
+Depot-41 Gunjuru ⇔ Gunjuru,D41-GNJR,1,3,xf
+Depot-42 Gate Departure ⇔ Bikkana Hosahalli,342G D42G-BHH,1,3,1ic
+Depot-42 Gate Departure ⇔ Muttanalluru,342-B D42G-MTN,1,3,85
+Depot-42 Gate Departure ⇔ PES College Hostel Kasavanahalli,D42G-PESK,1,3,1wh
+Depot-42 Gate Departure ⇔ Sarjapura,342 D42G-SJP,1,3,50
+Depot-42 Gate Departure ⇔ Valagere Kallahalli,342-J D42G-VGK,1,3,zf
+Depot-42 Gate Departure ⇔ Varthuru,342D D42G-VRT,1,3,1dp
+Depot-42 Kodathi ⇔ Depot-42 Gate Departure,D42-D42G,1,3,41
+Depot-43 Gate ⇔ Kittanahalli,D43-KTN,1,3,1fz
+Depot-43 Gate ⇔ Shivanapura,D43-SVP,1,3,p2
+Depot-43 Shivanapura ⇔ Adarshanagara,D43-ADR,1,3,i3
+Depot-43 Shivanapura ⇔ Arishinakunte,D43-ASK,1,3,1tl
+Depot-43 Shivanapura ⇔ Depot-43 Gate,D43-D43G,1,3,1jn
+Depot-44 Anjanapura ⇔ Anjanapura 10 Block,D44-ANP10BLK,1,3,j7
+Depot-44 Anjanapura ⇔ Anjanapura 10th Block,D44-ANP10,1,3,ti
+Depot-45 Gate ⇔ BEML Factory,500-A D45-BEMLF,1,3,1j5
+Depot-45 Gate ⇔ BEML Layout 5th stage,401-RC D45-BEML5,1,3,rc
+Depot-45 Gate ⇔ Banashankari Bus Station,410-FA D45G-YTTMC-BSK,1,3,1rh
+Depot-45 Gate ⇔ Banashankari Bus Station,501-BH D45G-BSK,1,3,y
+Depot-45 Gate ⇔ Chowdeshwarinagara,MF-26 D45-JHC-CDN,1,3,1k8
+Depot-45 Gate ⇔ Coffee Board Layout,287-JA D45G-CBL,1,3,cm
+Depot-45 Gate ⇔ Hebbala,279-E BPS-HBL-D45G,1,3,12a
+Depot-45 Gate ⇔ Hesaraghatta,266 D45G-SVK-HSG,1,3,ni
+Depot-45 Gate ⇔ Hosakote Bus Stand (Old),508 D45G-HSK,1,3,p
+Depot-45 Gate ⇔ ITPL,502-G D45G-ITPL,1,3,f4
+Depot-45 Gate ⇔ JK Basavanna Nagara,266-R D45-JKBN,1,3,1ev
+Depot-45 Gate ⇔ Jalahalli Cross,D45G-CKB-JHC,1,3,yf
+Depot-45 Gate ⇔ Jalahalli Metro Station,D45G-JHMS,1,3,1fp
+Depot-45 Gate ⇔ Jalahalli Metro Station Arrival,401-AD D45G-JMS,1,3,1kc
+Depot-45 Gate ⇔ Jalahalli Metro Station Arrival,MF-23E D45-JHMS,1,3,12j
+Depot-45 Gate ⇔ Janapriya Greenwood Apartment,271-T D45-JGA,1,3,1q
+Depot-45 Gate ⇔ KR Market,266 D45G-MSP-KMT,1,3,zp
+Depot-45 Gate ⇔ KR Market,276 D45-VRP-KMT,1,3,1ur
+Depot-45 Gate ⇔ KR Pura Metro Station,D45G-KRPMS,1,3,ag
+Depot-45 Gate ⇔ Kakolu,266-C D45-KKL,1,3,23b
+Depot-45 Gate ⇔ Kempegowda Bus Station,276 D45-VRP-KBS,1,3,1dz
+Depot-45 Gate ⇔ Kempegowda Bus Station,288-H D45-TDL-KBS,1,3,21z
+Depot-45 Gate ⇔ Kengeri Bus Station,401-K D45G-KGR,1,3,1at
+Depot-45 Gate ⇔ Kengeri Bus Station,502-FA D45G-KGR,1,3,1z5
+Depot-45 Gate ⇔ Kuduregere Madanayakanahalli,250-DT D45G-KDGC,1,3,1mo
+Depot-45 Gate ⇔ Muthkur,266-A D45G-MKTR,1,3,22i
+Depot-45 Gate ⇔ Shamarajapura,D45-SMRP,1,3,ts
+Depot-45 Gate ⇔ Shivajinagara Bus Station,290-EB D45-SBS,1,3,1gx
+Depot-45 Gate ⇔ Shivajinagara Bus Station,290-S D45G-TDL-SBS,1,3,1v6
+Depot-45 Gate ⇔ Suvarna Karnataka Bus Stand,288-DA D45G-SKB,1,3,1ct
+Depot-45 Gate ⇔ Vidyaranyapura Bus Station,D45G-VRP,1,3,1qx
+Depot-45 Gate ⇔ Yalahanka Satellite Town,D45G-YST,1,3,3l
+Depot-45 MS Palya ⇔ Depot-45 Gate,D45-D45G,1,3,ss
+Depot-46 Sadenahalli ⇔ Patalamma Temple,D46-D46G,1,3,1xy
+Depot-47 Gate ⇔ Kammasandra,D47G-KMSD,1,3,ol
+Depot-47 Gate ⇔ Marasandra,D47G-MRSD,1,3,tv
+Depot-47 Manduru ⇔ Kammasandra,D47G-KMS,1,3,1s
+Depot-47 Manduru ⇔ Mandur,D47-MNDR,1,3,1tk
+Depot-47 Manduru ⇔ Marasandra,D47-MRS,1,3,yp
+Depot-48 Byrathibande ⇔ Byrathi Bande,D48-BYB,1,3,uk
+Depot-48 Gate ⇔ Bagalur,293-S D48G-BGLR,1,3,1eh
+Depot-49 Bidadi ⇔ Bidadi,D49-BDD,1,3,22j
+Depot-50 Devanahalli ⇔ Devanahalli New Bus Station,D50-DVHNBS,1,3,1q8
+Depot-50 Devanahalli ⇔ Devanahalli Old Bus Stand,D50-DVHOBS,1,3,j
+Depot-51 Sadaramangala Departure ⇔ Kadugodi Bus Station,D51G-KDMS-KDG,1,3,6l
+Depot-51 Sadaramangala Departure ⇔ Varthur Kodi,D51G-VRKD,1,3,1ui
+Depot-51 Sadaramangala ⇔ Depot-51 Sadaramangala Departure,D51-D51G,1,3,1eo
+Depot-9 ⇔ ISRO Quarters Jalahalli,D9-SRS-ISRQ,1,3,qx
+Depot-9 ⇔ Kongovi PVT LTD Peenya,D9-KVP,1,3,76
+Devanagondi ⇔ Hosakote Bus Stand (Old),306 DVG-HSK,1,3,es
+Devanahalli New Bus Station ⇔ Doddaballapura Bus Stand,298-V,1,3,21w
+Devanahalli New Bus Station ⇔ Hosakote Bus Stand (Old),289-Y,1,3,226
+Devanahalli New Bus Station ⇔ Hosakote Bus Stand (Old),298-P,1,3,ir
+Devanahalli Old Bus Stand ⇔ Doddaballapura Bus Stand,297-M,1,3,cx
+Devanahalli Old Bus Stand ⇔ Kempegowda Bus Station,298-M DVH-VSD-KBS,1,3,ho
+Devanahalli Old Bus Stand ⇔ Kempegowda International Airport,298-AP,1,3,pk
+Devanahalli Old Bus Stand ⇔ Peenya 2nd Stage,401-AM,1,3,23h
+Devanahalli Old Bus Stand ⇔ Yelahanka Old Town,298-MY,1,3,4j
+Devasandra Chikkamaranahalli ⇔ Central Silk Board,500-G,1,3,7f
+Dodda Basti ⇔ Kengeri Bus Station,223-D KGR-DBT,1,3,dh
+Dodda Basti ⇔ Shivajinagara Bus Station,223-A FLY,1,3,27i
+Dodda Nekkundi ⇔ Depot-41 Gate,330-G DNV-D41G,1,3,1xu
+Dodda Nekkundi ⇔ Dodda Nekkundi,CHAKRA-16,1,3,13i
+Dodda Nekkundi ⇔ Dodda Nekkundi,CHAKRA-16A,1,3,xb
+Dodda Nekkundi ⇔ Goraguntepalya,500-DP DNK-GGP,1,3,ak
+Doddaballapura Bus Stand ⇔ Chikka Madhure,285-ME,1,3,vz
+Doddaballapura Bus Stand ⇔ Kempegowda Bus Station,285-MA -DBP-KBS,1,3,vn
+Doddakuntanahalli ⇔ Shivajinagara Bus Station,228-C DKH-SBS,1,3,263
+Dr BR Ambedkar Bus Terminal (Domlur) ⇔ BEML Gate,DBS-BEML,1,3,1rv
+Dr BR Ambedkar Bus Terminal (Domlur) ⇔ Electronic City Wipro Main Gate,MF-500EB DBS-ELCW,1,3,26p
+Dr BR Ambedkar Bus Terminal (Domlur) ⇔ Hosakote Bus Stand (Old),334-E,1,3,15j
+Dr BR Ambedkar Bus Terminal (Domlur) ⇔ Kadugodi Bus Station,334-E DBS-KDG,1,3,nf
+Dr BR Ambedkar Bus Terminal (Domlur) ⇔ Kadugodi Bus Station,SBS-13K DML-KDG,1,3,18d
+Dr BR Ambedkar Bus Terminal (Domlur) ⇔ Sarjapura,500-CH DBS-SJP,1,3,1k2
+Dubasipalya ⇔ Hebbala Bridge,501-C DBP-HBL,1,3,uw
+Dwaraka Nagara ⇔ KR Pura Govt Hospital,507-C,1,3,25v
+Dyavarahalli ⇔ Kempegowda Bus Station,285-JE DYVH-KBS,1,3,1kr
+Electronic City KIA ⇔ Kempegowda International Airport,KIA-8,1,3,de
+Electronic City Wipro Main Gate ⇔ Central Silk Board,G-3 ELCW-CSB,1,3,1vk
+Electronic City Wipro Main Gate ⇔ Kadugodi Bus Station,V-500F ELCWG-KDG,1,3,zi
+Electronic City Wipro Main Gate ⇔ Kempegowda International Airport,KIA-8E,1,3,29d
+Electronic City Wipro Main Gate ⇔ Yeshawanthapura Bus Station,NICE-7A ELCW-YBS,1,3,23p
+Electronic City ⇔ HAL ARDC,411-D ELC-HAL ARDC,1,3,15r
+Electronic City ⇔ Hosakote Bus Stand (Old),399,1,3,ex
+Electronic City ⇔ Hosapalya Kudlu Gate,347-L ELC-HSP,1,3,jk
+Electronic City ⇔ Kasavanahalli,ELC-PESK,1,3,7g
+Electronic City ⇔ Kengeri Bus Station,MF-378,1,3,hu
+Electronic City ⇔ Kengeri Bus Station,MF-378 ELC-NDG-KGR,1,3,ay
+Electronic City ⇔ PES College Hostel Kasavanahalli,ELC-PESCE,1,3,e6
+Electronic City ⇔ Sanabil Education Trust,378 ELC-SET,1,3,225
+Electronic City ⇔ Wonderla Amusement Park,V-226ELC,1,3,20v
+GKVK ⇔ Central Silk Board,500-D GKVK-CSB,1,3,1fa
+GKW Layout ⇔ Kuvempunagara Bus station (BTM Layout),60-J,1,3,pr
+GKW Layout ⇔ Shivajinagara Bus Station,63-B,1,3,e2
+GPO ⇔ Kodigehalli,288-A GPO-KDH,1,3,ek
+Ganagaluru ⇔ KR Market,304-Q,1,3,1lz
+Gangondanahalli Masjid ⇔ RK Hegde Nagara,TR-4B,1,3,1gq
+Geleyara Balaga Layout ⇔ Kempegowda Bus Station,250-S GBL-VSD-KBS,1,3,ge
+Genius Global School Kodathi ⇔ Sarjapura,342-F GGS-SJP,1,3,ax
+Gonipura ⇔ St Clare School,228-A GNP-SCS,1,3,qw
+Goraguntepalya ⇔ Central Silk Board,500-DP,1,3,16j
+Goraguntepalya ⇔ Hosakote Bus Stand (Old),508,1,3,11g
+Goraguntepalya ⇔ KR Pura Govt Hospital,502-C,1,3,7o
+Goraguntepalya ⇔ KR Pura Metro Station,500-QA,1,3,gb
+Goraguntepalya ⇔ KR Pura Railway Station,502-CT,1,3,1cs
+Govindapura ⇔ Jagajeevanram Nagara,291-R,1,3,im
+Govindapura ⇔ Kempegowda Bus Station,255-H GVP-KBS,1,3,qm
+Gunjurpalya ⇔ Kempegowda Bus Station,340 KBS-GJRP,1,3,14
+HAL Gnanajyothi School ⇔ Yelahanka Old Town,507-DY HGS-YHK,1,3,n5
+HAL Main Gate ⇔ BEML Layout 5th stage,335-A HAL-BEML5,1,3,22x
+HAL Main Gate ⇔ Depot-06 Gate,HAL-D6G,1,3,61
+HAL Main Gate ⇔ Devanagondi,306-RA,1,3,wu
+HAL Main Gate ⇔ Dodda Basti,223-A HAL-DBT,1,3,1ws
+HAL Main Gate ⇔ KR Pura Govt Hospital,400-A,1,3,uc
+HAL Main Gate ⇔ Kempegowda International Airport,KIA-4,1,3,1qe
+HAL Main Gate ⇔ Muthsandra,329-M,1,3,15t
+Hampinagara RPC Layout ⇔ Chandra Layout,CLO-RPCLO,1,3,k6
+Hampinagara RPC Layout ⇔ Chandra Layout,HPN-CLO,1,3,o4
+Hampinagara RPC Layout ⇔ Kaval Byrasandra,176,1,3,y6
+Hampinagara RPC Layout ⇔ Malleshwara Bus Stand,75-B,1,3,20x
+Hampinagara RPC Layout ⇔ Yelahanka Old Town,401-B,1,3,131
+Haniyuru ⇔ Kempegowda Bus Station,285-RA HNYR-KBS,1,3,1wg
+Haraluru ⇔ KR Market (Kalasipalya),341-A,1,3,13x
+Haraluru ⇔ Koramangala Bus Station,KRM-HRLR,1,3,11y
+Harohalli Palya ⇔ Kempegowda Bus Station,285-YA HHP-KBS,1,3,29b
+Harohalli ⇔ KR Market (Kalasipalya),342-A KMT HRH,1,3,1qg
+Harokyatanahalli ⇔ Kempegowda Bus Station,257-A HKH-KBS,1,3,252
+Hebbala Bridge ⇔ Bhoganahalli,500-TA,1,3,gq
+Hebbala Bridge ⇔ Central Silk Board,500-D,1,3,1rl
+Hebbala Bridge ⇔ Chikka Thirupathi,500-HC,1,3,1kh
+Hebbala Bridge ⇔ Devanahalli Old Bus Stand,298-M HBLB-DVH,1,3,2a0
+Hebbala Bridge ⇔ Electronic City Wipro Main Gate,V-500E,1,3,299
+Hebbala Bridge ⇔ Hebbala Bridge,CHAKRA-15,1,3,sy
+Hebbala Bridge ⇔ Hebbala Bridge,CHAKRA-15A,1,3,wy
+Hebbala Bridge ⇔ ISRO Layout,412-H,1,3,201
+Hebbala Bridge ⇔ ITPL,V-500DF,1,3,14w
+Hebbala Bridge ⇔ Kempegowda International Airport,281-AP,1,3,1bd
+Hebbala Bridge ⇔ Kempegowda International Airport,KIA-9H,1,3,ie
+Hebbala Bridge ⇔ Kengeri Bus Station,501-C,1,3,1ag
+Hebbala Bridge ⇔ Koramangala Bus Station,500-DK,1,3,u6
+Hebbala Bridge ⇔ Kottigepalya,502-E,1,3,gn
+Hebbala Bridge ⇔ Yelahanka Old Town,288-HV,1,3,f7
+Hebbala ⇔ Chikkallasandra,279-F,1,3,i1
+Hebbala ⇔ Depot-45 Gate,279-E HBL-MSP-D45G,1,3,hf
+Hennur Junction ⇔ Amarajyothi Badavane,415-E D10G-AJB,1,3,2r
+Hennuru Junction ⇔ Hennur Junction,CHAKRA-10A,1,3,1ch
+Hesaraghatta ⇔ Doddaballapura Bus Stand,253-LA,1,3,10
+Hesaraghatta ⇔ Kempegowda Bus Station,266-D HGV-KBS,1,3,gz
+Hesaraghatta ⇔ Kempegowda Bus Station,285RC,1,3,aa
+Hesaraghatta ⇔ Patalamma Temple,285-RC HGV-PTML,1,3,o8
+Hoovinayakanahalli ⇔ Kempegowda Bus Station,289-C HNH-KBS,1,3,1xf
+Hosahalli Kodagalahatti ⇔ Kempegowda Bus Station,282-A HSHK-KBS,1,3,1mi
+Hosakote Bus Stand (Old) ⇔ Anekal,399-F,1,3,wm
+Hosakote Bus Stand (Old) ⇔ Attibele Bus Stand,328-H,1,3,3p
+Hosakote Bus Stand (Old) ⇔ Attibele Bus Stand,V-328H,1,3,v3
+Hosakote Bus Stand (Old) ⇔ BEL Factory,500-HG HSK-BELF,1,3,1yw
+Hosakote Bus Stand (Old) ⇔ BEML Gate,317 HSK-BEML,1,3,14h
+Hosakote Bus Stand (Old) ⇔ CV Raman Nagara Railway Gate,KBS-12HK HSK-CVRNRG,1,3,rp
+Hosakote Bus Stand (Old) ⇔ Chandapura,399-A,1,3,1t2
+Hosakote Bus Stand (Old) ⇔ Chikka Thirupathi,328-H HSK-SJP-CTP,1,3,vk
+Hosakote Bus Stand (Old) ⇔ Chikka Thirupathi,390,1,3,fk
+Hosakote Bus Stand (Old) ⇔ Depot-41 Gate,328-H HSK-D41G,1,3,b
+Hosakote Bus Stand (Old) ⇔ Goraguntepalya,500-HG,1,3,cz
+Hosakote Bus Stand (Old) ⇔ Hebbala Bridge,500-HK,1,3,1wv
+Hosakote Bus Stand (Old) ⇔ Marathahalli Bridge,334-EH,1,3,1ld
+Hosakote Bus Stand (Old) ⇔ Vijayapura Bus Stand Jangamakote,298-PA,1,3,1m9
+Hosakote Bus Stand (Old) ⇔ Vijayapura Bus Stand Jangamakote,298-PB,1,3,29w
+Hosakote Bus Stand (Old) ⇔ Vijayapura Bus Stand Jangamakote,381-C,1,3,mp
+Hosapalya Kudlu Gate ⇔ Kempegowda Bus Station,347-L,1,3,14g
+Hosapalya Kudlu Gate ⇔ Kempegowda Bus Station,348,1,3,1yp
+Hulimangala ⇔ Electronic City,HLM-DTR-ELC,1,3,178
+Huskur ⇔ KR Market (Kalasipalya),340-J,1,3,1yq
+ISRO Karthik Nagara ⇔ Kengeri Bus Station,502 ISROK-CSB-KGR,1,3,1hn
+ISRO Murugeshpalya ⇔ Peenya 2nd Stage,500-A ISROM-HBL-GGP-PSS,1,3,dj
+ITPL Metro Station ⇔ ITPL Metro Station,MF-1G,1,3,ya
+ITPL Metro Station ⇔ White Field Bus Station (Vydehi Hospital),MF-1G ITPLMS-WTTMC,1,3,15v
+ITPL ⇔ Poornaprajna Layout,500-CA ITPL-PPLO,1,3,45
+Indian Express ⇔ Peenya 2nd stage,252-F IXP-KBS-PSS,1,3,sd
+Indrasanahalli ⇔ Kempegowda Bus Station,297-A ISNH-KBS,1,3,18u
+JK Basavanna Nagara ⇔ Kempegowda Bus Station,266-R JKBN-KBS,1,3,11l
+JP Nagara 6th Phase ⇔ Dr BR Ambedkar Bus Terminal (Domlur),201-MD,1,3,hq
+JP Nagara 6th Phase ⇔ Electronic City,378-E JPN6-ELC,1,3,27t
+JP Nagara 6th Phase ⇔ Electronic City,378-E JPN6-JSD-ELC,1,3,1hj
+JP Nagara 6th Phase ⇔ Vidhana Soudha Karnataka High Court,2-E  JPN6-VSD,1,3,26j
+JP Nagara Metro Station ⇔ JP Nagara 7th Phase (Brigade Gardenia),MF-15,1,3,2y
+Jagajeevanram Nagara ⇔ Nagavara,TR-4,1,3,1d4
+Jagajeevanram Nagara ⇔ Neelasandra Bus Stand,143-A,1,3,iy
+Jagajeevanram Nagara ⇔ RK Hegde Nagara,TR-4A,1,3,1b9
+Jai Bhuvaneshwari Nagara ⇔ Yeshawanthapura Bus Station,80-F JBN-YTTMC,1,3,1tg
+Jalahalli Cross ⇔ Attibele Bus Stand,MF-410A,1,3,1o8
+Jalahalli Cross ⇔ Bagalur,401-AB,1,3,1nx
+Jalahalli Cross ⇔ Banashankari Bus Station,410-AB,1,3,7l
+Jalahalli Cross ⇔ Banashankari Bus Station,MF-410FC,1,3,1tj
+Jalahalli Cross ⇔ Bommanahalli,410,1,3,1a3
+Jalahalli Cross ⇔ Electronic City,356-JE,1,3,gk
+Jalahalli Cross ⇔ Jalahalli Cross,MF-250DA,1,3,148
+Jalahalli Cross ⇔ KR Pura Govt Hospital,507-P,1,3,ry
+Jalahalli Cross ⇔ Laggere New Bus Stand,MF-248A,1,3,6g
+Jalahalli Cross ⇔ Meesagaanahalli,401-Y JHC-MPS-MGH,1,3,1ku
+Jalahalli Cross ⇔ Mysore Road Metro Station,410-K JHC-NDHMF,1,3,12w
+Jalahalli Cross ⇔ Vidyaranyapura Bus Station,JHC-CKB-VRP,1,3,1ok
+Jalahalli Cross ⇔ Yelahanka Old Town,MF-401AA,1,3,vj
+Jalahalli Metro Station ⇔ Chowdeshwarinagara,MF-26,1,3,3k
+Jalahalli Metro Station ⇔ Gangondanahalli,BC-7E JHMS-GGH,1,3,nd
+Jalahalli Metro Station ⇔ Jalahalli Metro Station Arrival,MF-23,1,3,1u6
+Jalahalli Metro Station ⇔ Jalahalli Metro Station Arrival,MF-23A,1,3,11p
+Jalahalli Metro Station ⇔ Jalahalli Metro Station Arrival,MF-31,1,3,23
+Jalahalli Metro Station ⇔ Laggere New Bus Stand,MF-24,1,3,1yh
+Jalahalli Metro Station ⇔ Makali,MF-27,1,3,yk
+Jalahalli Metro Station ⇔ Tata Values Homes Apartments,255-D JHMS-TVHA,1,3,ji
+Jalahalli Metro Station ⇔ Yelahanka Old Town,MF-401AD,1,3,ef
+Jambu Savari Dinne ⇔ JP Nagara 1st Phase,215-H JSD-JPN1,1,3,1w4
+Jayanagara 4th Block ⇔ Hulimangala,369-J JBS-EAST END-HML,1,3,iq
+Jayanagara Bus Station ⇔ Andhrahalli,410-AB JBS-PSS-ADH,1,3,1rx
+Jayanagara Bus Station ⇔ Jambu Savari Dinne,MF-215CA,1,3,123
+Jayanagara Bus Station ⇔ Narayananagara 3rd Stage,215-NG,1,3,26s
+Jayanagara Bus Station ⇔ Turahalli,210-TP,1,3,6m
+Jayanagara Bus Station ⇔ Yelenahalli,BC-4A,1,3,dp
+Jayanagara Bus Station ⇔ Yeshawanthapura Bus Station,410-F,1,3,1vz
+Jayanagara Metro Station Depature ⇔ Jambu Savari Dinne,215-CA JMS-JSD,1,3,pe
+Jayanagara Metro Station Depature ⇔ Vaddarapalya JP Nagara 8th Phase,MF-17,1,3,sf
+Jeevanbheema Nagara ⇔ Swamy Vivekananda Metro Station/Isolation Hospital,MF-6 JBN-SVMS,1,3,o3
+Jeevanbheema Nagara ⇔ Vidhana Soudha Karnataka High Court,139-JBN-SBS-VSD,1,3,25g
+Jigani APC Circle ⇔ Bommasandra,BC-3A,1,3,1a2
+Jigani APC Circle ⇔ Bommasandra,BC-3B,1,3,297
+Jigani APC Circle ⇔ Chandapura,353-B,1,3,1n5
+Jigani APC Circle ⇔ Chikka Thirupathi,399-E,1,3,hw
+Jigani APC Circle ⇔ Hosakote Bus Stand (Old),398-H,1,3,10m
+Jigani APC Circle ⇔ Huskur,353-B JGNAPC-CPR-HKR,1,3,sr
+Judicial Layout 8th Main ⇔ Depot-34 Gate,JLOT-D34G,1,3,1nd
+Judicial Layout 8th Main ⇔ Vidhana Soudha Karnataka High Court,211-UB JLO-KHCV,1,3,25x
+Judicial Layout Water Tank ⇔ Shivajinagara Bus Station,402-D JLOW-VSD-SBS,1,3,1yt
+Judicial Layout YHK ⇔ Doddaballapura Bus Stand,285-MA JDL-DBP,1,3,1l4
+Juggath Pharma ⇔ KR Pura Govt Hospital,502-D JGF-SMH-GGP-KRPGH,1,3,11b
+K Narayanapura Main Bus Stand ⇔ Kalyananagara Bus Stand,290-KLN-KNP,1,3,255
+KLE Society College ⇔ Hebbala Bridge,502-E KLELC-HBLB,1,3,qn
+KR Market (Kalasipalya) ⇔ 11th Block Anjanapura,215-NE,1,3,1dq
+KR Market (Kalasipalya) ⇔ 1st Block Vishweshwaraiah Layout,223-L,1,3,f2
+KR Market (Kalasipalya) ⇔ Adigara Kallahalli,342-K,1,3,ri
+KR Market (Kalasipalya) ⇔ Agara,212,1,3,ur
+KR Market (Kalasipalya) ⇔ Ajmeer Apartment Neeladri Road,346 KMT-AMJA,1,3,18m
+KR Market (Kalasipalya) ⇔ Allammanapalya,227-L,1,3,f8
+KR Market (Kalasipalya) ⇔ Amruthanagara,215,1,3,1nf
+KR Market (Kalasipalya) ⇔ Anchipura Colony,211-R,1,3,gu
+KR Market (Kalasipalya) ⇔ Anchipura Colony,226-S,1,3,xm
+KR Market (Kalasipalya) ⇔ Anekal,361-C,1,3,28l
+KR Market (Kalasipalya) ⇔ Anekal,366-Z,1,3,1zm
+KR Market (Kalasipalya) ⇔ Anjanapura,215-K,1,3,239
+KR Market (Kalasipalya) ⇔ Anjanapura 10th Block,215 KMT-D44,1,3,c5
+KR Market (Kalasipalya) ⇔ Anjanapura 10th Block,215 KMT-D44G,1,3,q4
+KR Market (Kalasipalya) ⇔ Anjanapura 10th Block,367-B,1,3,q8
+KR Market (Kalasipalya) ⇔ Anjanapura 2nd Block,215-BC,1,3,1ir
+KR Market (Kalasipalya) ⇔ Anjanapura 2nd Block,215-KA,1,3,nn
+KR Market (Kalasipalya) ⇔ Annahalli,226-VB,1,3,1m6
+KR Market (Kalasipalya) ⇔ Aralalusandra,213-M,1,3,22u
+KR Market (Kalasipalya) ⇔ Arenur,342-V,1,3,lx
+KR Market (Kalasipalya) ⇔ Attibele Bus Stand,360,1,3,1li
+KR Market (Kalasipalya) ⇔ Avalahalli BDA Layout,215-B,1,3,1fn
+KR Market (Kalasipalya) ⇔ Avarehalli,227-W,1,3,e8
+KR Market (Kalasipalya) ⇔ Averahalli,245-F,1,3,20n
+KR Market (Kalasipalya) ⇔ BCMC Layout Raghuvanahalli,215-BA,1,3,24y
+KR Market (Kalasipalya) ⇔ BDA Flats Kommaghatta,222 KMT-KBDA,1,3,xj
+KR Market (Kalasipalya) ⇔ BEL Factory,248 KMT-JHC-BELF,1,3,199
+KR Market (Kalasipalya) ⇔ BEML Layout 5th stage,225-B,1,3,17d
+KR Market (Kalasipalya) ⇔ BHEL Layout Maramma Temple,225-K,1,3,10k
+KR Market (Kalasipalya) ⇔ BMTC Training Centre,245-DA KMT-BMTCTC,1,3,1vy
+KR Market (Kalasipalya) ⇔ Badekatte,216-B,1,3,9t
+KR Market (Kalasipalya) ⇔ Baleveeranahalli,242-LA,1,3,1wn
+KR Market (Kalasipalya) ⇔ Bandapura,357,1,3,me
+KR Market (Kalasipalya) ⇔ Bande Mutt Badavane Radiant Enclave,221-D,1,3,1aw
+KR Market (Kalasipalya) ⇔ Bangarappa Nagara,225-P,1,3,3s
+KR Market (Kalasipalya) ⇔ Banjarapalya,216,1,3,jw
+KR Market (Kalasipalya) ⇔ Bannerughatta Circle,215-Z,1,3,1lr
+KR Market (Kalasipalya) ⇔ Bannerughatta National Park,366,1,3,156
+KR Market (Kalasipalya) ⇔ Bannigiri,213-F,1,3,2f
+KR Market (Kalasipalya) ⇔ Bannikuppe,231-B,1,3,wz
+KR Market (Kalasipalya) ⇔ Basammanahalli,227-K,1,3,153
+KR Market (Kalasipalya) ⇔ Beguru,343,1,3,og
+KR Market (Kalasipalya) ⇔ Bengaluru Central Jail,346-J,1,3,28v
+KR Market (Kalasipalya) ⇔ Bettadasanapura,344-C,1,3,pp
+KR Market (Kalasipalya) ⇔ Bettadasanapura,344-D,1,3,10r
+KR Market (Kalasipalya) ⇔ Bettahalli,245-D,1,3,21e
+KR Market (Kalasipalya) ⇔ Bettahalli Kaval,213-H,1,3,22f
+KR Market (Kalasipalya) ⇔ Bettanapalya,221-H,1,3,1fl
+KR Market (Kalasipalya) ⇔ Bettanapalya,230-A,1,3,cc
+KR Market (Kalasipalya) ⇔ Bheemanakuppe,227-C,1,3,l6
+KR Market (Kalasipalya) ⇔ Bhokipura,213-J,1,3,1gb
+KR Market (Kalasipalya) ⇔ Bidadi,211-N,1,3,yr
+KR Market (Kalasipalya) ⇔ Bidadi,226-F,1,3,zk
+KR Market (Kalasipalya) ⇔ Bidadi,226-M,1,3,1j7
+KR Market (Kalasipalya) ⇔ Bidadi,231-K,1,3,24d
+KR Market (Kalasipalya) ⇔ Bidaraguppe,360-E,1,3,27w
+KR Market (Kalasipalya) ⇔ Bikkana Hosahalli,342-G,1,3,jg
+KR Market (Kalasipalya) ⇔ Bilavaradahalli,366-G,1,3,1xg
+KR Market (Kalasipalya) ⇔ Billa Kempanahalli,226,1,3,1iq
+KR Market (Kalasipalya) ⇔ Biskur,240-K,1,3,1k1
+KR Market (Kalasipalya) ⇔ Bommandahalli,372-J,1,3,1o3
+KR Market (Kalasipalya) ⇔ Bommasandra,350-G,1,3,16
+KR Market (Kalasipalya) ⇔ Brahma Devara Gudda,241-N,1,3,218
+KR Market (Kalasipalya) ⇔ Bukkasagara,366-L,1,3,fl
+KR Market (Kalasipalya) ⇔ Byatarayana Doddy,366-M,1,3,bh
+KR Market (Kalasipalya) ⇔ Bylakonenahalli,240-E,1,3,154
+KR Market (Kalasipalya) ⇔ Byramangala,211-RA,1,3,q5
+KR Market (Kalasipalya) ⇔ Byramangala,213-DA,1,3,1hw
+KR Market (Kalasipalya) ⇔ Byrasandra,216-A,1,3,1t0
+KR Market (Kalasipalya) ⇔ Byrohalli,230,1,3,g7
+KR Market (Kalasipalya) ⇔ CK Thandya,227-T,1,3,28g
+KR Market (Kalasipalya) ⇔ Chandra Layout,234 KMT-MRBS-CLO,1,3,161
+KR Market (Kalasipalya) ⇔ Chandra Layout,234-A  KMT-VJN-CLO,1,3,b6
+KR Market (Kalasipalya) ⇔ Chandrappa Circle,227-RC,1,3,l2
+KR Market (Kalasipalya) ⇔ Channa Marayyanapalya,242-RA,1,3,a
+KR Market (Kalasipalya) ⇔ Channegowdana Doddy,226-E,1,3,as
+KR Market (Kalasipalya) ⇔ Chikka Dasarahalli,342-W,1,3,yc
+KR Market (Kalasipalya) ⇔ Chikka Hagade,361-B,1,3,gm
+KR Market (Kalasipalya) ⇔ Chikka Kammanahalli,369-E,1,3,12e
+KR Market (Kalasipalya) ⇔ Chikka Kodigehalli,241-CD,1,3,ch
+KR Market (Kalasipalya) ⇔ Chikka Kuntanahalli,228-F,1,3,dy
+KR Market (Kalasipalya) ⇔ Chikka Maskal,240-J,1,3,10n
+KR Market (Kalasipalya) ⇔ Chikka Nagamangala,346-D,1,3,8s
+KR Market (Kalasipalya) ⇔ Chikkanahalli,227-F,1,3,mq
+KR Market (Kalasipalya) ⇔ Chikkanahalli,372-A,1,3,l
+KR Market (Kalasipalya) ⇔ Chikkegowdanapalya,225-DA,1,3,gg
+KR Market (Kalasipalya) ⇔ Chinnaiahnapalya,372-E,1,3,so
+KR Market (Kalasipalya) ⇔ Chokkasandra,342-C,1,3,1hp
+KR Market (Kalasipalya) ⇔ Cholanayakanahalli,242-E,1,3,1y8
+KR Market (Kalasipalya) ⇔ Chudahalli,211-P,1,3,1jr
+KR Market (Kalasipalya) ⇔ DLF Home Town,369 KMT-DLF,1,3,1kd
+KR Market (Kalasipalya) ⇔ Dasanapura,360-Q,1,3,p9
+KR Market (Kalasipalya) ⇔ Depot-27 Gate,366-E KMT-D27,1,3,26w
+KR Market (Kalasipalya) ⇔ Depot-31 Gate,77 KMT-D31G,1,3,37
+KR Market (Kalasipalya) ⇔ Depot-34 Gate,215-C KMT-JSD-D34G,1,3,lp
+KR Market (Kalasipalya) ⇔ Depot-34 Gate,366 KMT-D34G,1,3,fv
+KR Market (Kalasipalya) ⇔ Depot-34 Gate,369 KMT-D34G,1,3,24s
+KR Market (Kalasipalya) ⇔ Depot-38 Gate,340-J KMT-D38G,1,3,d0
+KR Market (Kalasipalya) ⇔ Depot-42 Gate  Arrival,342‌ KMT-D42G,1,3,21k
+KR Market (Kalasipalya) ⇔ Devagere,224-DA,1,3,24a
+KR Market (Kalasipalya) ⇔ Devagere,229-B,1,3,1za
+KR Market (Kalasipalya) ⇔ Devarachikkanahalli,366-A,1,3,3d
+KR Market (Kalasipalya) ⇔ Dhananayakanahalli,223-H,1,3,278
+KR Market (Kalasipalya) ⇔ Dodda Basti,221-C,1,3,m
+KR Market (Kalasipalya) ⇔ Dodda Basti,223-D,1,3,zm
+KR Market (Kalasipalya) ⇔ Dodda Basti,235-K KMT-DBT,1,3,139
+KR Market (Kalasipalya) ⇔ Dodda Maralawadi,213-W,1,3,a8
+KR Market (Kalasipalya) ⇔ Dodda Nagamangala,346-B,1,3,ox
+KR Market (Kalasipalya) ⇔ Dodda Thimmasandra,342-L,1,3,8h
+KR Market (Kalasipalya) ⇔ Doddabele,220-D,1,3,256
+KR Market (Kalasipalya) ⇔ Doddakallasandra Metro Station,215-X KMT-DKMS,1,3,ki
+KR Market (Kalasipalya) ⇔ Doddakuntanahalli,228-C,1,3,24l
+KR Market (Kalasipalya) ⇔ Doddamaranahalli,227-Q,1,3,1fv
+KR Market (Kalasipalya) ⇔ Doddamaranahalli,242-J,1,3,pv
+KR Market (Kalasipalya) ⇔ Dodderi Grama,231,1,3,1lx
+KR Market (Kalasipalya) ⇔ Doddypalya,224-D,1,3,1gl
+KR Market (Kalasipalya) ⇔ Dommasandra,342,1,3,1g9
+KR Market (Kalasipalya) ⇔ Dyavalingaiahnapalya,231-H,1,3,z5
+KR Market (Kalasipalya) ⇔ Dyavasandra,366-Q,1,3,1ge
+KR Market (Kalasipalya) ⇔ Gadigaiahana Doddy,227-VB,1,3,1b7
+KR Market (Kalasipalya) ⇔ Ganakal,231-E,1,3,24e
+KR Market (Kalasipalya) ⇔ Gangenahalli,242-Q,1,3,1jk
+KR Market (Kalasipalya) ⇔ Gattahalli,349-B,1,3,4v
+KR Market (Kalasipalya) ⇔ Giddenahalli,242-N,1,3,1c
+KR Market (Kalasipalya) ⇔ Giddenahalli,366-N,1,3,x5
+KR Market (Kalasipalya) ⇔ Girigowdana Doddy,214-B,1,3,xw
+KR Market (Kalasipalya) ⇔ Giriyappanapalya,227-RB,1,3,1r2
+KR Market (Kalasipalya) ⇔ Gollahalli Electronic City,346-M,1,3,bz
+KR Market (Kalasipalya) ⇔ Gonipura,228,1,3,1or
+KR Market (Kalasipalya) ⇔ Gottigehalli,213-QA,1,3,23x
+KR Market (Kalasipalya) ⇔ Gottigehalli,214-G,1,3,17i
+KR Market (Kalasipalya) ⇔ Guddadahalli Dinne,231-J,1,3,1on
+KR Market (Kalasipalya) ⇔ Gudipalya,211-K,1,3,14f
+KR Market (Kalasipalya) ⇔ Gullahatti Kaval,214-H,1,3,17
+KR Market (Kalasipalya) ⇔ Gundanjaneya Swamy Temple Ravagodlu,213-K,1,3,mc
+KR Market (Kalasipalya) ⇔ Gundur,342-M,1,3,59
+KR Market (Kalasipalya) ⇔ Gunjurpalya,340,1,3,28
+KR Market (Kalasipalya) ⇔ HSR Layout KEB,347-D,1,3,18r
+KR Market (Kalasipalya) ⇔ Hagalahalli,227-U,1,3,p3
+KR Market (Kalasipalya) ⇔ Hakki Pikki Colony,226-L,1,3,1r0
+KR Market (Kalasipalya) ⇔ Hakki Pikki Colony Bannerughatta,366 KMT-HPC,1,3,q3
+KR Market (Kalasipalya) ⇔ Hampapura,226-B,1,3,25d
+KR Market (Kalasipalya) ⇔ Handenahalli Attibele,342-TA,1,3,x3
+KR Market (Kalasipalya) ⇔ Handenahalli Attibele,349-A,1,3,1cc
+KR Market (Kalasipalya) ⇔ Haragadde,344-A,1,3,dg
+KR Market (Kalasipalya) ⇔ Harohalli,MKT-5H,1,3,1zy
+KR Market (Kalasipalya) ⇔ Heligehalli Colony,240-N,1,3,uy
+KR Market (Kalasipalya) ⇔ Hesaraghatta,248-BB,1,3,8j
+KR Market (Kalasipalya) ⇔ Hongasandra MICO Layout,343-H,1,3,1ln
+KR Market (Kalasipalya) ⇔ Hulimangala,345,1,3,1y1
+KR Market (Kalasipalya) ⇔ Hulimangala,345-A,1,3,v8
+KR Market (Kalasipalya) ⇔ Hulimangala,346-K,1,3,1im
+KR Market (Kalasipalya) ⇔ Hulimavu,369,1,3,163
+KR Market (Kalasipalya) ⇔ Huluvenahalli,242-P,1,3,17g
+KR Market (Kalasipalya) ⇔ Hunnigere,227-P,1,3,1j9
+KR Market (Kalasipalya) ⇔ Huskur,349,1,3,an
+KR Market (Kalasipalya) ⇔ Huskur,349-D,1,3,26x
+KR Market (Kalasipalya) ⇔ ITI Layout,235-L,1,3,1bp
+KR Market (Kalasipalya) ⇔ Indluvadi,372,1,3,jv
+KR Market (Kalasipalya) ⇔ Innovative Film City,226-MA KMT-IFC,1,3,1xx
+KR Market (Kalasipalya) ⇔ Jalahalli Cross,248,1,3,147
+KR Market (Kalasipalya) ⇔ Jambu Savari Dinne,215-C,1,3,1lh
+KR Market (Kalasipalya) ⇔ Janatha Colony Byalalu,227-R,1,3,11u
+KR Market (Kalasipalya) ⇔ Jangamayyanapalya,227-G KMT-JMP,1,3,oj
+KR Market (Kalasipalya) ⇔ Jigani APC Circle,366-E,1,3,p8
+KR Market (Kalasipalya) ⇔ Jogerahalli,242-R,1,3,2w
+KR Market (Kalasipalya) ⇔ KG Lakkenahalli,247,1,3,cl
+KR Market (Kalasipalya) ⇔ KR Market (Kalasipalya),219-A,1,3,1yv
+KR Market (Kalasipalya) ⇔ KR Market (Kalasipalya),219-A GR College,1,3,y0
+KR Market (Kalasipalya) ⇔ Kachohalli,240-C,1,3,1rz
+KR Market (Kalasipalya) ⇔ Kada Agrahara,342-X,1,3,1aq
+KR Market (Kalasipalya) ⇔ Kadabagere,245-C,1,3,21o
+KR Market (Kalasipalya) ⇔ Kadu Jakkasandra,214-L,1,3,12p
+KR Market (Kalasipalya) ⇔ Kaggalipura,229-D,1,3,19z
+KR Market (Kalasipalya) ⇔ Kaggalipura,349-M,1,3,uv
+KR Market (Kalasipalya) ⇔ Kaggalipura,371-A,1,3,24z
+KR Market (Kalasipalya) ⇔ Kaka Ramanahalli,231-F,1,3,4i
+KR Market (Kalasipalya) ⇔ Kallur,242-ZB,1,3,r0
+KR Market (Kalasipalya) ⇔ Kambalipura,360-D KMT-ATB-KMLP,1,3,26y
+KR Market (Kalasipalya) ⇔ Kambipura,218,1,3,29k
+KR Market (Kalasipalya) ⇔ Kammasandra,245-DA,1,3,1xv
+KR Market (Kalasipalya) ⇔ Kannalli,241-P,1,3,1fw
+KR Market (Kalasipalya) ⇔ Kanuvanahalli,242-TB,1,3,1mh
+KR Market (Kalasipalya) ⇔ Karekalpalya,242-JK,1,3,1vv
+KR Market (Kalasipalya) ⇔ Karenahalli,211-E,1,3,13c
+KR Market (Kalasipalya) ⇔ Karenahalli,226-K KMT-KRNHL,1,3,27a
+KR Market (Kalasipalya) ⇔ Karpura,356-B,1,3,b3
+KR Market (Kalasipalya) ⇔ Karubele,224,1,3,1df
+KR Market (Kalasipalya) ⇔ Kattalepalya,211-Q,1,3,1xq
+KR Market (Kalasipalya) ⇔ Kempadyapanahalli,231-G,1,3,17o
+KR Market (Kalasipalya) ⇔ Kempaiahnapalya,213-D,1,3,28r
+KR Market (Kalasipalya) ⇔ Kenchanakuppe,226-U,1,3,1ta
+KR Market (Kalasipalya) ⇔ Kenchanapura,241,1,3,1c6
+KR Market (Kalasipalya) ⇔ Kengeri Bus Station,210-KN,1,3,oy
+KR Market (Kalasipalya) ⇔ Kengeri Satellite Town,222,1,3,18a
+KR Market (Kalasipalya) ⇔ Kirloskar Badavane,248-T,1,3,26l
+KR Market (Kalasipalya) ⇔ Kittanahalli,245-E,1,3,xg
+KR Market (Kalasipalya) ⇔ Kodalipura,360-H,1,3,1sm
+KR Market (Kalasipalya) ⇔ Kodipalya,213-FA,1,3,uh
+KR Market (Kalasipalya) ⇔ Kodiyala,211-G,1,3,k4
+KR Market (Kalasipalya) ⇔ Kolliganahalli,226-V KMT-KGH,1,3,1hz
+KR Market (Kalasipalya) ⇔ Konasandra,372-B,1,3,9y
+KR Market (Kalasipalya) ⇔ KoratagereDoddy Bannerughatta,370-B,1,3,105
+KR Market (Kalasipalya) ⇔ Kothaganahalli,242-ZC,1,3,pw
+KR Market (Kalasipalya) ⇔ Kothanuru Hari Nagara,215-A,1,3,11e
+KR Market (Kalasipalya) ⇔ Kudlu,347,1,3,4t
+KR Market (Kalasipalya) ⇔ Kyalasanahalli,345-E,1,3,1x
+KR Market (Kalasipalya) ⇔ Laggere New Bus Stand,251-E,1,3,28d
+KR Market (Kalasipalya) ⇔ Lakshmipura,242-U,1,3,1aa
+KR Market (Kalasipalya) ⇔ Lakshmipura Kalkere,367-D,1,3,260
+KR Market (Kalasipalya) ⇔ Lingadeeranahalli,240-H KMT-LDH,1,3,lg
+KR Market (Kalasipalya) ⇔ Lingadeeranahalli,243-L KMT-LDH,1,3,ej
+KR Market (Kalasipalya) ⇔ Lingapura,366-T,1,3,223
+KR Market (Kalasipalya) ⇔ M Gopahalli,226-VA,1,3,4h
+KR Market (Kalasipalya) ⇔ M Karenahalli,226-P,1,3,fo
+KR Market (Kalasipalya) ⇔ Machohalli,240,1,3,fw
+KR Market (Kalasipalya) ⇔ Madapatna,227-NA,1,3,116
+KR Market (Kalasipalya) ⇔ Madapatna,242-H,1,3,i9
+KR Market (Kalasipalya) ⇔ Magadi,240-M,1,3,1d0
+KR Market (Kalasipalya) ⇔ Magadi,240-MA,1,3,14q
+KR Market (Kalasipalya) ⇔ Magadi,V-240M,1,3,7s
+KR Market (Kalasipalya) ⇔ Mahadeshwara Badavane,352-E,1,3,1pe
+KR Market (Kalasipalya) ⇔ Mahalakshmi Layout,77,1,3,1g7
+KR Market (Kalasipalya) ⇔ Maligondanahalli,227-J,1,3,18y
+KR Market (Kalasipalya) ⇔ Mallipalya,211-DA,1,3,9z
+KR Market (Kalasipalya) ⇔ Manchanabele,226-MB,1,3,ac
+KR Market (Kalasipalya) ⇔ Manchanahalli,360-D,1,3,1et
+KR Market (Kalasipalya) ⇔ Manchenahalli,242-L,1,3,22v
+KR Market (Kalasipalya) ⇔ Manganahalli,234,1,3,1f8
+KR Market (Kalasipalya) ⇔ Mantanakurchi,242-TA,1,3,oz
+KR Market (Kalasipalya) ⇔ Marasur Madivala,357-A,1,3,1y6
+KR Market (Kalasipalya) ⇔ Maruthi Markandeyanagara,240-BA,1,3,1s4
+KR Market (Kalasipalya) ⇔ Mayasandra,227-A,1,3,1me
+KR Market (Kalasipalya) ⇔ Mayasandra,358,1,3,r6
+KR Market (Kalasipalya) ⇔ Mukkodlu,211-H,1,3,ks
+KR Market (Kalasipalya) ⇔ Mukkodlu,214-C,1,3,1c0
+KR Market (Kalasipalya) ⇔ Mukthi Naga Temple,227-Y,1,3,1d8
+KR Market (Kalasipalya) ⇔ Muni Nagara,214-E,1,3,9p
+KR Market (Kalasipalya) ⇔ Muthurayanagudipalya,231-C,1,3,24x
+KR Market (Kalasipalya) ⇔ Muttanahalli,342-Z,1,3,zh
+KR Market (Kalasipalya) ⇔ Muttanalluru,342-B,1,3,kx
+KR Market (Kalasipalya) ⇔ Muttanalluru,350-B,1,3,1n0
+KR Market (Kalasipalya) ⇔ Mutturayanaswamy Doddy,366-KA,1,3,4c
+KR Market (Kalasipalya) ⇔ Mylasandra Road Junction,343-M,1,3,25i
+KR Market (Kalasipalya) ⇔ Naganayakanahalli,211-D,1,3,tp
+KR Market (Kalasipalya) ⇔ Nagarahole Nagara,240-G,1,3,1fr
+KR Market (Kalasipalya) ⇔ NallakkanaDoddy,214-J,1,3,yy
+KR Market (Kalasipalya) ⇔ Nandini Layout Bus Stand,77-E,1,3,1pi
+KR Market (Kalasipalya) ⇔ Nanjapura,345-C,1,3,1m8
+KR Market (Kalasipalya) ⇔ Narasapura 1,360-N,1,3,1pw
+KR Market (Kalasipalya) ⇔ Narayanaghatta,351,1,3,1r7
+KR Market (Kalasipalya) ⇔ Narayanapura,212-B,1,3,1j2
+KR Market (Kalasipalya) ⇔ Nawkalpalya,213-C,1,3,1s0
+KR Market (Kalasipalya) ⇔ Nelamangala Bus Station,240-F,1,3,1zj
+KR Market (Kalasipalya) ⇔ Nelamangala Bus Station,242-TC,1,3,x0
+KR Market (Kalasipalya) ⇔ Nelamangala Bus Station,245-A,1,3,1yg
+KR Market (Kalasipalya) ⇔ Nelamangala Bus Station,245-H,1,3,1c2
+KR Market (Kalasipalya) ⇔ Nettigere,213-A,1,3,24p
+KR Market (Kalasipalya) ⇔ Nisarga Badavane,372-C,1,3,xn
+KR Market (Kalasipalya) ⇔ Nosenuru,366-F,1,3,q9
+KR Market (Kalasipalya) ⇔ Nosenuru,366-QA,1,3,8d
+KR Market (Kalasipalya) ⇔ OB Chudanahalli,211-T,1,3,72
+KR Market (Kalasipalya) ⇔ Parappana Agrahara,346-G,1,3,u8
+KR Market (Kalasipalya) ⇔ Parasanapalya,226-K KMT-PRSP,1,3,20d
+KR Market (Kalasipalya) ⇔ Parasanapalya,226-R,1,3,rm
+KR Market (Kalasipalya) ⇔ Parasanapalya,228-A,1,3,23l
+KR Market (Kalasipalya) ⇔ Peenya Satellite Bus Station (Basaveshwara),248-PS,1,3,h4
+KR Market (Kalasipalya) ⇔ Pillahalli,248-Y,1,3,6f
+KR Market (Kalasipalya) ⇔ Podu Village,344-F,1,3,m7
+KR Market (Kalasipalya) ⇔ Punugumaranahalli,227-N,1,3,12h
+KR Market (Kalasipalya) ⇔ Rajapura,353-A,1,3,w7
+KR Market (Kalasipalya) ⇔ Ramasandra,221-E,1,3,107
+KR Market (Kalasipalya) ⇔ Ramasandra,223-E,1,3,1a
+KR Market (Kalasipalya) ⇔ Ramohalli,227,1,3,mt
+KR Market (Kalasipalya) ⇔ Ravagodlu,213,1,3,1my
+KR Market (Kalasipalya) ⇔ Ravagodlu,213-S,1,3,ll
+KR Market (Kalasipalya) ⇔ Ravuthanahalli,245,1,3,1em
+KR Market (Kalasipalya) ⇔ Rayasandra Circle,346-C KMT-RYS,1,3,i5
+KR Market (Kalasipalya) ⇔ Sadhanapalya,213-R,1,3,zg
+KR Market (Kalasipalya) ⇔ Sampige Nagara,350-D,1,3,1fm
+KR Market (Kalasipalya) ⇔ Sarjapura,342-A,1,3,c9
+KR Market (Kalasipalya) ⇔ Savandurga,241-M,1,3,25y
+KR Market (Kalasipalya) ⇔ Shanthinagara Bus Station,KMT-SNBS,1,3,1zl
+KR Market (Kalasipalya) ⇔ Shanthiniketan Layout,369-B,1,3,1sl
+KR Market (Kalasipalya) ⇔ Shanubhoganahalli Bannerughatta,366-C,1,3,am
+KR Market (Kalasipalya) ⇔ Sheshadri Nagara,248-L,1,3,1mn
+KR Market (Kalasipalya) ⇔ Shettyhalli,248-V,1,3,jp
+KR Market (Kalasipalya) ⇔ Shikaripalya,346-A,1,3,1zw
+KR Market (Kalasipalya) ⇔ Shivanahalli,370,1,3,s5
+KR Market (Kalasipalya) ⇔ Shobha Hills View Apartment,212-C,1,3,21u
+KR Market (Kalasipalya) ⇔ Shreepatihalli,243-M,1,3,5n
+KR Market (Kalasipalya) ⇔ Shyanumangala,226-K,1,3,k5
+KR Market (Kalasipalya) ⇔ Sidi Hoskote,361,1,3,12v
+KR Market (Kalasipalya) ⇔ Singena Agrahara,351-H,1,3,1ou
+KR Market (Kalasipalya) ⇔ Sollepura,342-T,1,3,10a
+KR Market (Kalasipalya) ⇔ Somanahalli,211,1,3,20z
+KR Market (Kalasipalya) ⇔ Srigandha Nagara,248-F,1,3,1fo
+KR Market (Kalasipalya) ⇔ St Marys School Chikkakammanahalli,369-N KMT-STMSC,1,3,7a
+KR Market (Kalasipalya) ⇔ Subbarayappanapalya,227-G,1,3,24w
+KR Market (Kalasipalya) ⇔ Subhashnagara Hosa Road,347-M,1,3,16q
+KR Market (Kalasipalya) ⇔ Sugganahalli,227-Z,1,3,1uw
+KR Market (Kalasipalya) ⇔ Sulikere,223-F,1,3,i7
+KR Market (Kalasipalya) ⇔ Sulivara,242-MA,1,3,g6
+KR Market (Kalasipalya) ⇔ Talaguppe,226-T,1,3,r7
+KR Market (Kalasipalya) ⇔ Tattaguppe,214,1,3,92
+KR Market (Kalasipalya) ⇔ Tattekere,366-X,1,3,1ju
+KR Market (Kalasipalya) ⇔ Tavarekere,221-J,1,3,6y
+KR Market (Kalasipalya) ⇔ Tavarekere,227-B,1,3,1bx
+KR Market (Kalasipalya) ⇔ Tavarekere,242,1,3,i0
+KR Market (Kalasipalya) ⇔ Thammanayakanahalli,372-M,1,3,1v8
+KR Market (Kalasipalya) ⇔ Tharalu,214-D,1,3,dl
+KR Market (Kalasipalya) ⇔ Tharalu Estate,214-D KMT-TRLE,1,3,1t3
+KR Market (Kalasipalya) ⇔ Thayappana Doddy,213-P,1,3,1t4
+KR Market (Kalasipalya) ⇔ Thigalara Chowdenahalli,342-AA,1,3,fs
+KR Market (Kalasipalya) ⇔ Thigalarapalya,243-B,1,3,y2
+KR Market (Kalasipalya) ⇔ Thigalarapalya,243-C,1,3,287
+KR Market (Kalasipalya) ⇔ Thimmappana Palya,226-C,1,3,vy
+KR Market (Kalasipalya) ⇔ Thindlu Sarjapura,342-E,1,3,13t
+KR Market (Kalasipalya) ⇔ Thippasandra,215-X,1,3,qy
+KR Market (Kalasipalya) ⇔ Thippuru,228-E,1,3,tk
+KR Market (Kalasipalya) ⇔ Thirumalapura,227-ZA,1,3,13h
+KR Market (Kalasipalya) ⇔ Thirupalya,350-A,1,3,1iv
+KR Market (Kalasipalya) ⇔ Thiruvaranga,342-Y,1,3,15l
+KR Market (Kalasipalya) ⇔ Thittahalli,228-B,1,3,1kv
+KR Market (Kalasipalya) ⇔ Thokathimmana Doddy,213-E,1,3,6d
+KR Market (Kalasipalya) ⇔ ThoreDoddy,226-V,1,3,eg
+KR Market (Kalasipalya) ⇔ Tulasipura,215-T,1,3,12u
+KR Market (Kalasipalya) ⇔ Udaya Badavane,234 KMT-UDB,1,3,n
+KR Market (Kalasipalya) ⇔ Uddandahalli,227-D,1,3,15f
+KR Market (Kalasipalya) ⇔ UjinappanaDoddy,370-A,1,3,13w
+KR Market (Kalasipalya) ⇔ Ullala Satelite Town,234-A,1,3,4b
+KR Market (Kalasipalya) ⇔ Ullala Satelite Town,241-A,1,3,mj
+KR Market (Kalasipalya) ⇔ Upkar Residency Layout,235-R,1,3,1vl
+KR Market (Kalasipalya) ⇔ Vaddarapalya,366-R,1,3,114
+KR Market (Kalasipalya) ⇔ Vaderahalli,211-C,1,3,1i5
+KR Market (Kalasipalya) ⇔ Vaderamanchanahalli Jigani,366-W,1,3,112
+KR Market (Kalasipalya) ⇔ Vajarahalli,226-D,1,3,a4
+KR Market (Kalasipalya) ⇔ Valagere Kallahalli,342-J,1,3,1l
+KR Market (Kalasipalya) ⇔ Varahasandra,224-A,1,3,1qj
+KR Market (Kalasipalya) ⇔ Varthuru,342-D,1,3,29q
+KR Market (Kalasipalya) ⇔ Vasanthapura,210-D,1,3,1r5
+KR Market (Kalasipalya) ⇔ Yalachaguppe,242-F,1,3,4n
+KR Market (Kalasipalya) ⇔ Yale Kodigehalli,241-C,1,3,22c
+KR Market (Kalasipalya) ⇔ Yelenahalli,369-N,1,3,1ss
+KR Market ⇔ 5th Phase Yelahanka New Town,402,1,3,1j
+KR Market ⇔ 9th Block Jayanagara,24-A KMT-JNN,1,3,r2
+KR Market ⇔ Abbigere,273-B KMT-ABG,1,3,1a1
+KR Market ⇔ Allalasandra,284-E,1,3,hn
+KR Market ⇔ Aluru,257,1,3,1oh
+KR Market ⇔ Amarajyothi Badavane,415-E,1,3,ez
+KR Market ⇔ Ambedkar Medical College Shampura,291-E,1,3,1be
+KR Market ⇔ Anugondanahalli,304-N,1,3,1ef
+KR Market ⇔ Anugondanahalli,329-F,1,3,jz
+KR Market ⇔ Arahalli,317-Q,1,3,1bl
+KR Market ⇔ Arasanahalli,306-P,1,3,cr
+KR Market ⇔ Arehalli,304,1,3,13u
+KR Market ⇔ Attibele Bus Stand,327-C,1,3,uf
+KR Market ⇔ Atturu,402-A,1,3,20b
+KR Market ⇔ B Marenahalli,316-D,1,3,1xr
+KR Market ⇔ B Marenahalli,316-D KMT-BMH,1,3,9h
+KR Market ⇔ B Nagasandra,334-B,1,3,13f
+KR Market ⇔ Babusabpalya 302,302-C,1,3,1jp
+KR Market ⇔ Bagalur,289,1,3,z4
+KR Market ⇔ Bagalur,293-SA,1,3,15d
+KR Market ⇔ Baguru,323,1,3,iu
+KR Market ⇔ Balagere,332,1,3,ab
+KR Market ⇔ Banarahalli,306-F,1,3,1sh
+KR Market ⇔ Banarahalli,306-T,1,3,it
+KR Market ⇔ Banasawadi,303,1,3,1z
+KR Market ⇔ Basavanagara,335-B,1,3,1m
+KR Market ⇔ Bayyappanahalli,316-V,1,3,15a
+KR Market ⇔ Beerahalli,382-AB,1,3,1cx
+KR Market ⇔ Beguru,317-S,1,3,1hq
+KR Market ⇔ Bellikere,329-E,1,3,em
+KR Market ⇔ Bettahalasuru Village,283,1,3,y3
+KR Market ⇔ Bettenahalli,285-KA,1,3,17s
+KR Market ⇔ Bhaktharahalli,305-A,1,3,8m
+KR Market ⇔ Bhoganahalli,336-KMT-BGH,1,3,ps
+KR Market ⇔ Bhovipalya,297-F,1,3,28z
+KR Market ⇔ Bidalapura,316-R,1,3,1ba
+KR Market ⇔ Bileshivale,294,1,3,7w
+KR Market ⇔ Bishop Coton Girls High School,KMT-BCGHS,1,3,lu
+KR Market ⇔ Bommanabande,305-P,1,3,1d6
+KR Market ⇔ Bommashettyhalli,258-GA,1,3,e4
+KR Market ⇔ Bommenahalli,318-A,1,3,gw
+KR Market ⇔ Budigere,316,1,3,i4
+KR Market ⇔ Budigere,316-N,1,3,1dk
+KR Market ⇔ Budumanahalli,285-G,1,3,245
+KR Market ⇔ Byalahalli,293-M,1,3,7b
+KR Market ⇔ Byatha,253-A,1,3,159
+KR Market ⇔ Byrapura,285-F,1,3,1pm
+KR Market ⇔ Challahalli,285-R,1,3,9q
+KR Market ⇔ Channa Nayakanapalya,263-E,1,3,1s1
+KR Market ⇔ Cheemandahalli,317-R,1,3,r4
+KR Market ⇔ Chikka Banavara,250,1,3,1up
+KR Market ⇔ Chikka Banavara,271-F,1,3,1ov
+KR Market ⇔ Chikka Madhure,253-K,1,3,1ll
+KR Market ⇔ Chikka Madhure,258 KMT-CMDR,1,3,v0
+KR Market ⇔ Chikka Thirupathi,304-V,1,3,6o
+KR Market ⇔ Chikka Tumkur,285-CC,1,3,26i
+KR Market ⇔ Chokkanahalli,286-B,1,3,xe
+KR Market ⇔ Chokkanahalli,289-E,1,3,1pc
+KR Market ⇔ Christal House Learning School,293 KMT-CHLS,1,3,3m
+KR Market ⇔ Coffee Board Layout,287-C,1,3,1wb
+KR Market ⇔ D Hosahalli,306-K,1,3,1yo
+KR Market ⇔ Dandupalya,380-G,1,3,1ny
+KR Market ⇔ Dasarahalli,317-M,1,3,xo
+KR Market ⇔ Depot-41 Gate,319-J KMT-D41G,1,3,a3
+KR Market ⇔ Depot-41 Gate,323 KMT-HAL-D41G,1,3,5h
+KR Market ⇔ Depot-45 Gate,276-E KMT-MTK-VRP-D45,1,3,1w5
+KR Market ⇔ Devanagondi,306,1,3,4g
+KR Market ⇔ Devanahalli Old Bus Stand,298-M KMT-DVH,1,3,vm
+KR Market ⇔ Devashettyhalli,305-G,1,3,1t
+KR Market ⇔ Devashettyhalli,380-F,1,3,3j
+KR Market ⇔ Dinnur,319-J,1,3,9d
+KR Market ⇔ Dodda Dasarahalli,305-R,1,3,4s
+KR Market ⇔ Dodda Gubbi,295,1,3,1i8
+KR Market ⇔ Dodda Nallala,382-C,1,3,1k4
+KR Market ⇔ Dodda Tumkur,285-C,1,3,m1
+KR Market ⇔ Doddaballapura Bus Stand,285-MK,1,3,sn
+KR Market ⇔ Doddaballapura Bus Stand,285-MK KMT-CVB-DBP,1,3,c
+KR Market ⇔ Doddabelavangala,253-HC,1,3,1vg
+KR Market ⇔ Domlur,306-J,1,3,25r
+KR Market ⇔ Dr.Shivaramakaranth Nagara,286 KMT-DSKN,1,3,15x
+KR Market ⇔ E Muthsandra,381-D,1,3,10v
+KR Market ⇔ Ejipura,140-E,1,3,17m
+KR Market ⇔ Ganagalu,317-W,1,3,c1
+KR Market ⇔ Gangavara,316-A,1,3,q7
+KR Market ⇔ Gangondanahalli,263-B,1,3,1t1
+KR Market ⇔ Gejjigadahalli,256-B,1,3,z7
+KR Market ⇔ Gidaveerasagara,258-M KMT-GVS,1,3,dv
+KR Market ⇔ Gonighattapura,323-A,1,3,12n
+KR Market ⇔ Govindapura,291-N,1,3,al
+KR Market ⇔ Govindapura,317-Y,1,3,oq
+KR Market ⇔ Gundur Colony,308,1,3,1ya
+KR Market ⇔ Guni Agrahara,266-F,1,3,1pg
+KR Market ⇔ Gunjurpalya,327-E,1,3,17q
+KR Market ⇔ Guravanahalli,258-V,1,3,3v
+KR Market ⇔ Guruvanahalli,258-G,1,3,43
+KR Market ⇔ H Krishnappa Layout,43-M,1,3,yd
+KR Market ⇔ Halasahalli,328-G,1,3,4z
+KR Market ⇔ Hancharahalli,316-E,1,3,1r9
+KR Market ⇔ Hanchipura,258-YA KMT-HCP,1,3,1sa
+KR Market ⇔ Haniyuru,285-RA,1,3,1jv
+KR Market ⇔ Haraluru,380-C,1,3,1fs
+KR Market ⇔ Harohalli,325,1,3,1g6
+KR Market ⇔ Harohalli Palya,285-YA,1,3,274
+KR Market ⇔ Hasanath College,KMT-HSC,1,3,1oq
+KR Market ⇔ Hazarath Tippu Nagara,290-T,1,3,181
+KR Market ⇔ Hebbala,279-A,1,3,2a
+KR Market ⇔ Hegganahalli,297-H,1,3,ld
+KR Market ⇔ Hesaraghatta,253-J KMT-HGT,1,3,nb
+KR Market ⇔ Hesaraghatta,266 KMT-VSD-HGV,1,3,ub
+KR Market ⇔ Hesaraghatta,271-F KMT-HGV,1,3,1g8
+KR Market ⇔ Honachenahalli,383-B,1,3,go
+KR Market ⇔ Honnasandra,255-J,1,3,1l1
+KR Market ⇔ Honnasandra,258-R,1,3,29p
+KR Market ⇔ Hoovinayakanahalli,289-C,1,3,2i
+KR Market ⇔ Hosahalli Kodagalahatti,282-A,1,3,ye
+KR Market ⇔ Hosahalli Kodagalahatti,290 KMT-HSH,1,3,na
+KR Market ⇔ Hosahallipalya,253-P,1,3,34
+KR Market ⇔ Hosakote Bus Stand (Old),326-E,1,3,18j
+KR Market ⇔ Hosakote Bus Stand (Old),MKT-12HK,1,3,29y
+KR Market ⇔ Hosakote K E B Circle,305-J KMT-HSK,1,3,1gm
+KR Market ⇔ Hulimangala Hosakote,306-MH,1,3,1uv
+KR Market ⇔ Hunasuru,293-F,1,3,1t8
+KR Market ⇔ Hunnigere,258-Q,1,3,48
+KR Market ⇔ Huralagere,306-A KMT-HLG,1,3,1oj
+KR Market ⇔ Huskur,316-C,1,3,xy
+KR Market ⇔ Huskur Village,255-A,1,3,183
+KR Market ⇔ Immadihalli,324,1,3,87
+KR Market ⇔ Indo Dyanish Farm,253,1,3,di
+KR Market ⇔ JK Basavanna Nagara,266-R,1,3,10c
+KR Market ⇔ Jakkur,286,1,3,119
+KR Market ⇔ Jakkur Layout,286-A,1,3,1l0
+KR Market ⇔ Jalige,285-J,1,3,lb
+KR Market ⇔ Janthagundanahalli,329-B,1,3,1lc
+KR Market ⇔ Jayamangala,306-MA,1,3,1le
+KR Market ⇔ Jinke Bachahalli,285-CA,1,3,23d
+KR Market ⇔ Jyothipura Budigere,318,1,3,29a
+KR Market ⇔ K Narayanapura Main Bus Stand,293-C,1,3,1ne
+KR Market ⇔ KR Pura Govt Hospital,300-HA,1,3,1l5
+KR Market ⇔ Kada Agrahara,293-B,1,3,hh
+KR Market ⇔ Kadayarappanahalli,289-K,1,3,1qi
+KR Market ⇔ Kadirenahalli,263-C,1,3,14a
+KR Market ⇔ Kadugodi Bapuji Circle,326-C,1,3,ve
+KR Market ⇔ Kadusonnappanahalli,294-A,1,3,3a
+KR Market ⇔ Kaggalahalli,316-K,1,3,83
+KR Market ⇔ Kaggalahalli,316-Q,1,3,101
+KR Market ⇔ Kalkere,301-A,1,3,20
+KR Market ⇔ Kallahalli,382,1,3,13p
+KR Market ⇔ Kallodu,253-F,1,3,86
+KR Market ⇔ Kalyananagara 302,302-D,1,3,99
+KR Market ⇔ Kamalanagara,96-E KMT-KNR,1,3,207
+KR Market ⇔ Kamanahalli,323-M,1,3,vh
+KR Market ⇔ Kamarasanahalli,317-N,1,3,1pu
+KR Market ⇔ Kamblipura,381-E KMT-KBP,1,3,1u5
+KR Market ⇔ Kammasandra,263,1,3,ys
+KR Market ⇔ Kanasawadi,253-G KMT-KNW,1,3,1u3
+KR Market ⇔ Kannurahalli,317-D,1,3,dm
+KR Market ⇔ Kannuru,280,1,3,136
+KR Market ⇔ Kannuru,290-KN,1,3,2c
+KR Market ⇔ Kanshiram Nagara,266-Q,1,3,1v7
+KR Market ⇔ Karekal,306-C,1,3,1rk
+KR Market ⇔ Kasaghattapura,254-A,1,3,1nh
+KR Market ⇔ Kathriguppe,323-N,1,3,hd
+KR Market ⇔ Kattigenahalli,317-YA,1,3,1bv
+KR Market ⇔ Kattu Gollahalli,316-J,1,3,1iy
+KR Market ⇔ Kaval Byrasandra,111,1,3,16o
+KR Market ⇔ Kempalingapura,298-C,1,3,x1
+KR Market ⇔ Kempalingapura,298-C KMT-AGO-KLP,1,3,e3
+KR Market ⇔ Kempapura,254-D,1,3,j3
+KR Market ⇔ Kempapura,254-E,1,3,kk
+KR Market ⇔ Kempapura Agarahara,55-B,1,3,66
+KR Market ⇔ Kendriya Vihara Yalahanka,284 KMT-KVRY,1,3,pb
+KR Market ⇔ Khaji Sonnenahalli,319,1,3,u1
+KR Market ⇔ Kodigehalli,288-C,1,3,dq
+KR Market ⇔ Koduru,306-M KMT-KDR,1,3,1cf
+KR Market ⇔ Kolathuru,380,1,3,1ji
+KR Market ⇔ Koramangala Bus Station,140-E KMT-EJP-KRM,1,3,1x9
+KR Market ⇔ Koramangala Bus Station,143 KMT-NSR-KRM,1,3,tg
+KR Market ⇔ Kuduregere Colony,283-B,1,3,1dc
+KR Market ⇔ Kuduregere Madanayakanahalli,257-D,1,3,lj
+KR Market ⇔ Kuguru,323-B,1,3,1lu
+KR Market ⇔ Kumbalahalli,317-E,1,3,12b
+KR Market ⇔ Kumbarahalli,254-B,1,3,su
+KR Market ⇔ Kurubarahalli,317-K,1,3,1ao
+KR Market ⇔ Kuthaganahalli,323-D,1,3,t
+KR Market ⇔ Kuvempunagara ( BTM Layout),24,1,3,1hs
+KR Market ⇔ Laggere New Bus Stand,251-D,1,3,no
+KR Market ⇔ Lakkenahalli Village Sondekoppa,258 KMT-LKH,1,3,nh
+KR Market ⇔ Lakkondahalli,381-A,1,3,1nn
+KR Market ⇔ Lakshman Rao Nagara Anepalya,163-C,1,3,176
+KR Market ⇔ Lakshmipura,266-Q KMT-LXP,1,3,n9
+KR Market ⇔ Lal Bahaddur Shastri Nagara,335-C,1,3,wf
+KR Market ⇔ Machenahalli Dabaspete,258-M KMT-MCH,1,3,th
+KR Market ⇔ Machonayakanahalli,258-A,1,3,nm
+KR Market ⇔ Madappanahalli,329-A,1,3,s2
+KR Market ⇔ Madavara Village,257-B,1,3,17z
+KR Market ⇔ Madhura Nagara,329-K,1,3,1x3
+KR Market ⇔ Mahadeshwara Nagara,24-A,1,3,ev
+KR Market ⇔ Makanahalli,305-B,1,3,vv
+KR Market ⇔ Malleshpalya New Bus Station(Vignananagar),314-FA,1,3,21
+KR Market ⇔ Mallohallipalya,253-K KMT- MLHP,1,3,200
+KR Market ⇔ Manorayanapalya,114-G,1,3,1iz
+KR Market ⇔ Maragondanahalli,301,1,3,ph
+KR Market ⇔ Marappa Garden,119-B,1,3,128
+KR Market ⇔ Marasandra,289-G,1,3,1vm
+KR Market ⇔ Marasandra,293-J,1,3,8w
+KR Market ⇔ Marasandra,306-L,1,3,1ry
+KR Market ⇔ Marasandra,308-B,1,3,5m
+KR Market ⇔ Mavallipura,254,1,3,ty
+KR Market ⇔ Meesagaanahalli,282-B,1,3,1eq
+KR Market ⇔ Munikondappa Layout Widia Factory,250-CC,1,3,fc
+KR Market ⇔ Munnekolalu,338,1,3,258
+KR Market ⇔ Muppadaghatta,253-H,1,3,ca
+KR Market ⇔ Muthkur,251-G,1,3,fy
+KR Market ⇔ Muthkur,266-A,1,3,mw
+KR Market ⇔ Muthkur,321,1,3,1c9
+KR Market ⇔ Muthsandra,329,1,3,t4
+KR Market ⇔ Muthugadahalli,293-E,1,3,184
+KR Market ⇔ Muthugadahalli,322,1,3,27x
+KR Market ⇔ Mylanahalli,293-K,1,3,16p
+KR Market ⇔ Mylappanahalli,266-N KMT-MLPH,1,3,uz
+KR Market ⇔ N R I  Layout,301-A KMT-NRIL,1,3,17k
+KR Market ⇔ NITTE Meenakshi College,KMT-YHK-NITTE,1,3,pu
+KR Market ⇔ Nagadasanahalli,285-A,1,3,n0
+KR Market ⇔ Naganayakanakote,321-D,1,3,1oy
+KR Market ⇔ Nagaresh Nagenahalli,292,1,3,1kn
+KR Market ⇔ Nagondanahalli,324-A,1,3,y5
+KR Market ⇔ Nallur,316-U,1,3,166
+KR Market ⇔ Narasipura,255-E,1,3,nc
+KR Market ⇔ Neelasandra Bus Stand,143,1,3,14v
+KR Market ⇔ Neeleri,298-ME KMT-AGO-NLR,1,3,ze
+KR Market ⇔ Neeleri,298-ME KMT-NLR,1,3,24v
+KR Market ⇔ Nekkundi Dommasandra,323-H,1,3,1wj
+KR Market ⇔ Nelamangala Bus Station,258,1,3,my
+KR Market ⇔ Neragenahalli,297,1,3,1mk
+KR Market ⇔ Nidaghatta,382-B,1,3,1tz
+KR Market ⇔ Padmanabha Nagara Rock,15-A,1,3,m5
+KR Market ⇔ Panathuru,336,1,3,1pv
+KR Market ⇔ Panathuru Dinne,327-B,1,3,sx
+KR Market ⇔ Pillahalli,255-C,1,3,1nb
+KR Market ⇔ Poojena Agrahara,317-C,1,3,15c
+KR Market ⇔ Puneethrajakumar Circle,293-A,1,3,27l
+KR Market ⇔ Pura,306-M,1,3,1sj
+KR Market ⇔ Railway Gollahalli,253-E,1,3,169
+KR Market ⇔ Rampura,307,1,3,ua
+KR Market ⇔ Rampura,313-F,1,3,rs
+KR Market ⇔ Razakpalya,282-C,1,3,1md
+KR Market ⇔ Razakpalya,290-R,1,3,21g
+KR Market ⇔ Razakpalya,293,1,3,19o
+KR Market ⇔ Sadenahalli,285-K,1,3,rr
+KR Market ⇔ Samethanahalli,321-C,1,3,12f
+KR Market ⇔ Sampangere,304-M,1,3,8z
+KR Market ⇔ Shamarajapura,266-N,1,3,1ko
+KR Market ⇔ Shampura,415-D,1,3,up
+KR Market ⇔ Shivajinagara Bus Station,V-150,1,3,1tc
+KR Market ⇔ Shivakote,251,1,3,94
+KR Market ⇔ Shivanaapura,382-A,1,3,1gy
+KR Market ⇔ Shivanapura,256 KMT-SVP,1,3,4y
+KR Market ⇔ Shivanapura,258-F KMT-SVP,1,3,102
+KR Market ⇔ Shivanapura,304-VA,1,3,1sq
+KR Market ⇔ Shrinivagilu Bus Stand,140-A,1,3,24f
+KR Market ⇔ Singahalli,293-D,1,3,wo
+KR Market ⇔ Somalapura,306-G,1,3,20e
+KR Market ⇔ Somashettyhalli,250-F,1,3,2x
+KR Market ⇔ Somathanahalli,316-T,1,3,8r
+KR Market ⇔ Sri Ramapura,286-D,1,3,18i
+KR Market ⇔ Sri Ramapura,291,1,3,15n
+KR Market ⇔ Sri Venkateshwara Nagara,286-E,1,3,40
+KR Market ⇔ Srinivasapura Nelamangala,258-J,1,3,1ke
+KR Market ⇔ St Vincent Palloti School,302-C KMT-SVPS,1,3,zj
+KR Market ⇔ Suggatta,283-A,1,3,16d
+KR Market ⇔ Sultan palya,114,1,3,17e
+KR Market ⇔ Tattanuru,322-M,1,3,1du
+KR Market ⇔ Thammarasanahalli Madhugirihalli,253-W,1,3,65
+KR Market ⇔ Thammenahalli,250-E,1,3,294
+KR Market ⇔ Tharabanahalli,305-M KMT-TBH,1,3,23r
+KR Market ⇔ Tharabanahalli,317-TA,1,3,w0
+KR Market ⇔ Tharahunase,283-E,1,3,20k
+KR Market ⇔ Tharahunase,285,1,3,19a
+KR Market ⇔ Tharahunase,285-N,1,3,pi
+KR Market ⇔ Thavatahalli,380-B,1,3,ap
+KR Market ⇔ Thindlu,288,1,3,17a
+KR Market ⇔ Thindlu,306-B,1,3,cw
+KR Market ⇔ Thippennahalli,263-A,1,3,x4
+KR Market ⇔ Thirumenahalli,318 KMT-THRM,1,3,63
+KR Market ⇔ Thore Byrasandra,258-D KMT-TBS,1,3,1mz
+KR Market ⇔ Thore Nagasandra,253-D,1,3,1hd
+KR Market ⇔ Thyamagondlu,258-M,1,3,i8
+KR Market ⇔ Uganawadi,298-A,1,3,8i
+KR Market ⇔ Uganawadi,298-A KMT-AGO-UNV,1,3,267
+KR Market ⇔ Ummalu,380-N,1,3,1vu
+KR Market ⇔ Vabasandra,381-G,1,3,w6
+KR Market ⇔ Vajrakattepalya,258-SA,1,3,25u
+KR Market ⇔ Valepura,328-E,1,3,11v
+KR Market ⇔ Varthuru,328,1,3,19y
+KR Market ⇔ Vidyaniketan School Hebbala,KMT-KBS-VNS,1,3,jo
+KR Market ⇔ Vidyaniketan School Hebbala,KMT-KRC-RTN-VNS,1,3,10p
+KR Market ⇔ Vidyaranyapura Bus Station,269-A KMT-RCP-VRP,1,3,1xm
+KR Market ⇔ Vidyaranyapura Bus Station,276-E,1,3,4d
+KR Market ⇔ Vijayapura Bus Stand Jangamakote,298-MV,1,3,1dj
+KR Market ⇔ Vishwanath Nagenahalli,287-D,1,3,28p
+KR Market ⇔ Vishwanath Nagenahalli,415-F,1,3,1wm
+KR Market ⇔ Yalahanka Satellite Town,284-A,1,3,k1
+KR Market ⇔ Yarappana Bande,293-L,1,3,a1
+KR Market ⇔ Yarappana Bande,KMT-BLS-YPB,1,3,12s
+KR Market ⇔ Yelachagere,258-VC,1,3,op
+KR Market ⇔ Yelahanka Old Town,276-F KMT-YHKOT,1,3,1w7
+KR Market ⇔ Yelahanka Old Town,290-E KMT-YHKOT,1,3,1ri
+KR Market ⇔ Yelahanka Old Town,G-10,1,3,1fh
+KR Pura Govt Hospital ⇔ Army Public School Kamaraja Road,KRPGH-ITC-ARMY,1,3,rv
+KR Pura Govt Hospital ⇔ BEL Factory,500-QG KRPGH-BELF,1,3,re
+KR Pura Govt Hospital ⇔ Banashankari Bus Station,V-500C,1,3,16a
+KR Pura Govt Hospital ⇔ Bayyappanahalli Metro Station  Back Gate,KRPGH-BYPBC,1,3,e
+KR Pura Govt Hospital ⇔ Channasandra,MF-304K KRP-CNS,1,3,1ux
+KR Pura Govt Hospital ⇔ Chowdeshwarinagara JP Park,500-Q,1,3,1wi
+KR Pura Govt Hospital ⇔ Electronic City Wipro Main Gate,500-DC KRPGH-ELCW,1,3,jb
+KR Pura Govt Hospital ⇔ HAL Gnanajyothi School,500-C KRPGH-HGS,1,3,1cz
+KR Pura Govt Hospital ⇔ Hoodi Metro Station,MF-9,1,3,29
+KR Pura Govt Hospital ⇔ Jalahalli Cross,500-QG,1,3,1u1
+KR Pura Govt Hospital ⇔ Kadugodi Bus Station,V-319 KRP-KDG,1,3,285
+KR Pura Govt Hospital ⇔ Kempegowda Bus Station,KRPGH-RMB-BMS-VSD-KBS,1,3,269
+KR Pura Govt Hospital ⇔ Mysore Road Metro Station,500-QN,1,3,a9
+KR Pura Govt Hospital ⇔ Nelamangala Bus Station,KRPGH-RMN-GGP-NMG,1,3,1j4
+KR Pura Govt Hospital ⇔ Peenya Satellite Bus Station (Basaveshwara),507-PS,1,3,1cy
+KR Pura Govt Hospital ⇔ Shanthinagara Bus Station,KRPGH-RBM-BMS-SNBS,1,3,6e
+KR Pura Govt Hospital ⇔ Vidhana Soudha Karnataka High Court,KRP-VSD,1,3,25
+KR Pura Market ⇔ Devanahalli New Bus Station,316-Y,1,3,1is
+KR Pura Market ⇔ Dr BR Ambedkar Bus Terminal (Domlur),315-G,1,3,1cm
+KR Pura Metro Station ⇔ Depot-24 Gate,MF-2 KRPMS-D24G,1,3,io
+KR Pura Metro Station ⇔ KR Pura Metro Station,MF-2,1,3,1h2
+KR Pura Metro Station ⇔ Vidyaranyapura Bus Station,507-C VRP-KRPMS,1,3,x8
+KR Pura Railway Station ⇔ Dr BR Ambedkar Bus Terminal (Domlur),315-G KRPR-DBS,1,3,c6
+KR Pura Railway Station ⇔ Kengeri Bus Station,502-D,1,3,1kz
+Kadugodi Bus Station ⇔ Attibele Bus Stand,328-HA,1,3,sj
+Kadugodi Bus Station ⇔ BEML Layout 5th stage,335-S,1,3,1z3
+Kadugodi Bus Station ⇔ Chandra Layout Circle,333-L,1,3,b8
+Kadugodi Bus Station ⇔ Chowdeshwarinagara JP Park,500-QK,1,3,141
+Kadugodi Bus Station ⇔ Depot-06 Gate,SBS-1K KDG-D6G,1,3,wt
+Kadugodi Bus Station ⇔ Depot-13 Kathriguppe,V-500CA	   KDG-D13G,1,3,au
+Kadugodi Bus Station ⇔ Depot-45 Gate,507-VK D45G-KDG,1,3,204
+Kadugodi Bus Station ⇔ Hebbala Bridge,V-500DF KDG-HBLB,1,3,1sw
+Kadugodi Bus Station ⇔ Hosakote Bus Stand (Old),328-H KDG-HSK,1,3,1ai
+Kadugodi Bus Station ⇔ Kamalanagara BEML Layout,335-G,1,3,1l6
+Kadugodi Bus Station ⇔ Kempegowda International Airport,KIA-6,1,3,1fb
+Kadugodi Bus Station ⇔ Kempegowda International Airport,KIA-6A,1,3,fq
+Kadugodi Bus Station ⇔ Koramangala Bus Station,500-F KDG-KRM,1,3,1u8
+Kadugodi Bus Station ⇔ Mahathma Vidhyalaya Muttanalluru,399 KDG-MVM,1,3,23c
+Kadugodi Bus Station ⇔ RBANMS College,KDG-RBANMS,1,3,oo
+Kadugodi Bus Station ⇔ Vidyaranyapura Bus Station,507-VK,1,3,pl
+Kadugodi Metro Station ⇔ Kannamangala,MF-1K,1,3,hc
+Kakkehalli ⇔ Kempegowda Bus Station,285-CB KKH-KBS,1,3,1q3
+Kakolu ⇔ Kempegowda Bus Station,266-C KKL-KBS,1,3,1sy
+Kalkere ⇔ Chikka Thirupathi,304-VK,1,3,1o7
+Kallodu ⇔ Kempegowda Bus Station,253-F KBS-KLD,1,3,ru
+Kalyananagara Bus Stand ⇔ HBR Layout 5th Block,KLNB-HBRL,1,3,227
+Kalyananagara Bus Stand ⇔ Kanakagiri Horamavu,MF-7 KLN-KNG,1,3,16y
+Kalyananagara Bus Stand ⇔ Shivajinagara Bus Station,293 KLN-LGP-SBS,1,3,1f2
+Kalyananagara Bus Stand ⇔ Yelahanka Old Town,290-E KLN-YLKOT,1,3,h5
+Kalyananagara ⇔ Mittaganahalli 1,KLN-THS-MTH,1,3,197
+Kalyananagara ⇔ Om Shakthi Temple,303-G KLN-OST,1,3,21q
+Kalyananagara ⇔ Sarjapura,500-CH KLN-SJP,1,3,56
+Kamakya Talkies ⇔ Hebbala Bridge,V-500A D13-HBL,1,3,290
+Kamakya Talkies ⇔ Hebbala Bridge,V-500A D13G-BSK-HBL,1,3,1m7
+Kamakya Talkies ⇔ Royal Meenakshi Mall BG Road,V-BMT13-BSK-RMM,1,3,1jm
+Kamalanagara BEML Layout ⇔ Kempegowda Bus Station,96-E BEMLK-VSD-KBS,1,3,130
+Kamalanagara BEML Layout ⇔ Yeshawanthapura Bus Station,96-B BEMLK-YTTMC,1,3,1td
+Kamblipura ⇔ Kempegowda Bus Station,381-E KBP-KMT-KBS,1,3,3t
+Kammasandra ⇔ KR Market,308 KMS-KMT,1,3,er
+Kammasandra ⇔ Kempegowda Bus Station,308 KMS-KBS,1,3,1x8
+Kanakagiri Horamavu ⇔ Bayyappanahalli Metro Station  Back Gate,MF-7,1,3,25f
+Kangovi PVT LTD Kukkanahalli ⇔ Kengeri Bus Station,502-K  KVK-KGR,1,3,j8
+Kannuru ⇔ Shivajinagara Bus Station,290-R KNR-THS-SBS,1,3,1qz
+Karubele ⇔ Bidadi,226-N KRBL-BDD,1,3,zn
+Karubele ⇔ Yeshawanthapura Bus Station,401-M KRB-YTTMC,1,3,u0
+Kaval Byrasandra ⇔ Deepanjalinagara,176-E KBR-DPN,1,3,hx
+Kaval Byrasandra ⇔ KHB Colony,180,1,3,g2
+Kaval Byrasandra ⇔ Mysore Road Bus Station,K-2A,1,3,qj
+Kempegowda Bus Station ⇔ 2nd Stage 11th Block Nagarabhavi,244-H,1,3,1tu
+Kempegowda Bus Station ⇔ 2nd Stage Kanteeravanagara,80-E,1,3,28n
+Kempegowda Bus Station ⇔ 5th Block HBR Layout,296,1,3,1m4
+Kempegowda Bus Station ⇔ 5th Block HBR Layout,296-B,1,3,15q
+Kempegowda Bus Station ⇔ 5th Phase Yelahanka New Town,276-F KBS-YSTF,1,3,1gt
+Kempegowda Bus Station ⇔ 5th Phase Yelahanka New Town,402-B,1,3,1ih
+Kempegowda Bus Station ⇔ 5th Phase Yelahanka New Town,402-D KBS-VSD-YSTF,1,3,w3
+Kempegowda Bus Station ⇔ 9th Block Jayanagara (40th Cross),18,1,3,bi
+Kempegowda Bus Station ⇔ AGS Layout,234-F KBS-AGSLO,1,3,1h1
+Kempegowda Bus Station ⇔ AGS Layout Arehalli,45-D,1,3,1cn
+Kempegowda Bus Station ⇔ Abbaiah Layout,314-X,1,3,82
+Kempegowda Bus Station ⇔ Abbigere,271-A,1,3,1ra
+Kempegowda Bus Station ⇔ Abbigere,271-A KBS-VSD-ABG,1,3,1hx
+Kempegowda Bus Station ⇔ Abbigere,273-B,1,3,5g
+Kempegowda Bus Station ⇔ Active Public School Hommadevanahalli,365 KBS-APSH,1,3,20i
+Kempegowda Bus Station ⇔ Adigondanahalli,359-A,1,3,hi
+Kempegowda Bus Station ⇔ Agara,212-D,1,3,7y
+Kempegowda Bus Station ⇔ Alurupalya,257-E,1,3,1nu
+Kempegowda Bus Station ⇔ Ambedkar Institute of Technology,238-U KBS-AIT,1,3,1rq
+Kempegowda Bus Station ⇔ Anagalipura,295-B,1,3,gl
+Kempegowda Bus Station ⇔ Anekal,356-M,1,3,vb
+Kempegowda Bus Station ⇔ Anekal,356-M KBS-ELCFLY-ANK,1,3,29v
+Kempegowda Bus Station ⇔ Anekal,365-P,1,3,21l
+Kempegowda Bus Station ⇔ Anekal,V-356M,1,3,1ea
+Kempegowda Bus Station ⇔ Anjanapura,215-N,1,3,1z0
+Kempegowda Bus Station ⇔ Anjanapura,215-ND,1,3,135
+Kempegowda Bus Station ⇔ Anjanapura 10th Block,215 KBS-D44G,1,3,1ap
+Kempegowda Bus Station ⇔ Anjanapura 10th Block,215-NC,1,3,bc
+Kempegowda Bus Station ⇔ Annapoorneshwarinagara,246,1,3,9g
+Kempegowda Bus Station ⇔ Annapoorneshwarinagara,252-RA,1,3,1f9
+Kempegowda Bus Station ⇔ Aralimaradapalya,242-Y KBS-AMP,1,3,1hi
+Kempegowda Bus Station ⇔ Are Bannimangala,289-CB,1,3,21t
+Kempegowda Bus Station ⇔ Arehalli,304-H,1,3,1wl
+Kempegowda Bus Station ⇔ Arehalli,304-X,1,3,1e3
+Kempegowda Bus Station ⇔ Attibele Bus Stand,360-K,1,3,1i7
+Kempegowda Bus Station ⇔ Attibele Bus Stand,KBS-3A,1,3,3f
+Kempegowda Bus Station ⇔ Attibele Bus Stand,KBS-3F,1,3,ja
+Kempegowda Bus Station ⇔ Attibele Bus Stand,V-360B,1,3,1bc
+Kempegowda Bus Station ⇔ Attibele Bus Stand,V-360B Flyover,1,3,1x4
+Kempegowda Bus Station ⇔ Atturu,402-C,1,3,1b6
+Kempegowda Bus Station ⇔ Avalahalli BDA Layout,215-B KBS-ABDA,1,3,aq
+Kempegowda Bus Station ⇔ Avalahalli BDA Park Girinagara,10-J,1,3,1mx
+Kempegowda Bus Station ⇔ Avalahalli BDA Park Girinagara,36-A,1,3,4r
+Kempegowda Bus Station ⇔ Avalahalli New BDA Layout,36-G,1,3,1l9
+Kempegowda Bus Station ⇔ Averahalli,245-K,1,3,qp
+Kempegowda Bus Station ⇔ B Krishnappa Nagara,242-B KBS-BKPN,1,3,1aj
+Kempegowda Bus Station ⇔ BCMC Layout Raghuvanahalli,211-L,1,3,dr
+Kempegowda Bus Station ⇔ BCMC Layout Raghuvanahalli,215-BA KBS-BCMC,1,3,eq
+Kempegowda Bus Station ⇔ BDA Flats Kommaghatta,210-E KBS-KMTFLY-KBDA,1,3,1dr
+Kempegowda Bus Station ⇔ BEL Factory,271 KBS-BELF,1,3,zq
+Kempegowda Bus Station ⇔ BEL Layout Dasanapura,255-B,1,3,15s
+Kempegowda Bus Station ⇔ BEML Layout 5th stage,210-WA KBS-BEML5,1,3,qu
+Kempegowda Bus Station ⇔ BEML Layout 5th stage,225-C,1,3,15p
+Kempegowda Bus Station ⇔ BEML Layout 5th stage,225-CA,1,3,mg
+Kempegowda Bus Station ⇔ BGS Health City,225-CF,1,3,pz
+Kempegowda Bus Station ⇔ BHEL Concord Layout,225-D,1,3,24
+Kempegowda Bus Station ⇔ BHEL Layout Water Tank,225-CB,1,3,1zh
+Kempegowda Bus Station ⇔ BMSIT College Campous Yelahanka,285-M KBS-BMSIT,1,3,11a
+Kempegowda Bus Station ⇔ BN Bachegowda Badavane,304-R,1,3,1v3
+Kempegowda Bus Station ⇔ BSF Yalahanka,291-LA,1,3,o1
+Kempegowda Bus Station ⇔ BUC ADM Block,238-U KBS-BUCADM,1,3,259
+Kempegowda Bus Station ⇔ Babusabpalya 302,302-F,1,3,18w
+Kempegowda Bus Station ⇔ Bagalur,293-S,1,3,1jy
+Kempegowda Bus Station ⇔ Balagere,332-A,1,3,av
+Kempegowda Bus Station ⇔ Banarahalli,306-F KBS-BRH,1,3,be
+Kempegowda Bus Station ⇔ Banasawadi,300-B,1,3,2o
+Kempegowda Bus Station ⇔ Banashankari 5th Stage,210-NB,1,3,1cw
+Kempegowda Bus Station ⇔ Banashankari Bus Station,12,1,3,xs
+Kempegowda Bus Station ⇔ Bandapura,357 KBS-BNP,1,3,r8
+Kempegowda Bus Station ⇔ Bande Bommasandra,295-E,1,3,1dl
+Kempegowda Bus Station ⇔ Bande Kodigehalli palya,281-G,1,3,hr
+Kempegowda Bus Station ⇔ Bande Kodigehallipalya Cross,289-Z,1,3,1u
+Kempegowda Bus Station ⇔ Bande Maramma Bus Station,238-C,1,3,yg
+Kempegowda Bus Station ⇔ Bande Mutt Badavane Radiant Enclave,221-G,1,3,1zt
+Kempegowda Bus Station ⇔ Bangarappa Nagara,225-G,1,3,k3
+Kempegowda Bus Station ⇔ Bangarappa Nagara,43-JA,1,3,j5
+Kempegowda Bus Station ⇔ Bannerughatta National Park,215-H KBS-JSD-BNP,1,3,1m1
+Kempegowda Bus Station ⇔ Bannerughatta National Park,365,1,3,1f5
+Kempegowda Bus Station ⇔ Bannerughatta National Park,C-365,1,3,1hm
+Kempegowda Bus Station ⇔ Bannerughatta National Park,V-365,1,3,11o
+Kempegowda Bus Station ⇔ Basavanagara,333-C,1,3,1n1
+Kempegowda Bus Station ⇔ Basavanapura Church,365-R,1,3,1r4
+Kempegowda Bus Station ⇔ Basaveshwaranagara New Bus Stand,88,1,3,1c8
+Kempegowda Bus Station ⇔ Basaveshwaranagara New Bus Stand,88-B,1,3,1f4
+Kempegowda Bus Station ⇔ Beerasandra Chapradakallu,298-MF,1,3,5d
+Kempegowda Bus Station ⇔ Beguru,289-M,1,3,1ce
+Kempegowda Bus Station ⇔ Beguru,343-E,1,3,1vt
+Kempegowda Bus Station ⇔ Beguru Lake,343-B,1,3,10q
+Kempegowda Bus Station ⇔ Bellikere,329-H,1,3,g4
+Kempegowda Bus Station ⇔ Bengaluru Central Jail,347-F,1,3,13v
+Kempegowda Bus Station ⇔ Bettahalli,245-Q,1,3,103
+Kempegowda Bus Station ⇔ Bettahalli,245-Q KBS-VDH-BTH,1,3,ue
+Kempegowda Bus Station ⇔ Bettahalli Kaval,213-H KBS-BHKVL,1,3,14j
+Kempegowda Bus Station ⇔ Bettanapalya,230-B,1,3,1ab
+Kempegowda Bus Station ⇔ Bettenahalli,285-KA KBS-BTN,1,3,10i
+Kempegowda Bus Station ⇔ Bharath Nagara 2nd Stage,241-D,1,3,wg
+Kempegowda Bus Station ⇔ Bhavani Nagara 2nd Stage,243-J,1,3,53
+Kempegowda Bus Station ⇔ Bhoopasandra,279-H,1,3,22g
+Kempegowda Bus Station ⇔ Bhuvaneshwari Nagara,45-B,1,3,df
+Kempegowda Bus Station ⇔ Bidadi,226-N,1,3,172
+Kempegowda Bus Station ⇔ Bidadi,231-M,1,3,1ox
+Kempegowda Bus Station ⇔ Bilavaradahalli,365-D,1,3,tt
+Kempegowda Bus Station ⇔ Bileshivale,294-E,1,3,1wz
+Kempegowda Bus Station ⇔ Bommawara,298-MA,1,3,1kx
+Kempegowda Bus Station ⇔ Brahma Devara Gudda,241-D KBS-BDG,1,3,ma
+Kempegowda Bus Station ⇔ Brundavana Nagara,49,1,3,28m
+Kempegowda Bus Station ⇔ Budigere,316-B,1,3,1nq
+Kempegowda Bus Station ⇔ Byatarayana Doddy,365-E KBS-BTD,1,3,kz
+Kempegowda Bus Station ⇔ Byatarayana Doddy,365-E KBS-BTRD,1,3,fg
+Kempegowda Bus Station ⇔ Bychapura,298-B,1,3,zo
+Kempegowda Bus Station ⇔ Byramangala,226-SB,1,3,cu
+Kempegowda Bus Station ⇔ Byranayakanahalli,258-SD KBS-BNH,1,3,5a
+Kempegowda Bus Station ⇔ Byrasandra New Bus Stand,22,1,3,29o
+Kempegowda Bus Station ⇔ CK Palya,365-K,1,3,177
+Kempegowda Bus Station ⇔ CK Palya,369-J,1,3,f
+Kempegowda Bus Station ⇔ CV Raman Nagara,314-B,1,3,c8
+Kempegowda Bus Station ⇔ CV Raman Nagara Railway Gate,314-B KBS-CVRNRG,1,3,1qq
+Kempegowda Bus Station ⇔ Cauvery Nagara,89-A,1,3,1bo
+Kempegowda Bus Station ⇔ Cauvery Nagara,89-C,1,3,dk
+Kempegowda Bus Station ⇔ Cauvery Nagara,89-CKBS-VSD-CVN,1,3,j1
+Kempegowda Bus Station ⇔ Cauvery Nagara,89-E,1,3,1q4
+Kempegowda Bus Station ⇔ Centre For Learning School,242-ZC KBS-CFLS,1,3,12r
+Kempegowda Bus Station ⇔ Chandapura,356,1,3,he
+Kempegowda Bus Station ⇔ Chandapura,KBS-3C,1,3,1re
+Kempegowda Bus Station ⇔ Chandapura,V-356,1,3,1lk
+Kempegowda Bus Station ⇔ Chandra Layout,238-U KBS-CLO,1,3,13e
+Kempegowda Bus Station ⇔ Chandra Layout,61-A,1,3,rl
+Kempegowda Bus Station ⇔ Chandra Layout 1st Stage,61-J,1,3,1e1
+Kempegowda Bus Station ⇔ Chandra Nagara,210-X,1,3,h9
+Kempegowda Bus Station ⇔ Channammanakere Achukattu,45-E,1,3,1hu
+Kempegowda Bus Station ⇔ Channammanakere Achukattu,45-EA,1,3,8c
+Kempegowda Bus Station ⇔ Channammanakere Achukattu,45-F,1,3,1wc
+Kempegowda Bus Station ⇔ Channammanakere Achukattu,45-G,1,3,1rb
+Kempegowda Bus Station ⇔ Channammanakere Achukattu,45-J KBS-CKA,1,3,9s
+Kempegowda Bus Station ⇔ Channammanakere Achukattu,V-45G,1,3,1hr
+Kempegowda Bus Station ⇔ Channasandra,305-D,1,3,e7
+Kempegowda Bus Station ⇔ Channasandra,305-D KBS-VSD-CNS,1,3,nq
+Kempegowda Bus Station ⇔ Channegowdana Doddy,226-A,1,3,1z2
+Kempegowda Bus Station ⇔ Cheemasandra,316-F,1,3,1ph
+Kempegowda Bus Station ⇔ Chikka Banavara,250-A,1,3,144
+Kempegowda Bus Station ⇔ Chikka Banavara,250-P,1,3,pa
+Kempegowda Bus Station ⇔ Chikka Banavara,250-W,1,3,1gh
+Kempegowda Bus Station ⇔ Chikka Banavara,271-PA,1,3,11w
+Kempegowda Bus Station ⇔ Chikka Kammanahalli,369-G,1,3,17l
+Kempegowda Bus Station ⇔ Chikka Thirupathi,304-Z,1,3,214
+Kempegowda Bus Station ⇔ Chikka Tumkur,285-CC KBS-CKTR,1,3,1s2
+Kempegowda Bus Station ⇔ Chikkaballapura,V-298MN,1,3,1eb
+Kempegowda Bus Station ⇔ Chikkallasandra,210-KA,1,3,x7
+Kempegowda Bus Station ⇔ Chikkallasandra,210-P,1,3,8g
+Kempegowda Bus Station ⇔ Chikkamaranahalli,258-VB,1,3,5v
+Kempegowda Bus Station ⇔ Chikkegowdanapalya,225-AB,1,3,9
+Kempegowda Bus Station ⇔ Chikkegowdanapalya,225-AB KBS-HVH-CGP,1,3,9w
+Kempegowda Bus Station ⇔ Chinnaiahnapalya,372-E KBS-CNP,1,3,w8
+Kempegowda Bus Station ⇔ Chowdeshwarinagara JP Park,99-B,1,3,1mu
+Kempegowda Bus Station ⇔ Christal House Learning School,280 KBS-YHK-CHLS,1,3,24h
+Kempegowda Bus Station ⇔ Christal House Learning School,293 KBS-HNR-CHLS,1,3,1e0
+Kempegowda Bus Station ⇔ City Engineering College Vasantha Vallabha Nagara,210-E KBS-CEC,1,3,k0
+Kempegowda Bus Station ⇔ Coffee Board Layout,287-G,1,3,1av
+Kempegowda Bus Station ⇔ Cubbon Park Metro Station,129 KBS-CMS,1,3,3n
+Kempegowda Bus Station ⇔ DLF Home Town,369-K KBS-DLF,1,3,t5
+Kempegowda Bus Station ⇔ Dabaspete,258-DN KBS-DBSP,1,3,7n
+Kempegowda Bus Station ⇔ Darshan Farm,225-CC,1,3,25e
+Kempegowda Bus Station ⇔ Dasanapura,360-Q KBS-DSP,1,3,bw
+Kempegowda Bus Station ⇔ Dasanayakanahalli,293-H,1,3,ta
+Kempegowda Bus Station ⇔ Deepanjalinagara,222-A KBS-DPJN,1,3,v
+Kempegowda Bus Station ⇔ Deepanjalinagara,238-U KBS-DPJN,1,3,yw
+Kempegowda Bus Station ⇔ Deepanjalinagara,87 KBS-DPJN,1,3,1gv
+Kempegowda Bus Station ⇔ Deepanjalinagara,KBS-DPJN,1,3,3
+Kempegowda Bus Station ⇔ Depot-14 Gate,279-E  KBS-D14G,1,3,y8
+Kempegowda Bus Station ⇔ Depot-27 Gate,355-C KBS-D27G,1,3,c3
+Kempegowda Bus Station ⇔ Depot-27 Gate,365-J KBS-D27,1,3,um
+Kempegowda Bus Station ⇔ Depot-32 Suryacity,356-M KBS-D32,1,3,6i
+Kempegowda Bus Station ⇔ Depot-34 Gate,215-H KBS-D34G,1,3,1bq
+Kempegowda Bus Station ⇔ Depot-34 Gate,364-G KBS-D34G,1,3,ii
+Kempegowda Bus Station ⇔ Depot-34 Gate,365 KBS-D34G,1,3,1la
+Kempegowda Bus Station ⇔ Depot-35 Gate,242-B KBS-D35G,1,3,o0
+Kempegowda Bus Station ⇔ Depot-38 Gate,349 D38-LMG-KBS,1,3,1fy
+Kempegowda Bus Station ⇔ Depot-41 Gate,323-AK KBS-D41G,1,3,1zx
+Kempegowda Bus Station ⇔ Depot-41 Gate,KBS-1K KBS-D41G,1,3,1n4
+Kempegowda Bus Station ⇔ Depot-41 Gate,KBS-1K KBS-VSD-D41G,1,3,1yi
+Kempegowda Bus Station ⇔ Depot-45 Gate,276 KBS-VRP-D45G,1,3,1s3
+Kempegowda Bus Station ⇔ Devagere,229-B KBS-DVG,1,3,co
+Kempegowda Bus Station ⇔ Devanagondi,306-D,1,3,125
+Kempegowda Bus Station ⇔ Devanahalli Old Bus Stand,298-M,1,3,bq
+Kempegowda Bus Station ⇔ Devaninjayyanapalya,245-R KBS-DJP,1,3,wl
+Kempegowda Bus Station ⇔ Devarachikkanahalli,364-B,1,3,1s6
+Kempegowda Bus Station ⇔ Dodda Basti,235-K,1,3,10g
+Kempegowda Bus Station ⇔ Dodda Byalakere,254 KBS-DBLK,1,3,44
+Kempegowda Bus Station ⇔ Dodda Cheemanahalli,297-G KBS-DCH,1,3,1st
+Kempegowda Bus Station ⇔ Dodda Gubbi,295-A,1,3,1h8
+Kempegowda Bus Station ⇔ Dodda Nallala,382-C KBS-DNH,1,3,3b
+Kempegowda Bus Station ⇔ Dodda Nekkundi,333-F,1,3,dn
+Kempegowda Bus Station ⇔ Dodda Tumkur,285-C KBS-DTMR,1,3,5o
+Kempegowda Bus Station ⇔ Doddaballapura Bus Stand,285-M,1,3,vs
+Kempegowda Bus Station ⇔ Doddaballapura Bus Stand,285-M KBS-KRC-DBP,1,3,4q
+Kempegowda Bus Station ⇔ Doddaballapura Bus Stand,V-285M,1,3,1uz
+Kempegowda Bus Station ⇔ Doddabele,220-E,1,3,s7
+Kempegowda Bus Station ⇔ Doddamaranahalli,242-J KBS-DMH,1,3,17t
+Kempegowda Bus Station ⇔ Dommasandra,327-A,1,3,1nr
+Kempegowda Bus Station ⇔ Dr Ambedkar Nagara,333-K,1,3,29z
+Kempegowda Bus Station ⇔ Dyavasandra,365-Q,1,3,140
+Kempegowda Bus Station ⇔ Electronic City Wipro Main Gate,KBS-3E,1,3,fn
+Kempegowda Bus Station ⇔ Electronic City Wipro Main Gate,V-356C KBS-ELCWG,1,3,if
+Kempegowda Bus Station ⇔ Eshwara Layout,215-E,1,3,1tv
+Kempegowda Bus Station ⇔ GKW Layout,61-F,1,3,xv
+Kempegowda Bus Station ⇔ GKW Layout,V-61F,1,3,m6
+Kempegowda Bus Station ⇔ Gadenahalli,299-E,1,3,108
+Kempegowda Bus Station ⇔ Gangadharanapalya,258-C KBS-GDP,1,3,2k
+Kempegowda Bus Station ⇔ Gangenahalli,242-Q KBS-GGH,1,3,235
+Kempegowda Bus Station ⇔ Gangondanahalli,263-G,1,3,1fi
+Kempegowda Bus Station ⇔ Gaviyappa Thimayya Layout,45-DG,1,3,1we
+Kempegowda Bus Station ⇔ Geleyara Balaga Extension Rajajinagara,89-B,1,3,1cv
+Kempegowda Bus Station ⇔ Geleyara Balaga Extension Rajajinagara,89-F,1,3,127
+Kempegowda Bus Station ⇔ Geleyara Balaga Layout,250-S,1,3,4m
+Kempegowda Bus Station ⇔ Gidadakonenahalli,243-F,1,3,jd
+Kempegowda Bus Station ⇔ Giddenahalli,365-N,1,3,24q
+Kempegowda Bus Station ⇔ Girigowdana Doddy,214-B KBS-GGD,1,3,1yx
+Kempegowda Bus Station ⇔ Girinagara Extension,36-B,1,3,qz
+Kempegowda Bus Station ⇔ Gollahalli Electronic City,346-M KBS-GLH,1,3,230
+Kempegowda Bus Station ⇔ Gollarahatti,240-D,1,3,1yd
+Kempegowda Bus Station ⇔ Gongatipura,241-C KBS-GGP,1,3,1bs
+Kempegowda Bus Station ⇔ Gonighattapura,323-AK,1,3,1xi
+Kempegowda Bus Station ⇔ Gorinabele,258-U,1,3,sl
+Kempegowda Bus Station ⇔ Govindapura,291-M KBS-GNP,1,3,5b
+Kempegowda Bus Station ⇔ Guddahatti,359,1,3,r9
+Kempegowda Bus Station ⇔ Gulaganjahalli,221-J TVK-KBS,1,3,vf
+Kempegowda Bus Station ⇔ Gundanjaneya Swamy Temple Ravagodlu,KBS-KMT-GAT,1,3,19j
+Kempegowda Bus Station ⇔ Gundur,296-N,1,3,23n
+Kempegowda Bus Station ⇔ Guravanahalli,258-V KBS-GRH,1,3,1o1
+Kempegowda Bus Station ⇔ Guruvanahalli,258-G KBS-GVH,1,3,z1
+Kempegowda Bus Station ⇔ H Krishnappa Layout,43-J,1,3,r5
+Kempegowda Bus Station ⇔ HSR Layout 2nd Sector,340-A KBS-ADG-HSR 2nd,1,3,18s
+Kempegowda Bus Station ⇔ HSR Layout KEB,340-A KBS-ADG-HSRKEB,1,3,20a
+Kempegowda Bus Station ⇔ HSR Layout KEB,347-E,1,3,bs
+Kempegowda Bus Station ⇔ Hampinagara RPC Layout,87,1,3,11t
+Kempegowda Bus Station ⇔ Hanchipura,258-YA,1,3,5w
+Kempegowda Bus Station ⇔ Handarahalli,293-GN KBS-HND,1,3,f1
+Kempegowda Bus Station ⇔ Handenahalli Attibele,351-J,1,3,1ze
+Kempegowda Bus Station ⇔ Handenahalli Attibele,360-J,1,3,lv
+Kempegowda Bus Station ⇔ Hangarahalli,226-V KBS-HGH,1,3,19h
+Kempegowda Bus Station ⇔ Haraluru,347-B,1,3,pc
+Kempegowda Bus Station ⇔ Harohalli,325 KBS-HAL-HRH,1,3,9m
+Kempegowda Bus Station ⇔ Harohalli,325-A,1,3,90
+Kempegowda Bus Station ⇔ Harohalli,KBS-5H,1,3,m4
+Kempegowda Bus Station ⇔ Hebbala,279-E,1,3,1f6
+Kempegowda Bus Station ⇔ Hebbala,279-E KBS-VSD-HBL,1,3,1n7
+Kempegowda Bus Station ⇔ Hemapura,258-D KBS-TBS-HMP,1,3,18v
+Kempegowda Bus Station ⇔ Hemapura,258-VA,1,3,1hc
+Kempegowda Bus Station ⇔ Hennagara,352-A,1,3,5c
+Kempegowda Bus Station ⇔ Hesaraghatta,253-J,1,3,2j
+Kempegowda Bus Station ⇔ Hongasandra MICO Layout,343-L,1,3,1jh
+Kempegowda Bus Station ⇔ Honnasandra,255-J KBS-HNS,1,3,1h3
+Kempegowda Bus Station ⇔ Hosakote Bus Stand (Old),317-A KBS-VSD-HSK,1,3,22z
+Kempegowda Bus Station ⇔ Hosakote Bus Stand (Old),326-D KBS-HSK,1,3,k7
+Kempegowda Bus Station ⇔ Hosakote Bus Stand (Old),KBS-12HK,1,3,n4
+Kempegowda Bus Station ⇔ Hosakote Bus Stand (Old),V-317A,1,3,a2
+Kempegowda Bus Station ⇔ Hosapalya Kudlu Gate,348-G,1,3,qb
+Kempegowda Bus Station ⇔ Hoskerehalli,43-B,1,3,1q7
+Kempegowda Bus Station ⇔ Hoskerehalli Kerekodi,43-C,1,3,20p
+Kempegowda Bus Station ⇔ Hulimavu,369-C,1,3,b1
+Kempegowda Bus Station ⇔ Huluvenahalli,242-P KBS-HVLH,1,3,1mr
+Kempegowda Bus Station ⇔ Hunasemaradapalya,221-F,1,3,5i
+Kempegowda Bus Station ⇔ Hunasuru,281-F KBS-MYH-HNS,1,3,rx
+Kempegowda Bus Station ⇔ Hunasuru,293-Q,1,3,1x5
+Kempegowda Bus Station ⇔ Hunasuru,293-S KBS-HNS,1,3,17n
+Kempegowda Bus Station ⇔ Hunnigere,227-P KBS-HNG,1,3,e1
+Kempegowda Bus Station ⇔ Hunnigere,242-T,1,3,1o5
+Kempegowda Bus Station ⇔ Huskur,349-C,1,3,5s
+Kempegowda Bus Station ⇔ Huskur Village,255-D,1,3,14r
+Kempegowda Bus Station ⇔ ISRO Layout,210-A,1,3,17x
+Kempegowda Bus Station ⇔ ISRO Layout,210-AA,1,3,26k
+Kempegowda Bus Station ⇔ ITI Layout,238-Y,1,3,96
+Kempegowda Bus Station ⇔ Immadihalli,320-A,1,3,xr
+Kempegowda Bus Station ⇔ Indian Air Force,281-C,1,3,1zv
+Kempegowda Bus Station ⇔ JC Nagara Kurubarahalli,89-D,1,3,46
+Kempegowda Bus Station ⇔ JP Nagara 1st Phase,2-A,1,3,pj
+Kempegowda Bus Station ⇔ JP Nagara 3rd Phase,25-E,1,3,1uo
+Kempegowda Bus Station ⇔ JP Nagara 6th Phase,2-E,1,3,62
+Kempegowda Bus Station ⇔ Jai Bheema Nagara,168-E KBS-VSD-JBN,1,3,117
+Kempegowda Bus Station ⇔ Jai Bhuvaneshwari Nagara,80-F,1,3,28k
+Kempegowda Bus Station ⇔ Jai Maruthi Nagara,80-B,1,3,1vn
+Kempegowda Bus Station ⇔ Jakkur,286-G,1,3,z3
+Kempegowda Bus Station ⇔ Jalahalli Cross,273-C,1,3,1yk
+Kempegowda Bus Station ⇔ Jalahalli Cross,273-H KBS-VSD-JHC,1,3,1pr
+Kempegowda Bus Station ⇔ Jambu Savari Dinne,215-H,1,3,s9
+Kempegowda Bus Station ⇔ Janapriya Greenwood Apartment,271-T,1,3,11m
+Kempegowda Bus Station ⇔ Janapriya Township,G-7,1,3,rf
+Kempegowda Bus Station ⇔ Janapriya Township,V-G7,1,3,mk
+Kempegowda Bus Station ⇔ Janthagundanahalli,323-AB,1,3,ln
+Kempegowda Bus Station ⇔ Jayasuryanagara Kogilu,284-KA,1,3,52
+Kempegowda Bus Station ⇔ Jayasuryanagara Kogilu,284-KA KBS-VSD-JSNL,1,3,ug
+Kempegowda Bus Station ⇔ Jeevanahalli,126,1,3,1bf
+Kempegowda Bus Station ⇔ Jeevanbheema Nagara,138,1,3,1j1
+Kempegowda Bus Station ⇔ Jeevanbheema Nagara,138 KBS-VSD-JBN,1,3,27
+Kempegowda Bus Station ⇔ Jigani APC Circle,365-H,1,3,1x0
+Kempegowda Bus Station ⇔ Jigani APC Circle,365-J,1,3,193
+Kempegowda Bus Station ⇔ Jigani APC Circle,KBS-ELC-JAPC,1,3,12z
+Kempegowda Bus Station ⇔ Jigani APC Circle,V-365J,1,3,ow
+Kempegowda Bus Station ⇔ Jigani Bus Stand,353-C,1,3,po
+Kempegowda Bus Station ⇔ Jnana Bharathi West Side Hospital,222-N,1,3,iv
+Kempegowda Bus Station ⇔ Jnanashakthi Nagara,242-B KBS-JSN,1,3,1gu
+Kempegowda Bus Station ⇔ Judicial Layout Water Tank,284-C KBS-JLOW,1,3,22
+Kempegowda Bus Station ⇔ Jyothipura Budigere,318 KBS-JTP,1,3,1c4
+Kempegowda Bus Station ⇔ K Narayanapura Main Bus Stand,286-F,1,3,20u
+Kempegowda Bus Station ⇔ K Narayanapura Main Bus Stand,286-F KBS-VSD-KNP,1,3,265
+Kempegowda Bus Station ⇔ K Narayanapura Main Bus Stand,292-C,1,3,27g
+Kempegowda Bus Station ⇔ KR Pura Govt Hospital,300-C,1,3,lc
+Kempegowda Bus Station ⇔ KR Pura Govt Hospital,300-H,1,3,15k
+Kempegowda Bus Station ⇔ KR Pura Govt Hospital,315-K,1,3,261
+Kempegowda Bus Station ⇔ KR Pura Govt Hospital,315-MF,1,3,1k7
+Kempegowda Bus Station ⇔ KR Pura Govt Hospital,KBS-VSD-RMB KRPGH,1,3,1al
+Kempegowda Bus Station ⇔ Kachohalli,240-R,1,3,kj
+Kempegowda Bus Station ⇔ Kadabagere,245-GA,1,3,243
+Kempegowda Bus Station ⇔ Kadabagere Cross,BC-7A KBS-MKDH-KDC,1,3,qf
+Kempegowda Bus Station ⇔ Kadugodi Bus Station,319-C,1,3,28u
+Kempegowda Bus Station ⇔ Kadugodi Bus Station,333-E,1,3,1fk
+Kempegowda Bus Station ⇔ Kadugodi Bus Station,335-E,1,3,1py
+Kempegowda Bus Station ⇔ Kadugodi Bus Station,KBS-13K,1,3,1u2
+Kempegowda Bus Station ⇔ Kadugodi Bus Station,KBS-1I,1,3,1gk
+Kempegowda Bus Station ⇔ Kadugodi Bus Station,KBS-1K,1,3,23g
+Kempegowda Bus Station ⇔ Kadugodi Bus Station,V-333E,1,3,1hk
+Kempegowda Bus Station ⇔ Kadugodi Bus Station,V-335E,1,3,58
+Kempegowda Bus Station ⇔ Kadusonnappanahalli,289-N,1,3,g0
+Kempegowda Bus Station ⇔ Kalidasa Layout,36-F,1,3,11x
+Kempegowda Bus Station ⇔ Kalkunte Agrahara,304-J,1,3,1dw
+Kempegowda Bus Station ⇔ Kallur,242-ZD,1,3,qs
+Kempegowda Bus Station ⇔ Kalyananagara,293 KBS-LGP-KLN,1,3,1oe
+Kempegowda Bus Station ⇔ Kalyananagara 302,302-B,1,3,2u
+Kempegowda Bus Station ⇔ Kamalanagara BEML Layout,96-B,1,3,1dm
+Kempegowda Bus Station ⇔ Kamalanagara BEML Layout,96-E,1,3,1gj
+Kempegowda Bus Station ⇔ Kambipura,218-A,1,3,pt
+Kempegowda Bus Station ⇔ Kamblipura,381-E,1,3,1ru
+Kempegowda Bus Station ⇔ Kammasandra,245-MA,1,3,zc
+Kempegowda Bus Station ⇔ Kammasandra,263-R,1,3,jm
+Kempegowda Bus Station ⇔ Kammasandra,315-J KBS-KMS,1,3,xh
+Kempegowda Bus Station ⇔ Kanasawadi,253-G,1,3,7
+Kempegowda Bus Station ⇔ Kannamangala,317-P,1,3,7d
+Kempegowda Bus Station ⇔ Kannamangala Madhure,258-TA,1,3,1nm
+Kempegowda Bus Station ⇔ Kariyanapalya,210-W,1,3,1vc
+Kempegowda Bus Station ⇔ Karnataka Slum Board Development Apartment,346-CK,1,3,1in
+Kempegowda Bus Station ⇔ Karubele,224-C,1,3,1d2
+Kempegowda Bus Station ⇔ Kasaghatta,258-T,1,3,1d1
+Kempegowda Bus Station ⇔ Kasuvinakunte,365-EA,1,3,1kp
+Kempegowda Bus Station ⇔ Kattu Gollahalli,316-J KBS-KTGH,1,3,26z
+Kempegowda Bus Station ⇔ Kaval Byrasandra,111-C,1,3,1ka
+Kempegowda Bus Station ⇔ Kempaiahnapalya,226-NA,1,3,ov
+Kempegowda Bus Station ⇔ Kempapura,254-D KBS-KMP,1,3,29h
+Kempegowda Bus Station ⇔ Kempegowda Bus Station,264-A,1,3,18g
+Kempegowda Bus Station ⇔ Kempegowda Bus Station,265,1,3,1y3
+Kempegowda Bus Station ⇔ Kempegowda Bus Station,265-A,1,3,1pn
+Kempegowda Bus Station ⇔ Kempegowda Bus Station,82-A,1,3,1ve
+Kempegowda Bus Station ⇔ Kempegowda Bus Station,96,1,3,j6
+Kempegowda Bus Station ⇔ Kempegowda Bus Station,96-A,1,3,1uk
+Kempegowda Bus Station ⇔ Kempegowda Bus Station,V-BENGALURU DARSHINI,1,3,1it
+Kempegowda Bus Station ⇔ Kempegowda International Airport,281-AP KBS-KIA,1,3,h8
+Kempegowda Bus Station ⇔ Kempegowda International Airport,KIA-9,1,3,240
+Kempegowda Bus Station ⇔ Kempegowda Swimming Pool,35,1,3,1q0
+Kempegowda Bus Station ⇔ Kenchanapura,241-B,1,3,1kf
+Kempegowda Bus Station ⇔ Kendriya Sadana Koramangala,171-C,1,3,le
+Kempegowda Bus Station ⇔ Kendriya Vidyalaya Malleshwara,KBS-KVM,1,3,1ys
+Kempegowda Bus Station ⇔ Kendriya Vihara Yalahanka,284 KBS-KVRY,1,3,s4
+Kempegowda Bus Station ⇔ Kengeri Satellite Town,222-A,1,3,1sb
+Kempegowda Bus Station ⇔ Kittaganuru,301-F,1,3,18q
+Kempegowda Bus Station ⇔ Kittanahalli,245-J,1,3,7v
+Kempegowda Bus Station ⇔ Kittanahalli,245-R,1,3,rk
+Kempegowda Bus Station ⇔ Kodagalahatti,282-G,1,3,257
+Kempegowda Bus Station ⇔ Kodichikkanahalli,364-G,1,3,9l
+Kempegowda Bus Station ⇔ Kodigehalli,285-MF,1,3,fx
+Kempegowda Bus Station ⇔ Kodigehalli,288-D,1,3,16g
+Kempegowda Bus Station ⇔ Kodigehalli Canara Bank Colony,288-G,1,3,24b
+Kempegowda Bus Station ⇔ Kodigehalli Canara Bank Colony,288-G KBS-VSD-KDHCBC,1,3,7h
+Kempegowda Bus Station ⇔ Koluvarayanahalli,285-H KBS-KLRH,1,3,1cu
+Kempegowda Bus Station ⇔ Koraluru,304-B,1,3,d3
+Kempegowda Bus Station ⇔ Koramangala 1st Block,171,1,3,1b1
+Kempegowda Bus Station ⇔ Koramangala 1st Block,171-G,1,3,2
+Kempegowda Bus Station ⇔ Koramangala 1st Block,V-171,1,3,2t
+Kempegowda Bus Station ⇔ Koramangala Bus Station,146-F,1,3,13b
+Kempegowda Bus Station ⇔ Kothanuru Hari Nagara,215-R,1,3,il
+Kempegowda Bus Station ⇔ Koyira,298-MK,1,3,1np
+Kempegowda Bus Station ⇔ Kudlu,341-E,1,3,1xo
+Kempegowda Bus Station ⇔ Kuduregere Colony,283-D,1,3,4a
+Kempegowda Bus Station ⇔ Kuduregere Madanayakanahalli,250-DT,1,3,26n
+Kempegowda Bus Station ⇔ Kuduregere Madanayakanahalli,250-SA,1,3,hv
+Kempegowda Bus Station ⇔ Kumaraswamy Layout,15-E,1,3,p7
+Kempegowda Bus Station ⇔ Kumaraswamy Layout,V-15E,1,3,1e2
+Kempegowda Bus Station ⇔ Kumaraswamy Layout 2nd Stage,15-G,1,3,1su
+Kempegowda Bus Station ⇔ Kumaraswamy Layout West,210-U,1,3,bf
+Kempegowda Bus Station ⇔ Kurubarapalya,227-HA,1,3,1ca
+Kempegowda Bus Station ⇔ Kuvempunagara Bus station (BTM Layout),25,1,3,5x
+Kempegowda Bus Station ⇔ Kuvempunagara Bus station (BTM Layout),25-A,1,3,1i2
+Kempegowda Bus Station ⇔ Kuvempunagara Bus station (BTM Layout),V-25A,1,3,1u9
+Kempegowda Bus Station ⇔ Laggere New Bus Stand,252-E,1,3,1zz
+Kempegowda Bus Station ⇔ Laggere New Bus Stand,252-H,1,3,cf
+Kempegowda Bus Station ⇔ Lakshmaiah Badavane,241-E,1,3,21m
+Kempegowda Bus Station ⇔ Lakshmi Temple,217-D,1,3,yb
+Kempegowda Bus Station ⇔ Lakshmipura,242-U KBS-LKSMP,1,3,qk
+Kempegowda Bus Station ⇔ Lakshmipura,266-T,1,3,dt
+Kempegowda Bus Station ⇔ Lingadeeranahalli,240-H,1,3,at
+Kempegowda Bus Station ⇔ Lingadeeranahalli,243-L,1,3,ew
+Kempegowda Bus Station ⇔ Lottegollahalli,276-C,1,3,24c
+Kempegowda Bus Station ⇔ MEI Layout,250-M,1,3,1xt
+Kempegowda Bus Station ⇔ MICO Shramajeevi Colony Arakere,364-A,1,3,25n
+Kempegowda Bus Station ⇔ Machohalli,240 KBS-MCH,1,3,lz
+Kempegowda Bus Station ⇔ Madanayakanahalli,245-M KBS-BMTCTC-MDH,1,3,sa
+Kempegowda Bus Station ⇔ Madhura Nagara,328-K,1,3,6
+Kempegowda Bus Station ⇔ Magadi,240-MB,1,3,t9
+Kempegowda Bus Station ⇔ Mahadeshwara Badavane,352-B,1,3,28o
+Kempegowda Bus Station ⇔ Mahadeshwara Badavane,352-E KBS-MHDB,1,3,xi
+Kempegowda Bus Station ⇔ Mahadeshwara Nagara,25--B,1,3,b4
+Kempegowda Bus Station ⇔ Mahalakshmi Layout,80,1,3,b7
+Kempegowda Bus Station ⇔ Malenallasandra,365-B,1,3,25p
+Kempegowda Bus Station ⇔ Malleshpalya New Bus Station(Vignananagar),314-D,1,3,194
+Kempegowda Bus Station ⇔ Malleshpalya New Bus Station(Vignananagar),314-H,1,3,15m
+Kempegowda Bus Station ⇔ Mandur,316-G,1,3,1vh
+Kempegowda Bus Station ⇔ Manganahalli,234-C,1,3,1bj
+Kempegowda Bus Station ⇔ Manorayanapalya,114-B,1,3,1zb
+Kempegowda Bus Station ⇔ Mantanakurchi,242-TA KBS-MTK,1,3,15h
+Kempegowda Bus Station ⇔ Mantanakurchi,258-QA,1,3,te
+Kempegowda Bus Station ⇔ Maranayakanahalli,282-F,1,3,276
+Kempegowda Bus Station ⇔ Marasandra,289-GA,1,3,1o2
+Kempegowda Bus Station ⇔ Marasandra,296-F,1,3,1na
+Kempegowda Bus Station ⇔ Marasandra,306-L KBS-MSD,1,3,23f
+Kempegowda Bus Station ⇔ Marathahalli Bridge,333,1,3,on
+Kempegowda Bus Station ⇔ Mattahalli,255-AA,1,3,ig
+Kempegowda Bus Station ⇔ Mattahalli,265-E,1,3,cg
+Kempegowda Bus Station ⇔ Mayasandra,358 KBS-MYS,1,3,rz
+Kempegowda Bus Station ⇔ Medarahalli Railway Gate,250-AB,1,3,k2
+Kempegowda Bus Station ⇔ Mestripalya,290-J,1,3,1oa
+Kempegowda Bus Station ⇔ Mittaganahalli 1,280-K,1,3,ny
+Kempegowda Bus Station ⇔ Mohankumar Nagara,99-A,1,3,1ub
+Kempegowda Bus Station ⇔ Muddinapalya,238-VA,1,3,1m0
+Kempegowda Bus Station ⇔ Muddinapalya Junction,238-U,1,3,yl
+Kempegowda Bus Station ⇔ Muddinapalya Junction,238-V,1,3,7z
+Kempegowda Bus Station ⇔ Mukkodlu,214-C KBS-MKD,1,3,bk
+Kempegowda Bus Station ⇔ Muneshwara Block,36-D,1,3,r3
+Kempegowda Bus Station ⇔ Munnekolalu,333-H,1,3,1gc
+Kempegowda Bus Station ⇔ Muthkur,251-G KBS-MTKR,1,3,nk
+Kempegowda Bus Station ⇔ Muthkur,266-J,1,3,1l2
+Kempegowda Bus Station ⇔ Muthkur,321-G,1,3,26f
+Kempegowda Bus Station ⇔ Muttanalluru,351-M,1,3,nl
+Kempegowda Bus Station ⇔ Mutturayanaswamy Doddy,365-S,1,3,13g
+Kempegowda Bus Station ⇔ Mylanahalli,281-F,1,3,118
+Kempegowda Bus Station ⇔ Mylanahalli,293-KA,1,3,ic
+Kempegowda Bus Station ⇔ NGV Koramangala,171-H,1,3,rh
+Kempegowda Bus Station ⇔ NR Colony,31,1,3,1wp
+Kempegowda Bus Station ⇔ NS Palya,25-H,1,3,21v
+Kempegowda Bus Station ⇔ Naduvatti,317-V,1,3,ms
+Kempegowda Bus Station ⇔ Nagadasanahalli,285-A KBS-NGDH,1,3,7t
+Kempegowda Bus Station ⇔ Nagarahole Nagara,241-H,1,3,kw
+Kempegowda Bus Station ⇔ Nagaresh Nagenahalli,292-B,1,3,12c
+Kempegowda Bus Station ⇔ Nagenahalli,258-TC,1,3,kb
+Kempegowda Bus Station ⇔ Nallurahalli,333-G,1,3,y4
+Kempegowda Bus Station ⇔ Nandini Layout Bus Stand,80-A,1,3,1eg
+Kempegowda Bus Station ⇔ Nanjapura,350-E KBS-NJP,1,3,115
+Kempegowda Bus Station ⇔ Narasapura,238-W,1,3,1go
+Kempegowda Bus Station ⇔ Narasipura,255-E KBS-NSP,1,3,26e
+Kempegowda Bus Station ⇔ Narayanaghatta,351-A,1,3,5r
+Kempegowda Bus Station ⇔ Neelasandra Bus Stand,145,1,3,s8
+Kempegowda Bus Station ⇔ Neelasandra Rose Garden,145-E,1,3,1p0
+Kempegowda Bus Station ⇔ Nelamangala Bus Station,242-B KBS-TVK-NML,1,3,1bn
+Kempegowda Bus Station ⇔ Nelamangala Bus Station,245-HA,1,3,wv
+Kempegowda Bus Station ⇔ Nelamangala Bus Station,258-B,1,3,tj
+Kempegowda Bus Station ⇔ Nelamangala Bus Station,258-C,1,3,ix
+Kempegowda Bus Station ⇔ Nelamangala Bus Station,258-CC,1,3,rw
+Kempegowda Bus Station ⇔ Nelamangala Bus Station,406,1,3,d4
+Kempegowda Bus Station ⇔ Nelamangala Railway Station,258-C KBS-NMGRS,1,3,18o
+Kempegowda Bus Station ⇔ Nerige,323-F,1,3,ip
+Kempegowda Bus Station ⇔ Nettigere,213-N,1,3,1gg
+Kempegowda Bus Station ⇔ Nisarga Badavane,372-F,1,3,25h
+Kempegowda Bus Station ⇔ Nruthyagrama,253-G KBS-NRG,1,3,98
+Kempegowda Bus Station ⇔ Nyanappanahalli Arakere,364-F,1,3,wj
+Kempegowda Bus Station ⇔ Old Baiyappanahalli,122,1,3,q2
+Kempegowda Bus Station ⇔ Parappana Agrahara,346-H,1,3,gy
+Kempegowda Bus Station ⇔ Patalamma Temple,225-C KBS-PTLMT,1,3,29g
+Kempegowda Bus Station ⇔ Peenya 2nd Stage,252,1,3,1bk
+Kempegowda Bus Station ⇔ Peenya 2nd Stage,252-F,1,3,20r
+Kempegowda Bus Station ⇔ Peenya 2nd stage,273,1,3,dc
+Kempegowda Bus Station ⇔ Peenya Satellite Bus Station (Basaveshwara),273-PS,1,3,1p5
+Kempegowda Bus Station ⇔ Pillahalli,255-C KBS-PLH,1,3,20h
+Kempegowda Bus Station ⇔ Pitchguntarahalli,305-Q,1,3,ww
+Kempegowda Bus Station ⇔ Poojena Agrahara,383-A,1,3,yj
+Kempegowda Bus Station ⇔ Poornaprajna Layout,210-KA KBS-PPLO,1,3,nz
+Kempegowda Bus Station ⇔ Poornaprajna Layout,210-NA,1,3,s6
+Kempegowda Bus Station ⇔ Poornaprajna Layout,210-ND KBS-PPLO,1,3,tb
+Kempegowda Bus Station ⇔ Poornaprajna Layout,45-D KBS-PPLO,1,3,1ie
+Kempegowda Bus Station ⇔ Poornaprajnalayout NEW Bus Stand,210-NP,1,3,275
+Kempegowda Bus Station ⇔ Pramod Layout,43-H,1,3,ep
+Kempegowda Bus Station ⇔ Provident Sunworth Apartment,220-F,1,3,hl
+Kempegowda Bus Station ⇔ Pura,306-M KBS-PUR,1,3,19v
+Kempegowda Bus Station ⇔ Puttenahalli,276 KBS-PTH,1,3,146
+Kempegowda Bus Station ⇔ Puttenahalli,285 KBS-YST-PTH,1,3,sk
+Kempegowda Bus Station ⇔ Puttenahalli,285 KBS-YSTF-PTH,1,3,1pt
+Kempegowda Bus Station ⇔ Puttenahalli,KBS-YST-PTH,1,3,22o
+Kempegowda Bus Station ⇔ Rachammanahalli,KBS-LMG-CPR-RMH,1,3,1a5
+Kempegowda Bus Station ⇔ Railway Gollahalli,253-V,1,3,2g
+Kempegowda Bus Station ⇔ Rajanukunte,285-AA,1,3,1mw
+Kempegowda Bus Station ⇔ Rajkumar Punya Bhoomi,80-R,1,3,sz
+Kempegowda Bus Station ⇔ Ramachandrapura,269,1,3,1rd
+Kempegowda Bus Station ⇔ Ramadevanahalli,258-S KBS-RDH,1,3,1v
+Kempegowda Bus Station ⇔ RamanayakanaDoddy,370-E,1,3,t3
+Kempegowda Bus Station ⇔ Ramanjaneya Layout Chikkallasandra,210-J,1,3,28c
+Kempegowda Bus Station ⇔ Ramanjaneya Layout Chikkallasandra,210-J VSD,1,3,120
+Kempegowda Bus Station ⇔ Ramasandra,235-K KBS-RMS,1,3,id
+Kempegowda Bus Station ⇔ Rampura,294-F,1,3,1fd
+Kempegowda Bus Station ⇔ Rampura,315-J,1,3,lm
+Kempegowda Bus Station ⇔ Ravi Badavane Jai Maruthi Nagara,80-D,1,3,13l
+Kempegowda Bus Station ⇔ Ravuthanahalli,257-C,1,3,1i0
+Kempegowda Bus Station ⇔ Rayasandra Circle,346-C,1,3,1cl
+Kempegowda Bus Station ⇔ Richmond Circle UFLY,KBS-RMCPFO,1,3,1mg
+Kempegowda Bus Station ⇔ Sadahalli Gate,298,1,3,qg
+Kempegowda Bus Station ⇔ Sadaramangala,315-E,1,3,271
+Kempegowda Bus Station ⇔ Sadashivanagara,104,1,3,o2
+Kempegowda Bus Station ⇔ Sahyadribalaga Layout,250-CA,1,3,zs
+Kempegowda Bus Station ⇔ Sakamma Layout,80-K,1,3,u
+Kempegowda Bus Station ⇔ Samanduru,360-S,1,3,1au
+Kempegowda Bus Station ⇔ Sampige Nagara,350-D KBS-SPN,1,3,mx
+Kempegowda Bus Station ⇔ Sarjapura,342-F,1,3,29c
+Kempegowda Bus Station ⇔ Sarjapura,342-F KBS-VSD-SJP,1,3,281
+Kempegowda Bus Station ⇔ Sarjapura,V-342F,1,3,el
+Kempegowda Bus Station ⇔ Sasuveghatta,250-SB,1,3,296
+Kempegowda Bus Station ⇔ Seegehalli,241-G KBS-SGH,1,3,284
+Kempegowda Bus Station ⇔ Seetharampalya,333-N,1,3,vd
+Kempegowda Bus Station ⇔ Seetharampalya Metro Station,300-H KBS-SRPMS,1,3,1q1
+Kempegowda Bus Station ⇔ Shankarnagh Bus Stand,96-C,1,3,182
+Kempegowda Bus Station ⇔ Shankarnagh Bus Stand,96-G,1,3,vw
+Kempegowda Bus Station ⇔ Shanthiniketan Layout,369-D,1,3,1ob
+Kempegowda Bus Station ⇔ Shanubhoganahalli Bannerughatta,365-E,1,3,1m5
+Kempegowda Bus Station ⇔ Sharadamba Nagara,273-H,1,3,z8
+Kempegowda Bus Station ⇔ Shettyhalli Anekal Road,354-B,1,3,24n
+Kempegowda Bus Station ⇔ Shirke KHB Quarters,222-F,1,3,x9
+Kempegowda Bus Station ⇔ Shivajinagara Bus Station,129,1,3,sg
+Kempegowda Bus Station ⇔ Shivajinagara Bus Station,V-129,1,3,1qf
+Kempegowda Bus Station ⇔ Shivanapura,258-F,1,3,12q
+Kempegowda Bus Station ⇔ Shobha Hills View Apartment,217-D KBS-SHV,1,3,d8
+Kempegowda Bus Station ⇔ Shri Vidhyanagara,43,1,3,21j
+Kempegowda Bus Station ⇔ Shri Vidhyanagara,43-E,1,3,1qd
+Kempegowda Bus Station ⇔ Shrinivagilu Bus Stand,146-B,1,3,s0
+Kempegowda Bus Station ⇔ Singahalli,316-M,1,3,l7
+Kempegowda Bus Station ⇔ Singapura,271-C,1,3,cs
+Kempegowda Bus Station ⇔ Singena Agrahara,351-H KBS-SGA,1,3,27p
+Kempegowda Bus Station ⇔ Sir M Vishweshwaraiah Layout 9th Blk Mallathahalli,238-UC,1,3,71
+Kempegowda Bus Station ⇔ Sir M Vishweshwaraiah Railway Station,300-MV,1,3,24i
+Kempegowda Bus Station ⇔ Sir M Vishweshwaraiah Railway Station,V-300MV,1,3,20s
+Kempegowda Bus Station ⇔ Somanahalli,211-B,1,3,vo
+Kempegowda Bus Station ⇔ Sonnenahalli,298-MG KBS-SNH,1,3,1lp
+Kempegowda Bus Station ⇔ Soukya Hospital,305-S,1,3,1nj
+Kempegowda Bus Station ⇔ Sri Kamadhenu Kshetra,245-M,1,3,eu
+Kempegowda Bus Station ⇔ Sri Rakum School,285 KBS-SRKMS,1,3,ns
+Kempegowda Bus Station ⇔ Srigandhada Kaval,238-US,1,3,zr
+Kempegowda Bus Station ⇔ Srinagara Bus Station,36,1,3,1af
+Kempegowda Bus Station ⇔ Srinivasa Saligrama,227-RA,1,3,1ng
+Kempegowda Bus Station ⇔ Srinivasapura Kullegowdanapalya,228-J,1,3,1ew
+Kempegowda Bus Station ⇔ Sriramapura Bommasandra Road,355-A,1,3,22r
+Kempegowda Bus Station ⇔ St Vincent Palloti School,293 KBS-HNRC-SVPS,1,3,91
+Kempegowda Bus Station ⇔ St Vincent Palloti School,300-H KBS-SVPS,1,3,232
+Kempegowda Bus Station ⇔ Sulivara,242-MA KBS-SLVR,1,3,150
+Kempegowda Bus Station ⇔ Sultan palya,114-C,1,3,25t
+Kempegowda Bus Station ⇔ Summanahalli,238-U KBS-SMH,1,3,g5
+Kempegowda Bus Station ⇔ Summanahalli,80-G,1,3,da
+Kempegowda Bus Station ⇔ Suvarna Karnataka Bus Stand,288-DA,1,3,1rc
+Kempegowda Bus Station ⇔ Swamy Vivekananda Metro Station/Isolation Hospital,138 KBS-SVMS,1,3,54
+Kempegowda Bus Station ⇔ Tattanuru,322-A,1,3,5y
+Kempegowda Bus Station ⇔ Tavarekere,227-BA,1,3,1s8
+Kempegowda Bus Station ⇔ Tavarekere,242-B,1,3,1ut
+Kempegowda Bus Station ⇔ Tavarekere Aladamara,168-D,1,3,29x
+Kempegowda Bus Station ⇔ Thammenahalli,250-B,1,3,26r
+Kempegowda Bus Station ⇔ Thanisandra,290-B,1,3,1jb
+Kempegowda Bus Station ⇔ Tharabanahalli,305-M,1,3,1rt
+Kempegowda Bus Station ⇔ Thattanahalli,356-A,1,3,23i
+Kempegowda Bus Station ⇔ The Light House International Academy,293-S KBS-LHIA,1,3,r
+Kempegowda Bus Station ⇔ Thigalarapalya,243-D,1,3,gd
+Kempegowda Bus Station ⇔ Thigalarapalya,252-FB,1,3,mo
+Kempegowda Bus Station ⇔ Thigalarapalya,252-FC,1,3,v1
+Kempegowda Bus Station ⇔ Thigalarapalya,265-B,1,3,h0
+Kempegowda Bus Station ⇔ Thigularapalya (Isuvanahalli),258-SB,1,3,2p
+Kempegowda Bus Station ⇔ Thimmasandra,381,1,3,1sx
+Kempegowda Bus Station ⇔ Thindlu,288-H,1,3,xt
+Kempegowda Bus Station ⇔ Thindlu,288-H KBS-AGS-TDL,1,3,1dv
+Kempegowda Bus Station ⇔ Thippagondanahalli,242-Z,1,3,mi
+Kempegowda Bus Station ⇔ Thippenahalli Anjaneya Temple,256-C,1,3,1i3
+Kempegowda Bus Station ⇔ Thippennahalli,263-A KBS-TPH,1,3,1gr
+Kempegowda Bus Station ⇔ Thippuru,228-H,1,3,6j
+Kempegowda Bus Station ⇔ Thirupalya,350-A KBS-TRP,1,3,1dd
+Kempegowda Bus Station ⇔ Thore Hosapalya,256-MA,1,3,6z
+Kempegowda Bus Station ⇔ Thunga Nagara,242-CB,1,3,1g1
+Kempegowda Bus Station ⇔ Thyamagondlu,258-M KBS-TMG,1,3,1rp
+Kempegowda Bus Station ⇔ Turahalli,210-WA,1,3,1fj
+Kempegowda Bus Station ⇔ Udakunte,258-VG,1,3,1eu
+Kempegowda Bus Station ⇔ Ullala Satelite Town,234-E,1,3,18p
+Kempegowda Bus Station ⇔ Ullala Satelite Town,234-E KBS-KMT-UST,1,3,u5
+Kempegowda Bus Station ⇔ Ullala Satelite Town,234-EC,1,3,13s
+Kempegowda Bus Station ⇔ Ullala Satelite Town,241-S KBS-UST,1,3,fa
+Kempegowda Bus Station ⇔ Upadhyaya Badavane,222-C,1,3,1yb
+Kempegowda Bus Station ⇔ Upkar Residency Layout,243-A,1,3,ei
+Kempegowda Bus Station ⇔ Uttarahalli,210-N,1,3,1nl
+Kempegowda Bus Station ⇔ Uttarahalli,210-NG,1,3,1kk
+Kempegowda Bus Station ⇔ Uttarahalli,210-NH,1,3,1ug
+Kempegowda Bus Station ⇔ Vaderahalli,211-J,1,3,x6
+Kempegowda Bus Station ⇔ Vagata,305-L,1,3,9u
+Kempegowda Bus Station ⇔ Valagere Kallahalli,342-JB,1,3,155
+Kempegowda Bus Station ⇔ Valepura,328-F,1,3,22q
+Kempegowda Bus Station ⇔ Varadanayakanahalli,258-H,1,3,1tp
+Kempegowda Bus Station ⇔ Varahasandra,224-A KBS-VRS,1,3,3c
+Kempegowda Bus Station ⇔ Varna Factory Dabaspet Industrial Area,258-DN KBS-VRNF,1,3,1s5
+Kempegowda Bus Station ⇔ Vasantavihar Colony Billamaranahalli,282-D KBS-VVC,1,3,1as
+Kempegowda Bus Station ⇔ Vasanthapura,210-E,1,3,1kq
+Kempegowda Bus Station ⇔ Vasanthapura,210-R,1,3,1da
+Kempegowda Bus Station ⇔ Vidhana Soudha Layout,95-D,1,3,sq
+Kempegowda Bus Station ⇔ Vidyagiri Layout Chandra Layout,61-M,1,3,16e
+Kempegowda Bus Station ⇔ Vidyaniketan School Hebbala,285 KBS-VPSH,1,3,47
+Kempegowda Bus Station ⇔ Vidyaranyapura Bus Station,269-B,1,3,ud
+Kempegowda Bus Station ⇔ Vidyaranyapura Bus Station,276,1,3,1js
+Kempegowda Bus Station ⇔ Vidyaranyapura Bus Station,V-276,1,3,bv
+Kempegowda Bus Station ⇔ Vijaya Bank Layout Devarachikkanahalli,364-C,1,3,np
+Kempegowda Bus Station ⇔ Vijayapura Bus Stand Jangamakote,293-ZA,1,3,20t
+Kempegowda Bus Station ⇔ Vijayapura Bus Stand Jangamakote,298-MC,1,3,1ed
+Kempegowda Bus Station ⇔ Vijayapura Bus Stand Jangamakote,298-MP,1,3,1i6
+Kempegowda Bus Station ⇔ Vijayapura Bus Stand Jangamakote,298-Y KBS-YLR-VJP,1,3,104
+Kempegowda Bus Station ⇔ Vijayapura Bus Stand Jangamakote,298-Z,1,3,14e
+Kempegowda Bus Station ⇔ Vinayaka Nagara Hesarghatta,248-J,1,3,yn
+Kempegowda Bus Station ⇔ Virupakshapura,276-B,1,3,1t5
+Kempegowda Bus Station ⇔ Vishwanath Nagenahalli,415-B,1,3,1qh
+Kempegowda Bus Station ⇔ Vishwanath Nagenahalli,415-B KBS-VSD-VNH,1,3,1pk
+Kempegowda Bus Station ⇔ Vishwapriya Layout Cross,343-K,1,3,189
+Kempegowda Bus Station ⇔ Viva Toyota Hunasamaranahalli,298-M KBS-VTHM,1,3,13
+Kempegowda Bus Station ⇔ Vivek Nagara,146,1,3,21c
+Kempegowda Bus Station ⇔ Vivekananda Nagara,43-A,1,3,6a
+Kempegowda Bus Station ⇔ Whispering Meadows Patelappa Layout,279-E KBS-WMR,1,3,249
+Kempegowda Bus Station ⇔ Wonderla Amusement Park,V-226KBS,1,3,21i
+Kempegowda Bus Station ⇔ Yalachaguppe,242-FB,1,3,25j
+Kempegowda Bus Station ⇔ Yalahanka Satellite Town,284-D,1,3,1zp
+Kempegowda Bus Station ⇔ Yale Kodigehalli,241-CB,1,3,21n
+Kempegowda Bus Station ⇔ Yarappanahalli,280-L,1,3,se
+Kempegowda Bus Station ⇔ Yarappanahalli,296-A,1,3,qa
+Kempegowda Bus Station ⇔ Yelahanka Old Town,276-F,1,3,5q
+Kempegowda Bus Station ⇔ Yelahanka Old Town,284,1,3,ra
+Kempegowda Bus Station ⇔ Yelahanka Old Town,290-EY,1,3,1t6
+Kempegowda Bus Station ⇔ Yeliyur,298-Y,1,3,29n
+Kempegowda Bus Station ⇔ Yennigere,258-VF,1,3,1kb
+Kempegowda Bus Station ⇔ Yeshawanthapura Bus Station,90-E KBS-YTTMC,1,3,81
+Kempegowda Bus Station ⇔ Yeshawanthapura Bus Station,KBS-ESI-YTTMC,1,3,eo
+Kempegowda Bus Station ⇔ Yeshawanthapura New Railway Station,82-AR,1,3,1h9
+Kempegowda Bus Station ⇔ Yeshawanthapura New Railway Station,82-B,1,3,6r
+Kempegowda Bus Station ⇔ Yeshawanthapura Railway Station,90-E,1,3,1rw
+Kempegowda International Airport ⇔ Electronic City Wipro Main Gate,KIA-8EW,1,3,23o
+Kempegowda International Airport ⇔ HSR Layout KEB,KIA-7,1,3,t0
+Kempegowda International Airport ⇔ Royal Meenakshi Mall BG Road,KIA-14,1,3,222
+Kempegowda International Airport ⇔ White Field Bus Station (Vydehi Hospital),KIA-15A,1,3,14z
+Kendriya Vidyalaya ASC Center ⇔ Shivajinagara Bus Station,KVS-SBS,1,3,12t
+Kendriya Vidyalaya DRDO Quarters ⇔ Yelahanka Old Town,KVDRDO-KRP-YHKOT,1,3,js
+Kengeri Bus Station ⇔ Amruthahalli,502-DA,1,3,1qb
+Kengeri Bus Station ⇔ Anjanapura,5F KGR-ANP,1,3,23a
+Kengeri Bus Station ⇔ BEML Gate,201-G KNG-BEMLG,1,3,6w
+Kengeri Bus Station ⇔ BEML Layout 5th stage,KGRTTMC-BEML5,1,3,122
+Kengeri Bus Station ⇔ Badrapura,KTTMC-BDP,1,3,1wd
+Kengeri Bus Station ⇔ Banashankari Bus Station,224-E,1,3,1an
+Kengeri Bus Station ⇔ Banashankari Bus Station,MF-375D,1,3,1os
+Kengeri Bus Station ⇔ Bidadi,MF-41,1,3,ul
+Kengeri Bus Station ⇔ Chikka Banavara,502-HB,1,3,1ci
+Kengeri Bus Station ⇔ Depot-45 Gate,401-MC KGR-D45G,1,3,10l
+Kengeri Bus Station ⇔ Dwaraka Nagara,MF-502H,1,3,1z7
+Kengeri Bus Station ⇔ Electronic City,378-D,1,3,f6
+Kengeri Bus Station ⇔ Electronic City,V-378,1,3,nx
+Kengeri Bus Station ⇔ Ganigarahalli,502-HA,1,3,1oc
+Kengeri Bus Station ⇔ HAL ARDC,335-N KGR-KMT-ARDCHAL,1,3,1tr
+Kengeri Bus Station ⇔ Hebbala Bridge,401-KC,1,3,g
+Kengeri Bus Station ⇔ Hebbala Bridge,401-MC,1,3,16n
+Kengeri Bus Station ⇔ Hesaraghatta,502-K,1,3,8f
+Kengeri Bus Station ⇔ Jalahalli Cross,MF-502F,1,3,wd
+Kengeri Bus Station ⇔ Jalahalli Cross,MF-515,1,3,19t
+Kengeri Bus Station ⇔ Jayanagara Bus Station,MF-375H,1,3,272
+Kengeri Bus Station ⇔ Jigani APC Circle,378-A,1,3,or
+Kengeri Bus Station ⇔ Kempegowda Bus Station,222-A KMT FLY,1,3,ij
+Kengeri Bus Station ⇔ Nelamangala Bus Station,374-M,1,3,16t
+Kengeri Bus Station ⇔ Nelamangala Bus Station,374-MA,1,3,1sg
+Kengeri Bus Station ⇔ RMV 2nd Stage,401-MA,1,3,25a
+Kengeri Bus Station ⇔ Tavarekere,MF-42,1,3,1uq
+Kengeri Bus Station ⇔ Thalaghattapura Metro Station,MF-34,1,3,1zi
+Kengeri Bus Station ⇔ Veeregowdanadoddy,227-M,1,3,hz
+Kengeri Bus Station ⇔ Yelahanka Old Town,401-K,1,3,xa
+Kengeri Bus Station ⇔ Yelahanka Old Town,401-MK,1,3,1o6
+Kengeri Bus Station ⇔ Yeshawanthapura Bus Station,MF-401M,1,3,g8
+Kengeri Satellite Town ⇔ Kempegowda Bus Station,222-A KST-KMT FLY-KBS,1,3,qe
+Kengeri Work shop ⇔ Banashankari Bus Station,375-D KWS-BSK,1,3,1wy
+Kodandaramanagara ⇔ KR Market (Kalasipalya),341-C,1,3,27m
+Kodandaramanagara ⇔ Kempegowda Bus Station,341-C KBS-KDRM,1,3,1v4
+Kodathi Village ⇔ KR Market (Kalasipalya),342-Q,1,3,jc
+Kodigehalli ⇔ Vidhana Soudha,288 KDH-KBS-VSD,1,3,217
+Koluvarayanahalli ⇔ Patalamma Temple,285 PTML-DBRC-KLRH,1,3,14y
+Koramangala Bus Station ⇔ Attibele Bus Stand,360 KRMTTMC-ATB,1,3,1gn
+Koramangala Bus Station ⇔ Attibele Bus Stand,360-K KRM-STJN-ATB,1,3,1nz
+Koramangala Bus Station ⇔ Attibele Bus Stand,600-F ATB-KRM,1,3,1ec
+Koramangala Bus Station ⇔ Attibele Bus Stand,KBS-3A KRM-ATB,1,3,1a9
+Koramangala Bus Station ⇔ BEML Factory,KRMTTMC-MRHB-BEMLF,1,3,24u
+Koramangala Bus Station ⇔ BEML Gate,KRM-BEMLG,1,3,18c
+Koramangala Bus Station ⇔ Beguru,KRMTTMC-BGR,1,3,1ql
+Koramangala Bus Station ⇔ Bettadasanapura,344-C KRMTTMC-BDP,1,3,1w9
+Koramangala Bus Station ⇔ Garuda Mall,KRMTTMC-GDML,1,3,zv
+Koramangala Bus Station ⇔ Haraluru,341-A KRM-HRLR,1,3,vr
+Koramangala Bus Station ⇔ KR Market (Kalasipalya),342-A KMT-KRMTTMC,1,3,6t
+Koramangala Bus Station ⇔ KR Market (Kalasipalya),KMT-LMG-KRMTTMC,1,3,18f
+Koramangala Bus Station ⇔ Kadugodi Bus Station,500-KK,1,3,1vp
+Koramangala Bus Station ⇔ Kempegowda Bus Station,144 KRMTTMC-KPWD-VNR-VSD-KBS,1,3,mf
+Koramangala Bus Station ⇔ Sarjapura,342-F KRMTTMC-SJP,1,3,39
+Koramangala Bus Station ⇔ Shrinivagilu Bus Stand,KRMTTMC-SNVL,1,3,d2
+Kottigepalya ⇔ KR Pura Govt Hospital,502-L,1,3,1x6
+Kranthiveera Sangolli Rayanna Railway Station ⇔ KR Pura Govt Hospital,300-C KSRRS-KRPGH,1,3,wa
+Kuguru ⇔ Anekal,3F-5 ANK-KGR,1,3,1r1
+Kumbalagodu ⇔ Hebbala Bridge,501-CH,1,3,nw
+Kumbalagodu ⇔ KR Pura Railway Station,501-CH KMG-KRPRS,1,3,13y
+Kuvempunagara ( BTM Layout) ⇔ Kempegowda International Airport,KIA-8A,1,3,1op
+Laggere New Bus Stand ⇔ Chikka Banavara,248-AA,1,3,ea
+Laggere New Bus Stand ⇔ Nagasandra Metro Staiton,MF-24 LGR-NGMS,1,3,219
+Laggere New Bus Stand ⇔ Peenya 2nd Stage,252 LGR-PSS,1,3,1ik
+Life Style (Sacred Heart School) ⇔ Ambedkar Medical College Shampura,SHGS-DAMC,1,3,1ly
+MG Road Metro Station ⇔ 5th Phase Yelahanka New Town,G-9,1,3,1g4
+MG Road Metro Station ⇔ Bagalur,G-11,1,3,25k
+MG Road Metro Station ⇔ Bannerughatta National Park,G-4 MGMS-BNP,1,3,6x
+MG Road Metro Station ⇔ Mylanahalli,G-11A,1,3,ba
+MG Road Metro Station ⇔ Nelamangala Bus Station,G-8,1,3,242
+MG Road Metro Station ⇔ Pottery Town,MGMS-PTW,1,3,k
+MS Palya ⇔ Jalahalli Metro Station Arrival,MF-23E,1,3,171
+MS Palya ⇔ Laggere New Bus Stand,MF-23E MSP-LGR,1,3,1q6
+Madavara NICE Road ⇔ Electronic City,NICE-10,1,3,9f
+Madavara NICE Road ⇔ Kempegowda International Airport,KIA-18,1,3,1yn
+Magadi Road Tollgate ⇔ Jalahalli Cross,MF-248G,1,3,11r
+Magadi Road Tollgate ⇔ Nelamangala Bus Station,248-G MRTG-JHC-NMG,1,3,1tb
+Mahalakshmi Layout ⇔ Kendriya Sadana Koramangala,MLO-VSD-KKS,1,3,oi
+Mahalakshmi Layout ⇔ Koramangala 1st Block,174,1,3,1d3
+Mahalakshmi Layout ⇔ NR Colony,77-B,1,3,wp
+Malleshwara Bus Stand ⇔ Bapuji Layout Saraswathi Nagara,75-F,1,3,126
+Malleshwara Bus Stand ⇔ GKW Layout,75-E,1,3,246
+Malleshwara Bus Stand ⇔ Kengeri Bus Station,MF-401KM,1,3,1qy
+Mandur ⇔ Attibele Bus Stand,328-HE,1,3,sm
+Mandur ⇔ Channasandra,MNDR-CND,1,3,15u
+Mandur ⇔ Chikka Thirupathi,304-V MDR-CKT,1,3,1k6
+Mandur ⇔ Chowdeshwarinagara JP Park,500-Q MDR-CJP,1,3,160
+Mandur ⇔ Kadugodi Bapuji Circle,326-C MDR-KDGB,1,3,1n6
+Mandur ⇔ Pura,306-M MDR-PURA,1,3,11d
+Marappa Garden ⇔ Depot-10 Gate,293 D10G-MRG,1,3,20w
+Marathahalli Bridge ⇔ Kengeri Bus Station,502-A,1,3,1wu
+Marathahalli Bridge ⇔ RT Nagara Police Station,500-D MRHB-RTNP,1,3,22a
+Marathahalli ⇔ Kadugodi Bus Station,MF-3,1,3,14n
+Marathahalli ⇔ Kadugodi Bus Station,MF-4,1,3,ws
+Marenahalli (Marenahalli Metro Station) ⇔ Yeshawanthapura Bus Station,410-FB,1,3,10u
+Mayasandra ⇔ Shivajinagara Bus Station,227-A SBS-MYS,1,3,o6
+Mayohall ⇔ Nandini Layout Bus Stand,79-E MYH-SBS-NLO,1,3,18h
+Mayohall ⇔ Sarjapura,G-2,1,3,25w
+Mayohall ⇔ Shanthinagara Bus Station,MYH-SNBS,1,3,1j8
+Meesaganahalli ⇔ Kempegowda Bus Station,282-A MSGNH-KBS,1,3,z2
+Muddayanapalya ⇔ ITPL,MDP-ITPB,1,3,ga
+Munikondappa Layout Widia Factory ⇔ Peenya 2nd stage,250-CC MKL-PSS,1,3,14d
+Munnekolalu Cross (Spice Garden) ⇔ Depot-06 Gate,MKL-D6G,1,3,1b5
+Munnekolalu Cross (Spice Garden) ⇔ Yelahanka Old Town,MBS-2 MKLC-YHKOT,1,3,1zo
+Muthurayanagudipalya ⇔ Kempegowda Bus Station,231-C MRGP-KMT-KBS,1,3,25s
+Muttanalluru ⇔ Kadugodi Bus Station,399 MVSM-KDG,1,3,oe
+Mylanahalli ⇔ Kempegowda Bus Station,281-H MYLH-KBS,1,3,1gz
+Mylanahalli ⇔ Shivajinagara Bus Station,291-L,1,3,qi
+Mysore Road Bus Station ⇔ Banashankari Bus Station,410-FA MRBS-BSK,1,3,158
+Mysore Road Bus Station ⇔ Chikka Banavara,248-N,1,3,13a
+Mysore Road Bus Station ⇔ Hebbala,K-2,1,3,7q
+Mysore Road Bus Station ⇔ Hesaraghatta,248-BA,1,3,1xd
+Mysore Road Bus Station ⇔ Kempegowda International Airport,KIA-10,1,3,pd
+Mysore Road Bus Station ⇔ Malleshwara Bus Stand,75-H,1,3,295
+Mysore Road Bus Station ⇔ Yelahanka Old Town,401-BB,1,3,1je
+Mysore Road Metro Station ⇔ Yeshawanthapura Bus Station,MF-410FG,1,3,1br
+NES Office ⇔ Doddaballapura Bus Stand,285-MC,1,3,o9
+NES Office ⇔ NES Office,CHAKRA-17,1,3,1w1
+NES Office ⇔ NES Office,CHAKRA-17A,1,3,20j
+NITTE Meenakshi College ⇔ Yeshawanthapura Bus Station,401-K NMIT-NES-MSP-YTTMC,1,3,rt
+NR Colony ⇔ Kempegowda Bus Station,31 NRC-VSD-KBS,1,3,yv
+NR Colony ⇔ Shivajinagara Bus Station,31 NRC-KMT-SBS,1,3,143
+Naduvatti Colony ⇔ Goraguntepalya,305-F NDVC-GGP,1,3,1w3
+Nagaresh Nagenahalli ⇔ Kalyananagara Bus Stand,291-B NNG-KLN,1,3,209
+Nagasandra Metro Staiton ⇔ Chikka Banavara,248-AB NGSMS-CKB,1,3,yu
+Nallur ⇔ Kempegowda Bus Station,298-PD NLR-KBS,1,3,1v1
+Nallurahalli ⇔ Depot-41 Gate,333-G NLH-D41G,1,3,sw
+Nandini Layout Bus Stand ⇔ Indian Express,80-A NLO-KDC-VSD-IXP,1,3,221
+Nandini Layout Bus Stand ⇔ JP Nagara 3rd Phase,80-A NLO-JP3,1,3,1ms
+Nanjapura ⇔ Jigani APC Circle,NJP-JAPC,1,3,vq
+Narasipura ⇔ Kengeri Bus Station,255-N,1,3,1a0
+Nayandahalli Junction ⇔ Hebbala Bridge,501-NH,1,3,237
+Neelasandra Rose Garden ⇔ Kaval Byrasandra,144-K,1,3,27z
+Neelasandra Rose Garden ⇔ Sultan palya,144-G,1,3,28f
+Nelamangala Bus Station ⇔ BEL Factory,258-CB NMG-YTTMC-BEL,1,3,9r
+Nelamangala Bus Station ⇔ BEL Layout Dasanapura,255-B NLM-BELT,1,3,1f0
+Nelamangala Bus Station ⇔ BEL Layout Dasanapura,258-CB NMG-BEL LT,1,3,1xh
+Nelamangala Bus Station ⇔ Banashankari Bus Station,410-FD,1,3,167
+Nelamangala Bus Station ⇔ Central Silk Board,500-DG,1,3,149
+Nelamangala Bus Station ⇔ Dabaspete,258-MD,1,3,1qu
+Nelamangala Bus Station ⇔ Electronic City,NICE-8C NMG-ELC,1,3,1lq
+Nelamangala Bus Station ⇔ Electronic City Wipro Main Gate,NICE-8,1,3,27n
+Nelamangala Bus Station ⇔ KR Pura Govt Hospital,500-DG NMG-KRPGH,1,3,1e8
+Nelamangala Bus Station ⇔ Nelamangala Bus Station,248-HA NMG-NMG,1,3,1nt
+Nelamangala Bus Station ⇔ Tavarekere,374-N,1,3,jn
+Nelamangala Bus Station ⇔ Thittahalli,377-B,1,3,od
+Nelamangala Bus Station ⇔ Yelahanka Old Town,401-A NMG-YHKOT,1,3,zb
+Nelamangala Bus Station ⇔ Yelahanka Old Town,409,1,3,1h6
+Oasis School ⇔ Kempegowda Bus Station,293-H OASIS-KBS,1,3,ce
+Oxford Medical College Yadavanahalli ⇔ Anekal,399-F OMS-ANK,1,3,1sz
+PAPAS Trading PVT LTD ⇔ Electronic City,378 PTPL-GTG-ELC,1,3,1bi
+Padmanabha Nagara Rock ⇔ Jeevanbheema Nagara,201-J,1,3,1ad
+Panchasheela Nagara ⇔ Kempegowda Bus Station,237-J PSN-KBS,1,3,oh
+Patalamma Temple ⇔ Byrapura,285-F PTML-BRPR,1,3,145
+Patalamma Temple ⇔ Cauvery Bhavana,285-MA PTML-CVB,1,3,1di
+Patalamma Temple ⇔ Challahalli,285-R PTML-CLH,1,3,3q
+Patalamma Temple ⇔ Devanahalli Old Bus Stand,285-M PTML-DVH,1,3,60
+Patalamma Temple ⇔ Doddaballapura Bus Stand,285-M PTLM-DBP,1,3,25l
+Patalamma Temple ⇔ Doddaballapura Bus Stand,285-MC PTML-DBP,1,3,28y
+Patalamma Temple ⇔ Dyavarahalli,285-JE PTML-DYVH,1,3,6c
+Patalamma Temple ⇔ Harohalli Palya,285-YA PTML-HHPL,1,3,pf
+Patalamma Temple ⇔ Hesaraghatta,253-L PTML-HGV,1,3,xk
+Patalamma Temple ⇔ Jalige,285-J PTML-JLG,1,3,ql
+Patalamma Temple ⇔ Judicial Layout YHK,284-C PTML-JDLO,1,3,1mc
+Patalamma Temple ⇔ Kakkehalli,285-CB PTML-KKH,1,3,1fc
+Patalamma Temple ⇔ Kodagalahatti,282-G PTML-KDLH,1,3,24r
+Patalamma Temple ⇔ Mallasandra Health Center,401-AL PTML-JHC-MHC,1,3,gx
+Patalamma Temple ⇔ Mallasandra Health Center,401-AL PTML-MHC,1,3,fb
+Patalamma Temple ⇔ Sonnenahalli,285-V PTML-SNH,1,3,22e
+Patalamma Temple ⇔ Yelahanka Old Town,PTML-YHKOT,1,3,1b2
+Peenya 2nd Stage ⇔ Abbigere,270-D PSS-ABG,1,3,ly
+Peenya 2nd Stage ⇔ Abbigere,273-B PSS-ABG,1,3,134
+Peenya 2nd Stage ⇔ Abbigere,401-AK PSS-ABG,1,3,kf
+Peenya 2nd Stage ⇔ Bagalur,401-AB PSS-BGLR,1,3,24g
+Peenya 2nd Stage ⇔ Bagalur,401-AK PSS-CKB-BGR,1,3,5j
+Peenya 2nd Stage ⇔ Chikka Banavara,248-AB,1,3,en
+Peenya 2nd Stage ⇔ Chowdeshwarinagara JP Park,273 PSS-CJP,1,3,bl
+Peenya 2nd Stage ⇔ Depot-31 Gate,MF-401M PSS-D31G,1,3,17y
+Peenya 2nd Stage ⇔ Electronic City,356-JE PSS -ELCW,1,3,1lo
+Peenya 2nd Stage ⇔ Geleyara Balaga Layout,250-S PSS-GLB,1,3,79
+Peenya 2nd Stage ⇔ HAL LCA,252 PSS-KBS-HALLCA,1,3,1er
+Peenya 2nd Stage ⇔ Hesaraghatta,253-J PSS-HGV,1,3,ne
+Peenya 2nd Stage ⇔ ISRO Murugeshpalya,252-A PSS-ISROM,1,3,28h
+Peenya 2nd Stage ⇔ KR Market,252 PSS-KMT,1,3,5f
+Peenya 2nd Stage ⇔ Kadugodi Bus Station,507-B,1,3,1bh
+Peenya 2nd Stage ⇔ Kempapura,254-E PSS-KMP,1,3,15i
+Peenya 2nd Stage ⇔ Kongovi PVT LTD Peenya,252 PSS-KGVP,1,3,1sf
+Peenya 2nd Stage ⇔ Kongovi PVT LTD Peenya,PSS-KGVP,1,3,1u0
+Peenya 2nd Stage ⇔ Laggere New Bus Stand,251-C PSS-RPS-LGR,1,3,1oi
+Peenya 2nd Stage ⇔ Laggere New Bus Stand,PSS-LGR,1,3,v4
+Peenya 2nd Stage ⇔ Makali,MF-27 PSS-MKL,1,3,1ue
+Peenya 2nd Stage ⇔ Mallohallipalya,253-K PSS-MLHP,1,3,21d
+Peenya 2nd Stage ⇔ Nelamangala Bus Station,256-F,1,3,1x7
+Peenya 2nd Stage ⇔ Sasuveghatta,250-SB PSS-SVG,1,3,15z
+Peenya 2nd Stage ⇔ Sharadamba Nagara,507-P PSS-JHC-SDN,1,3,1i
+Peenya 2nd Stage ⇔ Somashettyhalli,250-F PSS-SSHL,1,3,1xp
+Peenya 2nd Stage ⇔ Thammarasanahalli Madhugirihalli,255-W PSS-TMAH,1,3,1p4
+Peenya 2nd Stage ⇔ Thammenahalli,250-E PSS-TMH,1,3,1
+Peenya 2nd Stage ⇔ Therelek Engineers PVT LTD Peenya,265-A PSS-TEPL,1,3,1vr
+Peenya 2nd Stage ⇔ Thippenahalli Anjaneya Temple,256-C PSS-TAT,1,3,1ds
+Peenya 2nd Stage ⇔ Thore Nagasandra,253-D PSS-TRN,1,3,1o
+Peenya 2nd stage ⇔ 8th Mile Dasarahalli,BC-7B PSS-NLGH-8thM,1,3,9b
+Peenya 2nd stage ⇔ Annapoorneshwarinagara,MBS-12 PSS-ANP,1,3,rd
+Peenya 2nd stage ⇔ Marathahalli Bridge,MBS-12 PSS-KBS-MRHB,1,3,1dg
+Peenya 2nd stage ⇔ Syndicate Bank Layout,PSS-SYBL,1,3,1p2
+Peenya 2nd stage ⇔ Vigneshwara Nagara,265-D PSS-VGN,1,3,9a
+Peenya Metro Station ⇔ Vidyaranyapura Bus Station,MF-28 PMS-VRP,1,3,186
+Peenya Satellite Bus Station ⇔ Banashankari Bus Station,MF-410K BSK-PSBS,1,3,p4
+Peenya Satellite Bus Station ⇔ KR Pura Govt Hospital,502-C PSB-GGP-KRP,1,3,13d
+Peenya Satellite Bus Station ⇔ Nelamangala Bus Station,258-C PSB-NMG,1,3,3r
+Peenya Satellite Bus Station ⇔ TC Palya,500-QG PSB-TCP,1,3,19r
+Peenya Satellite Bus Station ⇔ Yelahanka Old Town,401-PS,1,3,qt
+Pipeline Binni Layout ⇔ Mysore Road Metro Station,RPCLO-MRBS,1,3,eb
+Poornaprajna Layout ⇔ Channammanakere Achukattu,45-E PPLO-CKA,1,3,t6
+Poornaprajna Layout ⇔ Chikkallasandra,210-P PPLO-CKLS,1,3,1va
+Poornaprajna Layout ⇔ Gaviyappa Thimayya Layout,45-D PPLO-GTLO,1,3,b0
+Poornaprajna Layout ⇔ H Krishnappa Layout,43-J PPLO-HKLO,1,3,ku
+Poornaprajna Layout ⇔ Hebbala Bridge,500-A PPLO-HBLB,1,3,16x
+Poornaprajna Layout ⇔ Hoskerehalli,PPLO-HKH,1,3,3e
+Poornaprajna Layout ⇔ KR Market (Kalasipalya),210 PPLO-KMT,1,3,a0
+Poornaprajna Layout ⇔ Kempegowda Bus Station,210-NP PPLO-KML-KBS,1,3,d6
+Poornaprajna Layout ⇔ Kempegowda Institute Nursing Hostel,PPLO-KINHT,1,3,15w
+Poornaprajna Layout ⇔ Shivajinagara Bus Station,13 PPLO-SBS,1,3,1zn
+Poornaprajnalayout NEW Bus Stand ⇔ KR Market,210-NP PPLO-KMT,1,3,1s9
+Pottery Town ⇔ KR Pura Govt Hospital,300-E PTW-KRPGH,1,3,28a
+Puttenahalli ⇔ 5th Phase Yelahanka New Town,PTH-YSTF,1,3,8q
+Puttenahalli ⇔ Bande Kodigehallipalya Cross,289-A PTH-BKHP,1,3,27h
+Puttenahalli ⇔ Byalahalli,289-AB PTH-BYH,1,3,192
+Puttenahalli ⇔ Central Silk Board,500-D PTH-CSB,1,3,111
+Puttenahalli ⇔ Devanahalli Old Bus Stand,298-M PTH-DVH,1,3,100
+Puttenahalli ⇔ Dr.Shivaramakaranth Nagara,285 PTH-DSKN,1,3,1p6
+Puttenahalli ⇔ Girinagara 2nd Stage,284-H PTH-GNR2,1,3,3u
+Puttenahalli ⇔ Hegganahalli,297-H PTH-HGNH,1,3,35
+Puttenahalli ⇔ Hosahalli Kodagalahatti,282-A PTH-HSHK,1,3,1jw
+Puttenahalli ⇔ Hosakote Bus Stand (Old),280-F PTH-HSK,1,3,1c7
+Puttenahalli ⇔ Hunasuru,401-J PTH-HNS,1,3,1v5
+Puttenahalli ⇔ Judicial Layout Water Tank,PTH-JLOW,1,3,c7
+Puttenahalli ⇔ KR Market,290-E PTH-KMT,1,3,1cd
+Puttenahalli ⇔ KR Market,G-10 PTH-KMT,1,3,1ei
+Puttenahalli ⇔ Kadayarappanahalli,289-B PTH-KYH,1,3,1xw
+Puttenahalli ⇔ Kempegowda Bus Station,276 PTH-VRP-KBS,1,3,15
+Puttenahalli ⇔ Kempegowda International Airport,281-AP PTH-KIAS,1,3,1rs
+Puttenahalli ⇔ Kendriya Vihara Yalahanka,PTH-KVRY,1,3,li
+Puttenahalli ⇔ Kodigehalli Canara Bank Colony,285 PTH-KDGH-KDHCB,1,3,27k
+Puttenahalli ⇔ Kuduregere Colony,283-D PTH-KDRGC,1,3,1n8
+Puttenahalli ⇔ MG Road Metro Station,G-9 PTH-MGRMS,1,3,2s
+Puttenahalli ⇔ MVJ Medical Hospital,289-L PTH-MVJ,1,3,16b
+Puttenahalli ⇔ Maranayakanahalli,282-F PTH-MRNH,1,3,iz
+Puttenahalli ⇔ Meesagaanahalli,282-B PTH-MGH,1,3,12x
+Puttenahalli ⇔ Mylanahalli,291-L PTN-MYLH,1,3,1pp
+Puttenahalli ⇔ Peenya 2nd Stage,401-AM PTH-PSS,1,3,1ee
+Puttenahalli ⇔ Sri Ramapura,286-D PTH-SRP,1,3,26q
+Puttenahalli ⇔ Sri Venkateshwara Nagara,286-E PTH-SVKTN,1,3,1qa
+Puttenahalli ⇔ Suggatta,283 PTH-SGT,1,3,1h7
+Puttenahalli ⇔ Thindlu,PTH-VRP-TDL,1,3,1ax
+Puttenahalli ⇔ Vasantavihar Colony Billamaranahalli,282-D PTH-VVC,1,3,kt
+Puttenahalli ⇔ Vishwanathapura,297-K PTH-VNP,1,3,4k
+Puttenahalli ⇔ Yarappanahalli,280-L YPH-PTH,1,3,69
+Puttenahalli ⇔ Yelahanka Old Town,PTH-YHKOT,1,3,1r8
+R T Nagara Police Station ⇔ Hebbala,279-E RTNPS-HBL,1,3,1xz
+RK Hegde Nagara ⇔ Kalyananagara Bus Stand,290-E KLN-RKH,1,3,tl
+RK Hegde Nagara ⇔ Kempegowda Bus Station,291-H,1,3,1nv
+RR Medical College ⇔ Kadugodi Bus Station,335-N RRC-KBS-KDG,1,3,9v
+RWB Gate Kengeri (Kengeri Work shop) ⇔ Kempegowda Bus Station,222-A KWS-KBS,1,3,cn
+Rajarajeshwari nagara Metro Station ⇔ Srinivasapura Cross,MF-14,1,3,1e7
+Ramagondanahalli ⇔ KR Market,285-B,1,3,lf
+Ramagondanahalli ⇔ Kempegowda Bus Station,285-B RMGH-KBS,1,3,jy
+Rameshnagara ⇔ Kempegowda Bus Station,314-T RMN-VSD-KBS,1,3,1zc
+Ramohalli ⇔ Shivajinagara Bus Station,227 RMH-SBS,1,3,238
+Ravi Badavane Jai Maruthi Nagara ⇔ Shivajinagara Bus Station,80-D SBS-RBJM,1,3,175
+Ravuthanahalli ⇔ Depot-35 Gate,245 RVTH-D35G,1,3,o7
+Sanjay Gandhi Hospital ⇔ Anjanapura 10th Block,215 SGH-ANJ10,1,3,13j
+Sanjay Gandhi Hospital ⇔ Banashankari Bus Station,13 SGH-BSK,1,3,10s
+Sanjay Gandhi Hospital ⇔ Dr BR Ambedkar Bus Terminal (Domlur),201 SGH-DBS,1,3,1n
+Sanjay Gandhi Hospital ⇔ Harohalli,213-V SGH-HRH,1,3,1ay
+Sanjay Gandhi Hospital ⇔ ISRO Layout,13-C SGH-ISROL,1,3,1i9
+Sanjay Gandhi Hospital ⇔ JP Nagara 6th Phase,SGH-JPN6,1,3,29m
+Sanjay Gandhi Hospital ⇔ Kengeri Bus Station,375-H SGH-KGR,1,3,1wq
+Sanjay Gandhi Hospital ⇔ Padmanabha Nagara Rock,13-B SGH-PNNR,1,3,1cp
+Sanjay Gandhi Hospital ⇔ Sir M Vishweshwaraiah Railway Station,MF-5 SGH-SMVRS,1,3,15e
+Sanjay Gandhi Hospital ⇔ Srinagara Bus Station,201 SGH-SRN,1,3,113
+Sanjay Gandhi Hospital ⇔ Srinagara Bus Station,SGH-SNR,1,3,1zf
+Sarjapura ⇔ Depot-38 Gate,342-A D38G-SJP,1,3,q0
+Sarjapura ⇔ Hosakote Bus Stand (Old),12F-5,1,3,yx
+Sarjapura ⇔ Koramangala Bus Station,342-A KRMTTMC-SJP,1,3,288
+Sarjapura ⇔ PES College Hostel Kasavanahalli,342-A SJP-PESCK,1,3,1un
+Sarjapura ⇔ Shivajinagara Bus Station,G-2 SBS-SJP,1,3,1hg
+Sarjapura ⇔ Tin Factory,500-CH,1,3,4
+Senior Officers Quaters ⇔ Kadugodi Bus Station,KBS-13K SOQ-KDG,1,3,25z
+Shahi Exports PVT Ltd Unit-7 ⇔ Attibele Bus Stand,500-DH SEPB-CSB-ATB,1,3,23k
+Shahi Exports PVT Ltd Unit-7 ⇔ Kadugodi Bus Station,500-FB SEPB-KDG,1,3,19u
+Shanthinagara Bus Station ⇔ BDA Complex Nagarabhavi,235-A SNBS-NBDA,1,3,bo
+Shanthinagara Bus Station ⇔ Bagalur,G-11 SNBS-BGL,1,3,2e
+Shanthinagara Bus Station ⇔ Bagalur,G-11 SNBS-BLR,1,3,28w
+Shanthinagara Bus Station ⇔ Basavanagara Kengeri,G-6A SNBS-NBC-BSNK,1,3,uq
+Shanthinagara Bus Station ⇔ Brigade Road,13 SNBS-BGRD,1,3,27r
+Shanthinagara Bus Station ⇔ Cauvery Nagara,89-E SNBS-CVN,1,3,11
+Shanthinagara Bus Station ⇔ Cauvery Nagara,CALLBUS-6,1,3,5u
+Shanthinagara Bus Station ⇔ Channasandra,305-C SNBS-CNS,1,3,ih
+Shanthinagara Bus Station ⇔ Chikka Banavara,CALL BUS-8,1,3,1mm
+Shanthinagara Bus Station ⇔ Depot-02 Shanthinagara,D2-SNBS,1,3,18k
+Shanthinagara Bus Station ⇔ Depot-03 Shanthinagara,D3-SNBS,1,3,hy
+Shanthinagara Bus Station ⇔ Doddaballapura Bus Stand,285-MA SNBS-DBP,1,3,1rm
+Shanthinagara Bus Station ⇔ Hebbala Bridge,286-K SNBS-SBS-HBLB,1,3,qq
+Shanthinagara Bus Station ⇔ Hesaraghatta,271-F-SNBS-HGV,1,3,28q
+Shanthinagara Bus Station ⇔ Janapriya Greenwood Apartment,271-T SNBS-JGA,1,3,22y
+Shanthinagara Bus Station ⇔ KR Market,SBNS-KMT,1,3,x
+Shanthinagara Bus Station ⇔ KR Market,SNBS-CORP-KMT,1,3,5e
+Shanthinagara Bus Station ⇔ KR Market (Kalasipalya),SNBS-LBGM-KMT,1,3,wi
+Shanthinagara Bus Station ⇔ KR Pura Govt Hospital,315 SNBS-KRPGH,1,3,13k
+Shanthinagara Bus Station ⇔ Kaggalipura,KBS-5H SNBSTTMC-KGP,1,3,1ia
+Shanthinagara Bus Station ⇔ Nelamangala Bus Station,258 SNBS-NMG,1,3,3h
+Shanthinagara Bus Station ⇔ Shirke KHB Quarters,375-B,1,3,uu
+Shanthinagara Bus Station ⇔ Shirke KHB Quarters,G-6,1,3,n2
+Shanthinagara Bus Station ⇔ Tavarekere,242-B SNBS-TVK,1,3,1e
+Shanthinagara Bus Station ⇔ Thippuru,375-J,1,3,18b
+Shirke KHB Quarters ⇔ Shanthinagara Bus Station,G-6 FLYOVER,1,3,19
+Shivajinagara Bus Station ⇔ 1st Stage 3rd Block Nagarabhavi,238-D,1,3,264
+Shivajinagara Bus Station ⇔ 5th Block HBR Layout,296-D,1,3,kn
+Shivajinagara Bus Station ⇔ 5th Phase Yelahanka New Town,290-EA,1,3,1nw
+Shivajinagara Bus Station ⇔ 5th Phase Yelahanka New Town,290-EH,1,3,8n
+Shivajinagara Bus Station ⇔ AGS Layout Arehalli,13-H,1,3,1d9
+Shivajinagara Bus Station ⇔ Abbigere,270-D,1,3,13n
+Shivajinagara Bus Station ⇔ Agrahara Layout,290-T SBS-AGLO,1,3,kg
+Shivajinagara Bus Station ⇔ Ambedkar Institute of Technology,195 SBS-AIT,1,3,21r
+Shivajinagara Bus Station ⇔ Ambedkar Institute of Technology,238-UA SBS-AIT,1,3,kr
+Shivajinagara Bus Station ⇔ Anekal,G-4 SBS-ANK,1,3,211
+Shivajinagara Bus Station ⇔ Anjanapura,215-U SBS-ANP,1,3,rg
+Shivajinagara Bus Station ⇔ Atturu,404-C,1,3,12i
+Shivajinagara Bus Station ⇔ Atturu Layout,290-G SBS-ATR,1,3,w2
+Shivajinagara Bus Station ⇔ Ayyappa Nagara Muneshwara Temple Sadaramangala,311-E,1,3,c0
+Shivajinagara Bus Station ⇔ BEML Layout 5th stage,225-B SBS-BEML5,1,3,3z
+Shivajinagara Bus Station ⇔ BHEL Layout Maramma Temple,239-B,1,3,14o
+Shivajinagara Bus Station ⇔ BMSIT College Campous Yelahanka,284-B SBS-RTNP-BMSITY,1,3,6n
+Shivajinagara Bus Station ⇔ Babusabpalya 302,302-GA,1,3,8l
+Shivajinagara Bus Station ⇔ Balagere,330-P,1,3,et
+Shivajinagara Bus Station ⇔ Balaji Layout 100ft Road,217-E,1,3,10t
+Shivajinagara Bus Station ⇔ Banashankari Bus Station,13,1,3,8a
+Shivajinagara Bus Station ⇔ Bande Maramma Bus Station,237-C,1,3,1ez
+Shivajinagara Bus Station ⇔ Bande Maramma Bus Station,238-UA,1,3,dz
+Shivajinagara Bus Station ⇔ Bandi Reddy Circle,79-B,1,3,1ac
+Shivajinagara Bus Station ⇔ Bannerughatta National Park,368,1,3,1b
+Shivajinagara Bus Station ⇔ Bannerughatta National Park,G-4 SBS-BNP,1,3,is
+Shivajinagara Bus Station ⇔ Basavanagara,330-C,1,3,ym
+Shivajinagara Bus Station ⇔ Basaveshwaranagara New Bus Stand,88-B SBS-KBS-BSN,1,3,1ks
+Shivajinagara Bus Station ⇔ Beguru,293-BS,1,3,b2
+Shivajinagara Bus Station ⇔ Beguru,362-C,1,3,1de
+Shivajinagara Bus Station ⇔ Bidadi,226-G,1,3,19q
+Shivajinagara Bus Station ⇔ Brundavana Nagara,50,1,3,1hh
+Shivajinagara Bus Station ⇔ Budigere,316 SBS-BDG,1,3,18t
+Shivajinagara Bus Station ⇔ Budigere,316-S,1,3,152
+Shivajinagara Bus Station ⇔ Byatarayanapura,290-G,1,3,by
+Shivajinagara Bus Station ⇔ Byatarayanapura,290-G SBS-RSL-BTP,1,3,rq
+Shivajinagara Bus Station ⇔ Byatarayanapura,290-S,1,3,1z4
+Shivajinagara Bus Station ⇔ Byrasandra New Bus Stand,22-A,1,3,216
+Shivajinagara Bus Station ⇔ Cauvery Nagara,79-K SBS-CVN,1,3,19i
+Shivajinagara Bus Station ⇔ Centre For Nano And Soft Matter Sciences,258-N SBS-CNS SVN,1,3,23q
+Shivajinagara Bus Station ⇔ Chandra Layout,195,1,3,1dy
+Shivajinagara Bus Station ⇔ Channammanakere Achukattu,13-F,1,3,24m
+Shivajinagara Bus Station ⇔ Chikkajala,293-R,1,3,1ex
+Shivajinagara Bus Station ⇔ Chikkallasandra,210-Q,1,3,1ht
+Shivajinagara Bus Station ⇔ Chowdeshwari Temple B Channasandra,300-D,1,3,bm
+Shivajinagara Bus Station ⇔ Chowdeshwari Temple B Channasandra,300-DA,1,3,1zk
+Shivajinagara Bus Station ⇔ Chowdeshwarinagara JP Park,94 SBS-VSD-CJP,1,3,1ha
+Shivajinagara Bus Station ⇔ DRDO 2nd Stage,314-A,1,3,s3
+Shivajinagara Bus Station ⇔ Depot-06 Gate,139 SBS-KFC-D6G,1,3,1ho
+Shivajinagara Bus Station ⇔ Depot-10 Gate,290-E D10G-SBS,1,3,8k
+Shivajinagara Bus Station ⇔ Depot-10 Gate,302 SBS-D10G,1,3,1y4
+Shivajinagara Bus Station ⇔ Depot-34 Gate,368 SBS-D34G,1,3,1g2
+Shivajinagara Bus Station ⇔ Depot-41 Gate,SBS-1K SBS-D41G,1,3,1hy
+Shivajinagara Bus Station ⇔ Depot-45 Gate,272-E SBS-D45,1,3,1jj
+Shivajinagara Bus Station ⇔ Depot-45 Gate,276-E SBS-D45G,1,3,1es
+Shivajinagara Bus Station ⇔ Devanagondi,306-Q,1,3,19c
+Shivajinagara Bus Station ⇔ Devanahalli Old Bus Stand,296-MB,1,3,1pq
+Shivajinagara Bus Station ⇔ Devanahalli Old Bus Stand,298 SBS-DVH,1,3,lr
+Shivajinagara Bus Station ⇔ Devanahalli Old Bus Stand,298-MS,1,3,8x
+Shivajinagara Bus Station ⇔ Dodda Basti,223-A,1,3,1vx
+Shivajinagara Bus Station ⇔ Dodda Bettahalli,276-AB,1,3,109
+Shivajinagara Bus Station ⇔ Dodda Gubbi,295-G,1,3,kd
+Shivajinagara Bus Station ⇔ Dodda Nekkundi,330-G,1,3,mm
+Shivajinagara Bus Station ⇔ Dodda Nekkundi,330-G SBS-MRHB-DDNK,1,3,yz
+Shivajinagara Bus Station ⇔ Doddaballapura Bus Stand,285-M SBS-MKC-DBP,1,3,gs
+Shivajinagara Bus Station ⇔ Electronic City Wipro Main Gate,G-3A,1,3,14b
+Shivajinagara Bus Station ⇔ Electronic City Wipro Main Gate,V-G-3A,1,3,11n
+Shivajinagara Bus Station ⇔ Ganakal,242-JA,1,3,qh
+Shivajinagara Bus Station ⇔ Geleyara Balaga Extension Rajajinagara,79-J,1,3,1r3
+Shivajinagara Bus Station ⇔ Govindapura,SBS-GNP,1,3,27q
+Shivajinagara Bus Station ⇔ HBR 1st Stage BSNL Office,290 SBS-HBR1 BSNL,1,3,1f
+Shivajinagara Bus Station ⇔ HRBR 1st Stage,SBS-HRBR1,1,3,1qn
+Shivajinagara Bus Station ⇔ Hampinagara RPC Layout,87-S,1,3,10w
+Shivajinagara Bus Station ⇔ Haniyuru,285 SBS-HNYR,1,3,29u
+Shivajinagara Bus Station ⇔ Hasanath College Hennur Bande,293 SBS-HSC,1,3,212
+Shivajinagara Bus Station ⇔ Hazarath Tippu Nagara,290-T SBS-HTN,1,3,16f
+Shivajinagara Bus Station ⇔ Hebbala,278-E,1,3,25b
+Shivajinagara Bus Station ⇔ Hebbala,V-287A,1,3,13o
+Shivajinagara Bus Station ⇔ Hesaraghatta,253  SBS-HSG,1,3,24o
+Shivajinagara Bus Station ⇔ Hosahalli Kodagalahatti,290-T SBS-HSH,1,3,80
+Shivajinagara Bus Station ⇔ Hosakote Bus Stand (Old),301-D,1,3,1qr
+Shivajinagara Bus Station ⇔ Hosakote Bus Stand (Old),317-G,1,3,ml
+Shivajinagara Bus Station ⇔ Hoskerehalli,13-J,1,3,eh
+Shivajinagara Bus Station ⇔ Hoskerehalli,34,1,3,17c
+Shivajinagara Bus Station ⇔ Hunasuru,293-Q SBS-HNS,1,3,29f
+Shivajinagara Bus Station ⇔ Huskur,349-K,1,3,17f
+Shivajinagara Bus Station ⇔ Indian Air Force,292-CA,1,3,1h0
+Shivajinagara Bus Station ⇔ Jagajeevanram Nagara,155,1,3,15b
+Shivajinagara Bus Station ⇔ Jai Bhuvaneshwari Nagara,79-F,1,3,u7
+Shivajinagara Bus Station ⇔ Jakkur Layout,286-H,1,3,m0
+Shivajinagara Bus Station ⇔ Jambu Savari Dinne,215-S,1,3,cb
+Shivajinagara Bus Station ⇔ Jeevanahalli,127,1,3,1z6
+Shivajinagara Bus Station ⇔ Jeevanbheema Nagara,139,1,3,213
+Shivajinagara Bus Station ⇔ Jigani APC Circle,344-E SBS-JAPC,1,3,bg
+Shivajinagara Bus Station ⇔ K Narayanapura Main Bus Stand,286-K,1,3,137
+Shivajinagara Bus Station ⇔ K Narayanapura Main Bus Stand,293-N,1,3,1ol
+Shivajinagara Bus Station ⇔ K Narayanapura Main Bus Stand,293-N SBS-KNP,1,3,p5
+Shivajinagara Bus Station ⇔ KR Market,150,1,3,1bb
+Shivajinagara Bus Station ⇔ KR Pura Govt Hospital,300-E,1,3,i
+Shivajinagara Bus Station ⇔ KR Pura Govt Hospital,301-E SBS-TCP-KRPGH,1,3,10y
+Shivajinagara Bus Station ⇔ KR Pura Market,310,1,3,bn
+Shivajinagara Bus Station ⇔ Kada Agrahara,293-B SBS-KAH,1,3,286
+Shivajinagara Bus Station ⇔ Kadugodi Bus Station,331,1,3,10x
+Shivajinagara Bus Station ⇔ Kadugodi Bus Station,SBS-13K,1,3,1h5
+Shivajinagara Bus Station ⇔ Kadugodi Bus Station,SBS-1K,1,3,18z
+Shivajinagara Bus Station ⇔ Kadugodi Bus Station,V-331A,1,3,gv
+Shivajinagara Bus Station ⇔ Kadusonnappanahalli,294-A SBS-KSHH,1,3,h3
+Shivajinagara Bus Station ⇔ Kalyananagara 302,302,1,3,16w
+Shivajinagara Bus Station ⇔ Kalyananagara Bus Stand,293 SBS-LGP-KLN,1,3,yi
+Shivajinagara Bus Station ⇔ Kalyananagara Bus Stand,302 SBS-KLN,1,3,1z9
+Shivajinagara Bus Station ⇔ Kamalanagara BEML Layout,95,1,3,az
+Shivajinagara Bus Station ⇔ Kammasandra,308 SBS-KMS,1,3,1gi
+Shivajinagara Bus Station ⇔ Kammasandra,312 SBS-KTG-KMS,1,3,1lg
+Shivajinagara Bus Station ⇔ Kannuru,296-Q,1,3,1ow
+Shivajinagara Bus Station ⇔ Kattigenahalli,305-K,1,3,lh
+Shivajinagara Bus Station ⇔ Kaval Byrasandra,112,1,3,12g
+Shivajinagara Bus Station ⇔ Kaval Byrasandra,112-A,1,3,1l7
+Shivajinagara Bus Station ⇔ Kendriya Vidyalaya ASC Center,SBS-KVASC,1,3,1f3
+Shivajinagara Bus Station ⇔ Kendriya Vihara Yalahanka,404-A,1,3,nr
+Shivajinagara Bus Station ⇔ Kittaganuru,301-F SBS-KGN,1,3,27e
+Shivajinagara Bus Station ⇔ Kittaganuru,310-E,1,3,gi
+Shivajinagara Bus Station ⇔ Kittaganuru,312,1,3,22n
+Shivajinagara Bus Station ⇔ Kodigehalli,288-A,1,3,1k9
+Shivajinagara Bus Station ⇔ Kodigehalli Canara Bank Colony,288-J,1,3,1ey
+Shivajinagara Bus Station ⇔ Kodigehalli Gate,287-A,1,3,1lt
+Shivajinagara Bus Station ⇔ Kodigehalli Gate,287-N.,1,3,px
+Shivajinagara Bus Station ⇔ Kongovi PVT LTD Peenya,252-A SBS-KGVP,1,3,p6
+Shivajinagara Bus Station ⇔ Koramangala Bus Station,141-E SBS-KRM,1,3,280
+Shivajinagara Bus Station ⇔ Koramangala Bus Station,144-E SBS-KRM,1,3,y1
+Shivajinagara Bus Station ⇔ Kothanuru Hari Nagara,215-U,1,3,1ki
+Shivajinagara Bus Station ⇔ Kotur,329-G,1,3,3w
+Shivajinagara Bus Station ⇔ Kumaraswamy Layout,13-C,1,3,1tn
+Shivajinagara Bus Station ⇔ Kumaraswamy Layout 2nd Stage,13-A,1,3,d5
+Shivajinagara Bus Station ⇔ Kurubarahalli,79-K,1,3,180
+Shivajinagara Bus Station ⇔ Kuthaganahalli,323-J,1,3,19g
+Shivajinagara Bus Station ⇔ Kuthaganahalli,342-WA,1,3,1b4
+Shivajinagara Bus Station ⇔ Kuvempunagara Bus station (BTM Layout),164,1,3,1yu
+Shivajinagara Bus Station ⇔ Laggere New Bus Stand,251-C,1,3,1z1
+Shivajinagara Bus Station ⇔ Machohalli,240-A,1,3,7r
+Shivajinagara Bus Station ⇔ Mahadeshwara Nagara,27,1,3,228
+Shivajinagara Bus Station ⇔ Mahalakshmi Layout,79-D,1,3,jx
+Shivajinagara Bus Station ⇔ Malleshpalya New Bus Station(Vignananagar),314-P,1,3,16k
+Shivajinagara Bus Station ⇔ Maragondanahalli,301 SBS-MRG,1,3,20q
+Shivajinagara Bus Station ⇔ Maragondanahalli,312-A,1,3,v7
+Shivajinagara Bus Station ⇔ Marappa Garden,119,1,3,tr
+Shivajinagara Bus Station ⇔ Marasandra,296-F SBS-MRS,1,3,1j6
+Shivajinagara Bus Station ⇔ Marenahalli Bande,293-P,1,3,wc
+Shivajinagara Bus Station ⇔ Medi Mallasandra,304-D,1,3,xq
+Shivajinagara Bus Station ⇔ Minaznagara,13-K,1,3,vg
+Shivajinagara Bus Station ⇔ Mohankumar Nagara,94-C,1,3,d
+Shivajinagara Bus Station ⇔ Muddinapalya Junction,238-U SBS-MDPC,1,3,8p
+Shivajinagara Bus Station ⇔ Munnekolalu,330,1,3,22b
+Shivajinagara Bus Station ⇔ Munnekolalu,330-H,1,3,1mp
+Shivajinagara Bus Station ⇔ Munnekolalu Cross (Spice Garden),330-M,1,3,xp
+Shivajinagara Bus Station ⇔ Muthkur,321-E,1,3,1dt
+Shivajinagara Bus Station ⇔ Muthsandra,329-D,1,3,29t
+Shivajinagara Bus Station ⇔ NITTE Meenakshi College,SBS-MKC-YHK-NITTE,1,3,1tt
+Shivajinagara Bus Station ⇔ NR Colony,32,1,3,zy
+Shivajinagara Bus Station ⇔ Naduvatti Colony,305-H,1,3,us
+Shivajinagara Bus Station ⇔ Nagaraesh Nagenahalli Dinne,292-D,1,3,7p
+Shivajinagara Bus Station ⇔ Nagaraesh Nagenahalli Dinne,292-D SBS-NNHD,1,3,22s
+Shivajinagara Bus Station ⇔ Nagarahole Nagara,241-Q,1,3,67
+Shivajinagara Bus Station ⇔ Nandini Layout Bus Stand,79-E,1,3,1i1
+Shivajinagara Bus Station ⇔ Neelasandra Bus Stand,144,1,3,a5
+Shivajinagara Bus Station ⇔ Neelasandra Rose Garden,144-E,1,3,zz
+Shivajinagara Bus Station ⇔ Nelamangala Bus Station,258-N,1,3,1ti
+Shivajinagara Bus Station ⇔ Nerige,323-L,1,3,224
+Shivajinagara Bus Station ⇔ Nrupathunganagara Chandana Hospital,238-L SBS-NTN,1,3,1uu
+Shivajinagara Bus Station ⇔ Old Baiyappanahalli,123,1,3,g3
+Shivajinagara Bus Station ⇔ Om Shakthi Temple,303-G,1,3,1ck
+Shivajinagara Bus Station ⇔ Padmanabha Nagara,182,1,3,n1
+Shivajinagara Bus Station ⇔ Peenya 2nd Stage,252-A,1,3,1il
+Shivajinagara Bus Station ⇔ Peenya 2nd stage,270 SBS-PSS,1,3,1vi
+Shivajinagara Bus Station ⇔ Peenya Satellite Bus Station (Basaveshwara),252-A SBS-PSB,1,3,l3
+Shivajinagara Bus Station ⇔ Poornaprajna Layout,210-FA,1,3,1mb
+Shivajinagara Bus Station ⇔ Poornaprajna Layout,210-G SBS-ISRLO-PPLO,1,3,md
+Shivajinagara Bus Station ⇔ Pramod Layout,34-C SBS-PMLO,1,3,208
+Shivajinagara Bus Station ⇔ Pratyangira Temple Turahalli,210-T,1,3,db
+Shivajinagara Bus Station ⇔ Pura,306-S,1,3,1ky
+Shivajinagara Bus Station ⇔ Puttenahalli,290-E SBS-PTH,1,3,3o
+Shivajinagara Bus Station ⇔ Puttenahalli,290-EB SBS-PTH,1,3,1ig
+Shivajinagara Bus Station ⇔ Rachenahalli,290-A,1,3,zt
+Shivajinagara Bus Station ⇔ Ramasandra,223-E SBS-RMS,1,3,3i
+Shivajinagara Bus Station ⇔ Ramohalli,227 SBS-RMH FLYOVER,1,3,26v
+Shivajinagara Bus Station ⇔ Ravi Badavane Jai Maruthi Nagara,80-D SBS-VSD-KBS-RBJN,1,3,2b
+Shivajinagara Bus Station ⇔ Sadaramangala,311-K,1,3,12y
+Shivajinagara Bus Station ⇔ Sadaramangala,311-K SBS-SDMV,1,3,231
+Shivajinagara Bus Station ⇔ Shankarnagh Bus Stand,95-G,1,3,1vb
+Shivajinagara Bus Station ⇔ Sharadamba Nagara,273-H SBS-SDN,1,3,1p3
+Shivajinagara Bus Station ⇔ Shilpa Bakery Horamavu Road,293-N SBS-SPB,1,3,1km
+Shivajinagara Bus Station ⇔ Show Mall Sahakara Nagara,288-A SBS-SLM,1,3,d1
+Shivajinagara Bus Station ⇔ Shri Vidhyanagara,13-E,1,3,38
+Shivajinagara Bus Station ⇔ Shri Vidhyanagara,34-A,1,3,12o
+Shivajinagara Bus Station ⇔ Shrinivagilu Bus Stand,141-E,1,3,9x
+Shivajinagara Bus Station ⇔ Siluvepura,272-B,1,3,88
+Shivajinagara Bus Station ⇔ Singahalli,293-D SBS-SGH,1,3,cd
+Shivajinagara Bus Station ⇔ Singapura,272-E,1,3,1y9
+Shivajinagara Bus Station ⇔ Srinagara Bus Station,37,1,3,g1
+Shivajinagara Bus Station ⇔ St Vincent Palloti School,293 SBS-HNRC-SVPS,1,3,18e
+Shivajinagara Bus Station ⇔ Sultan palya,114-A,1,3,xu
+Shivajinagara Bus Station ⇔ Swamy Vivekananda Metro Station/Isolation Hospital,139 SBS-KFC-SVM,1,3,283
+Shivajinagara Bus Station ⇔ TC Palya,300-P,1,3,1zu
+Shivajinagara Bus Station ⇔ TC Palya,301-E,1,3,215
+Shivajinagara Bus Station ⇔ Tattaguppe,214-A,1,3,fr
+Shivajinagara Bus Station ⇔ Tavarekere,241-S SBS-TVK,1,3,9n
+Shivajinagara Bus Station ⇔ Tavarekere,242-B SBS-TVK,1,3,1kg
+Shivajinagara Bus Station ⇔ Thanisandra,290,1,3,8v
+Shivajinagara Bus Station ⇔ The Light House International Academy,293-R SBS-LHIA,1,3,ht
+Shivajinagara Bus Station ⇔ Thippuru,228-E SBS-TPR,1,3,f9
+Shivajinagara Bus Station ⇔ Ullala Satelite Town,234-E SBS-UST,1,3,5z
+Shivajinagara Bus Station ⇔ Ullala Satelite Town,241-S,1,3,1ma
+Shivajinagara Bus Station ⇔ Vasanthapura,210-G,1,3,1ro
+Shivajinagara Bus Station ⇔ Vidhana Soudha Layout,79-G,1,3,ff
+Shivajinagara Bus Station ⇔ Vidyaniketan School Hebbala,284 SBS-RTN-VNS,1,3,1hl
+Shivajinagara Bus Station ⇔ Vidyaranyapura,290-EB SBS-VRP,1,3,1l3
+Shivajinagara Bus Station ⇔ Vidyaranyapura Bus Station,276-A,1,3,74
+Shivajinagara Bus Station ⇔ Vijayanagara,121-BA,1,3,1pl
+Shivajinagara Bus Station ⇔ Vijayanagara Garage,63-C,1,3,jq
+Shivajinagara Bus Station ⇔ Vijayapura Bus Stand Jangamakote,293-Z,1,3,1ej
+Shivajinagara Bus Station ⇔ Vishwanath Nagenahalli,415,1,3,1lb
+Shivajinagara Bus Station ⇔ Yalahanka Satellite Town,290-EB,1,3,hb
+Shivajinagara Bus Station ⇔ Yarappana Bande,295-D,1,3,hj
+Shivajinagara Bus Station ⇔ Yelahanka Old Town,276-A SBS-VRP-YHKOT,1,3,h7
+Shivajinagara Bus Station ⇔ Yelahanka Old Town,290-E,1,3,9j
+Shivajinagara Bus Station ⇔ Yelahanka Old Town,291-D,1,3,la
+Shivajinagara Bus Station ⇔ Yelenahalli,362-C SBS-YLH,1,3,ds
+Shivajinagara Bus Station ⇔ Yeshawanthapura Bus Station,94,1,3,1qk
+Silk Institute Metro Station ⇔ Kengeri Bus Station,MF-36 SIMS-KTTMC,1,3,12k
+Silk Institute Metro Station ⇔ Kumbalagodu,MF-36,1,3,k8
+Sir M Vishweshwaraiah Railway Station ⇔ Channasandra,MF-1E,1,3,1v9
+Sir M Vishweshwaraiah Railway Station ⇔ Electronic City Wipro Main Gate,MF-500EB SMVR-ELCW,1,3,11z
+Somasandra Palya ⇔ KR Market (Kalasipalya),340-K,1,3,18
+Somashettyhalli ⇔ Kempegowda Bus Station,250-F SMH-KBS,1,3,5p
+Sonnenahalli ⇔ Shivajinagara Bus Station,285-V,1,3,bu
+Sri Venkateshwara Nagara ⇔ Kempegowda Bus Station,286-E SVKTN-KBS,1,3,4f
+Srinagara Bus Station ⇔ Dr BR Ambedkar Bus Terminal (Domlur),201,1,3,9k
+Srinagara Bus Station ⇔ Dr BR Ambedkar Bus Terminal (Domlur),201-N,1,3,w4
+Srinagara Bus Station ⇔ GKVK,285 SRN-KBS-GKVK,1,3,7j
+Srinagara Bus Station ⇔ Swamy Vivekananda Metro Station/Isolation Hospital,201-G SNR-SVM,1,3,ee
+Sriramapura Police Station ⇔ Kempegowda Bus Station,SRPS-SWK-AGS-KBS,1,3,1w6
+St Bentic School ⇔ Banashankari Bus Station,375-D STBEN-BSK,1,3,1wr
+St Bentic School ⇔ Kempegowda Bus Station,227-GA STBEN-KMT-KBS,1,3,22t
+St Clare School ⇔ Bettanapalya,230-B SCS-BTPL,1,3,10o
+St Clare School ⇔ Kengeri Bus Station,222 SCS-KGR,1,3,21a
+St Johns Hospital ⇔ Anekal,345-F STJOHN-ANK,1,3,8b
+St Johns Hospital ⇔ Bannerughatta Circle,345-F,1,3,1he
+St Johns Hospital ⇔ Koramangala Bus Station,SJH-KRMTTMC,1,3,oa
+St Johns Hospital ⇔ Kuguru,342-H STJH-KGR,1,3,1ak
+St Johns Hospital ⇔ Sarjapura,342-H,1,3,1g
+St Joseph's Indian School/ Malya Hospital ⇔ Thanisandra,290-B SJS-THS,1,3,ky
+Sugganahalli ⇔ Kengeri Bus Station,401-Z SGH-KGR,1,3,254
+Suggatta ⇔ Kempegowda Bus Station,283-A SGT-KBS,1,3,wr
+Sultan palya ⇔ Bishop Coton Girls High School,114-A STP-SBS-BCGHS,1,3,28j
+Sultan palya ⇔ JHBCS Layout,13-S,1,3,1j0
+Summanahalli ⇔ Chikka Banavara,248-D,1,3,du
+Summanahalli ⇔ Depot-31 Summanahalli,SMH-D31,1,3,c4
+Summanahalli ⇔ JC Nagara Kurubarahalli,89-D SMH-JCN,1,3,1n2
+Surya Nagara ⇔ Attibele Bus Stand,360 SRN-ATB,1,3,291
+Swamy Vivekananda Metro Station/Isolation Hospital ⇔ Channasandra,MF-1C,1,3,1zd
+Swamy Vivekananda Metro Station/Isolation Hospital ⇔ Chikka Thirupathi,MF-304VS,1,3,27s
+Swamy Vivekananda Metro Station/Isolation Hospital ⇔ Kendriya Vidyalaya ASC Center,139 SVMS-KVASC,1,3,19p
+Swamy Vivekananda Metro Station/Isolation Hospital ⇔ Rameshnagara,MF-1F,1,3,29s
+TC Palya ⇔ B Channasandra Bridge(Ramamurthy Nagara Ring Road),301-T,1,3,6p
+Tavarekere ⇔ BEL Factory,242-B TVK-BELF,1,3,1zr
+Tavarekere ⇔ Udhbhava School,221-J TVK-UDBVS,1,3,273
+Thammenahalli ⇔ Mysore Road Bus Station,248-P,1,3,5l
+Therelek Engineers PVT LTD Peenya ⇔ Kempegowda Bus Station,265-A TEPL-KBS,1,3,10j
+Thindlu ⇔ Mayohall,306-B TDL-MYH,1,3,110
+Thyamagondlu ⇔ Kempegowda Bus Station,258-M TMG-KBS,1,3,yo
+Tin Factory ⇔ Channasandra,MF-304K,1,3,28s
+Tin Factory ⇔ Chikka Thirupathi,304-VB,1,3,zd
+Tin Factory ⇔ Devanagondi,506 TNF-DVG,1,3,1a7
+Tin Factory ⇔ Dinnur,319-J TNF-DNR,1,3,je
+Tin Factory ⇔ Doddaballapura Bus Stand,316-YD,1,3,20g
+Ullala Satelite Town ⇔ Jnanakshi Vidyaniketan School,234-E UST-JNSVS,1,3,tx
+Ullala Satelite Town ⇔ Kempegowda Bus Station,234-E KMT FLY,1,3,1x2
+Ullala Satelite Town ⇔ Mysore Road Bus Station,234-A UST-MRBS,1,3,tc
+Ullala Satelite Town ⇔ Yeshawanthapura Bus Station,515-A,1,3,i2
+Uttarahalli ⇔ Electronic City,378-B,1,3,16i
+Vajrakattepalya ⇔ Kempegowda Bus Station,258-SA VKP-KBS,1,3,u2
+Vidhana Soudha Karnataka High Court ⇔ Adarshanagara,VSD-ADR,1,3,16c
+Vidhana Soudha Karnataka High Court ⇔ Brahma Devara Gudda,241-D VSD-BDG,1,3,ls
+Vidhana Soudha Karnataka High Court ⇔ DLF Home Town,369-K VSD-DLF,1,3,1xe
+Vidhana Soudha Karnataka High Court ⇔ Judicial Layout Water Tank,284-C VSD-JLOW,1,3,16z
+Vidhana Soudha Karnataka High Court ⇔ Kaggalipura,MF-211AC VSD-KGP,1,3,1wo
+Vidhana Soudha Karnataka High Court ⇔ Mahadeshwara Nagara,25-B BTMMD-VSD,1,3,1tx
+Vidhana Soudha Karnataka High Court ⇔ N R I  Layout,301-A VSD-NRIL,1,3,14u
+Vidhana Soudha Karnataka High Court ⇔ Srinagara Bus Station,36 VSD-KMTFLY-SRN,1,3,u9
+Vidhana Soudha ⇔ 2nd Stage 9th Block Nagarabhavi,244-C VSD,1,3,y7
+Vidhana Soudha ⇔ BEML Layout 5th stage,225-C VSD,1,3,33
+Vidhana Soudha ⇔ Bhavani Nagara 2nd Stage,243-J VSD,1,3,1gp
+Vidhana Soudha ⇔ Devanahalli Old Bus Stand,298-M VSD-DVH,1,3,ob
+Vidhana Soudha ⇔ Girinagara Extension,36-B VSD,1,3,6u
+Vidhana Soudha ⇔ H Krishnappa Layout,43-J VSD-HKLO,1,3,7k
+Vidhana Soudha ⇔ K Narayanapura Main Bus Stand,286-F VSD-KNP,1,3,mn
+Vidhana Soudha ⇔ Kempegowda Swimming Pool,35 VSD-KMT-KSGP,1,3,1q2
+Vidhana Soudha ⇔ Kodigehalli Canara Bank Colony,288-G VSD-KDHCB,1,3,1mt
+Vidhana Soudha ⇔ Nandini Layout Bus Stand,79E VSD-NLO,1,3,1yy
+Vidhana Soudha ⇔ Nelamangala Bus Station,258-C VSD FLY,1,3,a7
+Vidhana Soudha ⇔ Rameshnagara,314-T VSD-RMN,1,3,1qs
+Vidhana Soudha ⇔ Shankarnagh Bus Stand,96-B VSD,1,3,jh
+Vidhana Soudha ⇔ Shankarnagh Bus Stand,96-B VSD-KBS-SKRNBS,1,3,24t
+Vidhana Soudha ⇔ Vidhana Soudha Layout,79-G VSD-VSDLO,1,3,206
+Vidhana Soudha ⇔ Vivekananda Nagara,43-A VSD-VKNN,1,3,26d
+Vidyaniketan School Hebbala ⇔ Jalahalli Cross,507 VNS-HBL-GMC-JHC,1,3,bp
+Vidyaniketan School Hebbala ⇔ KR Pura Govt Hospital,500-Q VNS-TNF-KRPGH,1,3,1a6
+Vidyapeeta Circle ⇔ Kempegowda Bus Station,43-A VPC-VSD-KBS,1,3,1p
+Vidyaranyapura Bus Station ⇔ Central Silk Board,503-A,1,3,1lj
+Vidyaranyapura Bus Station ⇔ Electronic City Wipro Main Gate,NICE-7,1,3,1az
+Vidyaranyapura Bus Station ⇔ Laggere New Bus Stand,MF-28,1,3,l1
+Vidyaranyapura Bus Station ⇔ Shanthinagara Bus Station,CALLBUS-7,1,3,o
+Vidyaranyapura ⇔ BEML Layout 5th stage,401-RC VRP-BEML5,1,3,1lf
+Vidyaranyapura ⇔ Kengeri Bus Station,401-VK,1,3,1no
+Vijayanagara Garage ⇔ Anugraha Badavane (Bilekahalli),MF-45 VTTMC-ABG,1,3,25m
+Vijayanagara Garage ⇔ Banashankari Bus Station,MF-45,1,3,6s
+Vijayanagara Garage ⇔ Electronic City Wipro Main Gate,600-KB,1,3,22d
+Vijayanagara Garage ⇔ Jai Bheema Nagara,60-L,1,3,rb
+Vijayanagara Garage ⇔ Jeevanbheema Nagara,138 VTTMC-KBS-JBN,1,3,282
+Vijayanagara Garage ⇔ Kuvempunagara Bus station (BTM Layout),60-E,1,3,z0
+Vijayanagara Garage ⇔ Marenahalli (Marenahalli Metro Station),60-A,1,3,22m
+Vijayanagara Garage ⇔ Muddinapalya Junction,238-U VTTMC-JNM,1,3,8
+Vijayanagara Garage ⇔ Panchasheela Nagara,MF-47,1,3,26g
+Vijayanagara Metro Station ⇔ Shankarnagh Bus Stand,MF-13,1,3,23u
+Vijayanagara ⇔ Banashankari Bus Station,MF-12,1,3,1h
+Vijayanagara ⇔ ITPL,V-500K,1,3,ik
+Vijayanagara ⇔ Vijayanagara,MF-44,1,3,17h
+Vijayapura Bus Stand Jangamakote ⇔ Doddaballapura Bus Stand,298-MV VJP-DVH-DBP,1,3,mb
+Vijayapura Bus Stand Jangamakote ⇔ Hosakote Bus Stand (Old),381-C HSK-NGRH-VJP,1,3,qo
+Vijayapura Bus Stand Jangamakote ⇔ Yelahanka Old Town,298-Y VJP-YLR-YHKOT,1,3,28e
+Vishwanathapura ⇔ Kempegowda Bus Station,297-K VNP-KBS,1,3,h6
+Vishwapriya Layout Cross ⇔ Shivajinagara Bus Station,362-CA,1,3,1sr
+Vivek Nagara ⇔ Attibele Bus Stand,KBS-3A VVK-ATB,1,3,m2
+Vivek Nagara ⇔ Hebbala Bridge,TR-3 VVK-SBS-RTN-HBL,1,3,p0
+White Field Bus Station (Vydehi Hospital) ⇔ Attibele Bus Stand,V-328H WTTMC-ATB,1,3,1d5
+White Field Bus Station (Vydehi Hospital) ⇔ Kempegowda International Airport,KIA-15,1,3,279
+White Field Bus Station (Vydehi Hospital) ⇔ Kempegowda International Airport,KIA-4A,1,3,kp
+White Field Bus Station (Vydehi Hospital) ⇔ Kempegowda International Airport,KIA-6W,1,3,dd
+White Field Bus Station (Vydehi Hospital) ⇔ Varthur kodi,WTTMC-KDLG-VRTKD,1,3,10f
+White Field Bus Station (Vydehi Hospital) ⇔ Wonderla Amusement Park,V-226WF,1,3,23w
+Yalahanka Satellite Town ⇔ Bagalur,289-AA,1,3,1tf
+Yalahanka Satellite Town ⇔ CV Raman Nagara,MBS-6 YST-CVRN,1,3,157
+Yalahanka Satellite Town ⇔ Girinagara 2nd Stage,284-H,1,3,k9
+Yelahanka Old Town ⇔ Bagalur,289-A,1,3,1rf
+Yelahanka Old Town ⇔ Bande Kodigehallipalya Cross,289-A YHKOT-BKHP,1,3,j0
+Yelahanka Old Town ⇔ Beerasandra Chapradakallu,298-MF YHKOT-BSR,1,3,16m
+Yelahanka Old Town ⇔ Beerasandra Chapradakallu,YHK-EHSR-BRS,1,3,gc
+Yelahanka Old Town ⇔ Bhovipalya,297-F YHKOT-BVP,1,3,15g
+Yelahanka Old Town ⇔ Byalahalli,289-AB,1,3,55
+Yelahanka Old Town ⇔ Central Silk Board,500-D YHKOT-CSB,1,3,23z
+Yelahanka Old Town ⇔ Devanahalli Old Bus Stand,298-M YHK-DVHOB,1,3,m8
+Yelahanka Old Town ⇔ Doddaballapura Bus Stand,285-MP,1,3,1f1
+Yelahanka Old Town ⇔ GKVK,YHKOT-GKVK,1,3,1sd
+Yelahanka Old Town ⇔ Gadenahalli,299-E YHKOT-GDH,1,3,89
+Yelahanka Old Town ⇔ Heritage Estate Rajanukunte,285-MP YHKOT-HRTAD,1,3,1xj
+Yelahanka Old Town ⇔ Hoovinayakanahalli,289-CA,1,3,270
+Yelahanka Old Town ⇔ Hosakote Bus Stand (Old),280-F,1,3,nj
+Yelahanka Old Town ⇔ Hosakote Bus Stand (Old),289-D HSK-BYRTH-YHKOT,1,3,70
+Yelahanka Old Town ⇔ Hosakote Bus Stand (Old),289-F,1,3,1zq
+Yelahanka Old Town ⇔ Hosakote Bus Stand (Old),289-LA,1,3,tw
+Yelahanka Old Town ⇔ Hunasuru,289-P,1,3,1if
+Yelahanka Old Town ⇔ KR Pura Govt Hospital,507-DY,1,3,1m3
+Yelahanka Old Town ⇔ Kadayarappanahalli,289-B YHK-KDYPH,1,3,1se
+Yelahanka Old Town ⇔ Kalyananagara Bus Stand,500-AA YHKOT-KLN,1,3,14m
+Yelahanka Old Town ⇔ Kengeri Bus Station,401-AF,1,3,jl
+Yelahanka Old Town ⇔ Kundana Circle,298-E,1,3,13q
+Yelahanka Old Town ⇔ Laggere New Bus Stand,401-AC,1,3,1o0
+Yelahanka Old Town ⇔ MVJ Medical Hospital,289-L,1,3,19m
+Yelahanka Old Town ⇔ Maralakunte Colony,289-F YHKOT-MRC,1,3,84
+Yelahanka Old Town ⇔ Marasandra,289-G YHK-MRS,1,3,29j
+Yelahanka Old Town ⇔ Mittaganahalli 1,280-K YHK-MTH,1,3,1uf
+Yelahanka Old Town ⇔ Mylanahalli,281-F YHKOT-MLH,1,3,jj
+Yelahanka Old Town ⇔ Nagawara Junction,290-EN,1,3,1kj
+Yelahanka Old Town ⇔ Neeleri,298-ME YHK-NLR,1,3,8o
+Yelahanka Old Town ⇔ Nelamangala Bus Station,401-AN,1,3,w9
+Yelahanka Old Town ⇔ Nelamangala Bus Station,407,1,3,zl
+Yelahanka Old Town ⇔ Nelamangala Bus Station,407-F,1,3,188
+Yelahanka Old Town ⇔ Peenya 2nd Stage,401-A,1,3,173
+Yelahanka Old Town ⇔ Razakpalya,289-A YHKOT-RZKP,1,3,1c3
+Yelahanka Old Town ⇔ Sonnenahalli,298-MG YHKOT-SNH,1,3,1qm
+Yelahanka Old Town ⇔ St Joseph Boys High School Musuem Road,290-E YHKOT-SJBHS,1,3,1jc
+Yelahanka Old Town ⇔ Sunkadakatte,401-C,1,3,10z
+Yelahanka Old Town ⇔ Vijayapura Bus Stand Jangamakote,289-AV,1,3,e9
+Yelahanka Old Town ⇔ Vijayapura Bus Stand Jangamakote,298-MV YHKOT-VJP,1,3,tf
+Yelahanka Old Town ⇔ Vishwanathapura,297-K,1,3,cq
+Yelahanka Old Town ⇔ Yelahanka Old Town,407-B,1,3,1jo
+Yelahanka Old Town ⇔ Yelahanka Old Town,407-C,1,3,hm
+Yelahanka Old Town ⇔ Yelahanka Old Town,CHAKRA-10,1,3,27o
+Yelahanka Old Town ⇔ Yeshawanthapura Railway Station,401-AR,1,3,187
+Yeshawanthapura Bus Station ⇔ BEML Gate,314-B YBS-BEMLG,1,3,vx
+Yeshawanthapura Bus Station ⇔ BEML Layout 5th stage,MF-401RE,1,3,v2
+Yeshawanthapura Bus Station ⇔ Bande Kodigehallipalya Cross,401-JC,1,3,fi
+Yeshawanthapura Bus Station ⇔ Bandi Reddy Circle,79-B YTTMC-BRC,1,3,22p
+Yeshawanthapura Bus Station ⇔ Bidadi,401-Z,1,3,v5
+Yeshawanthapura Bus Station ⇔ Cauvery Nagara,89-A YTTMC-CVN,1,3,yh
+Yeshawanthapura Bus Station ⇔ Central Silk Board,500-BC YTTMC-MTK-CSB,1,3,10e
+Yeshawanthapura Bus Station ⇔ Central Silk Board,500-DJ,1,3,sh
+Yeshawanthapura Bus Station ⇔ Central Silk Board,500-QD YBS-CSB,1,3,m3
+Yeshawanthapura Bus Station ⇔ Chikka Banavara,271-PA YTTMC-CKB,1,3,wb
+Yeshawanthapura Bus Station ⇔ Chikka Banavara,MF-250AC,1,3,12d
+Yeshawanthapura Bus Station ⇔ Chowdeshwarinagara JP Park,99-B YTTMC-CJP,1,3,26b
+Yeshawanthapura Bus Station ⇔ Doddaballapura Bus Stand,253-LB,1,3,1t7
+Yeshawanthapura Bus Station ⇔ GKW Layout,75-E YTTMC-MBS-GKWLO,1,3,12
+Yeshawanthapura Bus Station ⇔ Geleyara Balaga Extension Rajajinagara,89-B YTTMC-GBE,1,3,1gs
+Yeshawanthapura Bus Station ⇔ HAL Main Gate,335-E YTTMC-KBS-HAL,1,3,un
+Yeshawanthapura Bus Station ⇔ Hesaraghatta,MF-253HE,1,3,1cr
+Yeshawanthapura Bus Station ⇔ Hunasuru,401-J,1,3,kh
+Yeshawanthapura Bus Station ⇔ KR Pura Govt Hospital,290-Y YTTMC-KRPGH,1,3,d9
+Yeshawanthapura Bus Station ⇔ KR Pura Govt Hospital,500-BA YTTMC-KRPGH,1,3,1b8
+Yeshawanthapura Bus Station ⇔ KR Pura Govt Hospital,500-QA YTTMC-GGP-KRPGH,1,3,1jt
+Yeshawanthapura Bus Station ⇔ KR Pura Metro Station,502-CT YTTMC-GGP-KRPMS,1,3,fp
+Yeshawanthapura Bus Station ⇔ KR Pura Railway Station,500-B YTTMC-YRS-KRPRS,1,3,n7
+Yeshawanthapura Bus Station ⇔ KR Pura Railway Station,507-E,1,3,1ot
+Yeshawanthapura Bus Station ⇔ Kaggalipura,401-L,1,3,17p
+Yeshawanthapura Bus Station ⇔ Kamalanagara BEML Layout,96-B YTTMC-BEMLKN,1,3,196
+Yeshawanthapura Bus Station ⇔ Karekal Cross,258 YTTMC-NMG-KRC,1,3,29e
+Yeshawanthapura Bus Station ⇔ Kempegowda Bus Station,82-A YTTMC-VSD-KBS,1,3,1yl
+Yeshawanthapura Bus Station ⇔ Kengeri Bus Station,MF-401KB,1,3,1jf
+Yeshawanthapura Bus Station ⇔ Mahalakshmi Layout,77 YTTMC-MLO,1,3,253
+Yeshawanthapura Bus Station ⇔ Marathahalli Bridge,500-BA,1,3,1oz
+Yeshawanthapura Bus Station ⇔ Meesagaanahalli,401-Y,1,3,af
+Yeshawanthapura Bus Station ⇔ Mohankumar Nagara,99-A YTTMC-MKN,1,3,1e4
+Yeshawanthapura Bus Station ⇔ Mysore Road Bus Station,410-FA YTTMC-MRBS,1,3,27y
+Yeshawanthapura Bus Station ⇔ Nandini Layout Bus Stand,80-A YTTMC-NLO,1,3,c2
+Yeshawanthapura Bus Station ⇔ Nayandahalli Junction,401-NY,1,3,27c
+Yeshawanthapura Bus Station ⇔ Nelamangala Bus Station,253-B,1,3,vt
+Yeshawanthapura Bus Station ⇔ Nelamangala Bus Station,MF-258CB,1,3,j2
+Yeshawanthapura Bus Station ⇔ RK Hegde Nagara,290-Y,1,3,1b3
+Yeshawanthapura Bus Station ⇔ Shankarnagh Bus Stand,96-G YTTMC-SNB,1,3,14x
+Yeshawanthapura Bus Station ⇔ Shivajinagara Bus Station,79-A,1,3,kv
+Yeshawanthapura Bus Station ⇔ Varna Factory Dabaspet Industrial Area,258-DN,1,3,21b
+Yeshawanthapura Bus Station ⇔ Vidyaniketan School Hebbala,401-B YBS-VNS,1,3,4x
+Yeshawanthapura Bus Station ⇔ Vidyaranyapura Bus Station,MF-28 YTTMC-VRP,1,3,15o
+Yeshawanthapura Bus Station ⇔ Yelahanka Old Town,MF-401,1,3,1mv
+Yeshawanthapura Bus Station ⇔ Yeshawanthapura Bus Station,MF-271R,1,3,21f
+Yeshawanthapura Bus Station ⇔ Yeshawanthapura Railway Station,90E YBS-YRS,1,3,26u
+Yeshawanthapura New Railway Station ⇔ Abbigere,271-A YNRS-ABG,1,3,1pd
+Yeshawanthapura New Railway Station ⇔ Yelahanka Old Town,401-BR,1,3,1f7
+Yeshawanthapura Railway Station ⇔ BEML Layout 5th stage,401-RC YPRS-BEML5,1,3,28x
+Yeshawanthapura Railway Station ⇔ Raghavendra Colony,52-E,1,3,km
